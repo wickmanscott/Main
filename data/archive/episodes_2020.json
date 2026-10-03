@@ -6,7 +6,7 @@
   "notes": [
     "Recovered from public podcast directory listings (Apple Podcasts, Listen Notes, RadioPublic) in Oct 2026.",
     "The directories list 17 episodes starting 2020-07-01 across 2 seasons; 11 episode ticker lists were recoverable.",
-    "Episodes 1-5 (2020-07-01 to 2020-07-10) were not recoverable; run `watchlist archive-import feed.xml` with the original RSS to fill gaps.",
+    "Not found: the earliest July 2020 episodes (2020-07-01 to 2020-07-10) and anything after the August 3rd episode. Add them here by hand from the original RSS feed if you have it.",
     "Format: daily episodes in July 2020, then weekly ('Week of ...') from August 2020. 5 tickers per episode (one had 6).",
     "Tagline: '5 stocks to add to your watchlist weekly'. Episodes kept 'brief and to the point'. Disclaimer: not a financial advisor, do your own DD."
   ],
