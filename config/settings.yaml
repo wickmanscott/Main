@@ -1,0 +1,107 @@
+# The (Stock) Watchlist agent configuration.
+# Every value here can be overridden per-run from the CLI where noted.
+
+show:
+  title: "The (Stock) Watchlist"
+  host: "Scott Wickman"
+  handle: "@scottiewick"
+  tagline: "5 stocks to add to your watchlist every week. Brief and to the point."
+  description: >-
+    Every week Scott Wickman gives you 5 stocks to add to your watchlist —
+    momentum leaders, social-buzz names, and one under-the-radar setup — picked
+    by a backtested scoring model and explained in under 10 minutes.
+    Not financial advice. Always do your own DD.
+  language: "en-us"
+  category: "Business"
+  subcategory: "Investing"
+  explicit: false
+  email: ""            # optional, shown in the feed's <itunes:owner>
+  artwork_url: ""      # 1400-3000px square JPG/PNG; required by Apple Podcasts
+
+universe:
+  # "nasdaqtrader": all NASDAQ/NYSE/AMEX common stocks from the official symbol directory.
+  # "file": one ticker per line from universe.file.
+  source: nasdaqtrader
+  file: config/universe.txt
+  extra: []            # always included (e.g. names you want tracked)
+  exclude: []
+  min_price: 2.0
+  min_avg_dollar_volume: 5000000   # 20-day average, USD
+  max_tickers: 3000                # most liquid N after filters (keeps runs fast)
+  benchmark: SPY
+
+data:
+  cache_dir: data/cache
+  lookback_days: 600               # calendar days of history for live scans (needs ~252 trading days)
+
+social:
+  enabled: true
+  apewisdom_pages: 3               # 100 tickers per page
+  stocktwits: true
+  history_dir: data/social_history # snapshots are saved every run so social can be backtested later
+
+# Feature weights for the composite score. Tuned weights from `watchlist backtest --optimize`
+# are written to config/weights.json and take precedence over these defaults.
+weights:
+  rs: 0.20              # IBD-style weighted relative strength
+  mom_12_1: 0.10        # 12-month return skipping the last month
+  prox_52w_high: 0.15   # closeness to 52-week high (George & Hwang)
+  accel: 0.05           # momentum acceleration (1m vs 3m pace)
+  trend_template: 0.15  # Minervini-style stage-2 trend checklist
+  rsi_sweet: 0.05       # RSI in the strong-but-not-overbought zone
+  ud_volume: 0.10       # up-day vs down-day volume (accumulation)
+  rel_volume: 0.05      # recent volume vs 50-day average
+  tightness: 0.10       # volatility contraction (ATR10 / ATR50)
+  breakout: 0.05        # fresh 20-day high on above-average volume
+
+# Social buzz is live-only until enough snapshot history exists to backtest it, so it only
+# nudges the composite (a tiebreaker). Buzz gets its own dedicated slot in the episode instead.
+# Raise this once data/social_history/ has enough weeks to prove it predicts returns.
+social_weight: 0.05
+
+selection:
+  picks: 5
+  slots:                # the podcast's 5-stock mix
+    momentum: 3         # top composite scores
+    social: 1           # biggest mention acceleration that also passes technical gates
+    sleeper: 1          # strong setup with low attention: "flying under the radar"
+  min_trend_template: 0.625
+  max_extension: 0.25   # skip names >25% above their 20-day average (chasing risk)
+  max_per_sector: 2
+  allow_repeat: true    # momentum names can stay on the list week to week (like DKNG/SPAQ in 2020)
+  max_repeat_weeks: 3
+
+backtest:
+  years: 5
+  horizons: [5, 10, 21]   # trading days; 5 = one week (the podcast cadence)
+  primary_horizon: 5
+  rebalance_every: 5      # trading days
+  cost_bps: 10            # round-trip cost per pick
+  optimize:
+    train_weeks: 104
+    test_weeks: 26
+    candidates: 400
+    seed: 7
+    objective: blend      # "ic", "excess", or "blend"
+
+llm:
+  model: claude-opus-5-5
+  effort: high
+  max_tokens: 32000
+  target_words: [900, 1400]   # ~6-9 minutes spoken: brief and to the point
+
+tts:
+  provider: edge          # "edge" (free), "elevenlabs" (clone your own voice), or "none"
+  edge_voice: en-US-AndrewNeural
+  edge_rate: "+5%"
+  elevenlabs_model: eleven_multilingual_v2
+  # ELEVENLABS_API_KEY and ELEVENLABS_VOICE_ID come from the environment
+
+publish:
+  episodes_dir: episodes
+  site_dir: docs
+  ledger_path: data/ledger/picks.csv
+  site_url: "https://wickmanscott.github.io/main"
+  # Audio enclosure URL. {tag} and {file} are filled in per episode.
+  # Default matches the GitHub Release created by the weekly workflow.
+  audio_url_template: "https://github.com/wickmanscott/main/releases/download/{tag}/{file}"

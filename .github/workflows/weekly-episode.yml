@@ -1,0 +1,94 @@
+name: Weekly episode
+
+on:
+  schedule:
+    # Sundays 21:30 UTC (5:30pm ET in summer, 4:30pm ET in winter), after the weekly close.
+    - cron: "30 21 * * 0"
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: "Publish (update ledger, feed, and create the audio release)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-episode
+  cancel-in-progress: false
+
+jobs:
+  episode:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -e .
+
+      - name: Restore market data cache
+        uses: actions/cache@v4
+        with:
+          path: data/cache
+          key: market-${{ github.run_id }}
+          restore-keys: market-
+
+      - name: Research, write, and voice the episode
+        id: ep
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          ELEVENLABS_VOICE_ID: ${{ secrets.ELEVENLABS_VOICE_ID }}
+          PUBLISH: ${{ github.event_name == 'schedule' || inputs.publish }}
+        run: |
+          if [ "$PUBLISH" = "true" ]; then
+            watchlist -v episode
+          else
+            watchlist -v episode --no-publish
+          fi
+
+      - name: Upload audio as a GitHub release
+        if: steps.ep.outputs.audio_path != '' && (github.event_name == 'schedule' || inputs.publish)
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ steps.ep.outputs.audio_tag }}
+          AUDIO: ${{ steps.ep.outputs.audio_path }}
+          TITLE: ${{ steps.ep.outputs.title }}
+          NOTES: ${{ steps.ep.outputs.notes_path }}
+        run: |
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" "$AUDIO" --clobber
+          else
+            gh release create "$TAG" "$AUDIO" --title "$TITLE" --notes-file "$NOTES"
+          fi
+
+      - name: Commit episode, ledger, and feed
+        if: github.event_name == 'schedule' || inputs.publish
+        env:
+          EP_DATE: ${{ steps.ep.outputs.date }}
+        run: |
+          git config user.name "watchlist-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for p in episodes docs data/ledger data/social_history; do
+            [ -e "$p" ] && git add "$p"
+          done
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
+          else
+            git commit -m "Episode $EP_DATE"
+            git push
+          fi
+
+      - name: Keep the episode files as a build artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: episode-${{ steps.ep.outputs.date || github.run_id }}
+          path: episodes/
+          retention-days: 30

@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.env
+
+# Downloaded market data (re-fetchable; cached in CI with actions/cache)
+data/cache/
+
+# Audio is published as GitHub Release assets, not committed
+episodes/**/*.mp3
