@@ -101,7 +101,7 @@ publish:
   episodes_dir: episodes
   site_dir: docs
   ledger_path: data/ledger/picks.csv
-  site_url: "https://wickmanscott.github.io/main"
+  site_url: "https://wickmanscott.github.io/Main"
   # Audio enclosure URL. {tag} and {file} are filled in per episode.
   # Default matches the GitHub Release created by the weekly workflow.
-  audio_url_template: "https://github.com/wickmanscott/main/releases/download/{tag}/{file}"
+  audio_url_template: "https://github.com/wickmanscott/Main/releases/download/{tag}/{file}"

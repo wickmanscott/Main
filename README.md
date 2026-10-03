@@ -95,7 +95,7 @@ guarantees future results.
      set `tts.provider: elevenlabs` in `config/settings.yaml`. The default is a free
      Microsoft neural voice (edge-tts).
 3. **Turn on GitHub Pages:** Settings → Pages → deploy from the default branch, folder `/docs`.
-   Your feed will be at `https://wickmanscott.github.io/main/feed.xml`. Update
+   Your feed will be at `https://wickmanscott.github.io/Main/feed.xml`. Update
    `publish.site_url` and `publish.audio_url_template` if the repo or account name changes.
 4. **Add cover art:** set `show.artwork_url` (a square image, 1400 to 3000 px). Apple
    requires it.
