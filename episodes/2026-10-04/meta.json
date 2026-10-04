@@ -1,0 +1,58 @@
+{
+ "title": "Week of October 5th, 2026. $MPC $MTRN $TWLO $NVDA $CHEF",
+ "script_source": "claude-session",
+ "words": 1442,
+ "validation_issues": [],
+ "weights_source": "research rubric (episode 1, no quant scan)",
+ "audio": {
+  "path": "/home/user/Main/episodes/2026-10-04/watchlist-2026-10-04.mp3",
+  "bytes": 7378605,
+  "duration_sec": 614,
+  "provider": "kokoro",
+  "file": "watchlist-2026-10-04.mp3",
+  "tag": "episode-2026-10-04",
+  "url": "https://github.com/wickmanscott/Main/releases/download/episode-2026-10-04/watchlist-2026-10-04.mp3"
+ },
+ "picks": [
+  {
+   "ticker": "MPC",
+   "slot": "momentum",
+   "price": {
+    "value": 420.15,
+    "date": "2026-10-01"
+   }
+  },
+  {
+   "ticker": "MTRN",
+   "slot": "momentum",
+   "price": {
+    "value": 312.16,
+    "date": "2026-10-02"
+   }
+  },
+  {
+   "ticker": "TWLO",
+   "slot": "momentum",
+   "price": {
+    "value": 301.27,
+    "date": "2026-10-02"
+   }
+  },
+  {
+   "ticker": "NVDA",
+   "slot": "social",
+   "price": {
+    "value": 233.95,
+    "date": "2026-10-02"
+   }
+  },
+  {
+   "ticker": "CHEF",
+   "slot": "sleeper",
+   "price": {
+    "value": 117.94,
+    "date": "2026-10-02"
+   }
+  }
+ ]
+}

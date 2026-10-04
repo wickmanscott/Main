@@ -1,0 +1,6 @@
+episode_date,ticker,slot,ref_close,composite,composite_rank
+2026-10-04,MPC,momentum,420.15,0.767,1
+2026-10-04,MTRN,momentum,312.16,0.667,2
+2026-10-04,TWLO,momentum,301.27,0.8,3
+2026-10-04,CHEF,sleeper,117.94,0.667,5
+2026-10-04,NVDA,social,233.95,0.767,4
