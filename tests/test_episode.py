@@ -143,3 +143,4 @@ def test_speech_normalizer():
     out = normalize_for_speech("ticker N-V-D-A near $142.50, up 12% in 2026. Russell 2000. Follow @scottiewick")
     assert "N V D A" in out and "142.50 dollars" in out and "12 percent" in out
     assert "twenty twenty-six" in out and "Russell 2000" in out and "Scottie Wick" in out
+    assert normalize_for_speech("the low 80s, then the mid 90s") == "the low eighties, then the mid nineties"

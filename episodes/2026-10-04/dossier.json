@@ -1,0 +1,1246 @@
+{
+ "show": {
+  "title": "The (Stock) Watchlist",
+  "host": "Scott Wickman",
+  "handle": "@scottiewick",
+  "tagline": "5 stocks to add to your watchlist every week. Brief and to the point."
+ },
+ "data_as_of": "2026-10-02",
+ "week_of": "2026-10-05",
+ "title": "Week of October 5th, 2026. $MPC $MTRN $TWLO $NVDA $CHEF",
+ "market_pulse": {
+  "headline": "Weak news turned out to be good news for stocks. September added only 29,000 jobs, which cut the odds of an October Fed hike from about 64% to about 20% and sent the Nasdaq 100 to a record close (30,807.93). But a nonstop bond sell-off pushed the 10-year yield to its highest level since 2002 (5.28% close), so the S&P 500 (-0.3%) and Dow (-1.3%) still lost ground on the week. Only the Nasdaq rose (+0.5%), carried by tech and chip stocks.",
+  "indexes": [
+   {
+    "name": "S&P 500",
+    "close": 7722.72,
+    "date": "2026-10-02",
+    "day_change_pct_oct2": 0.73,
+    "week_change_pct": -0.27,
+    "ytd_change_pct": 12.8,
+    "source": "AP via WTOP https://wtop.com/news/2026/10/how-major-us-stock-indexes-fared-friday-10-2-2026 ; weekly % checked against AP 9/25 close of 7,743.41 (https://wtop.com/national/2026/09/how-major-us-stock-indexes-fared-friday-9-25-2026) and Morningstar (-0.27%); YTD 12.81% per Advisor Perspectives https://www.advisorperspectives.com/dshort/updates/2026/10/02/s-p-500-snapshot-stocks-rally-to-close-out-flat-week",
+    "note": "Up 56.27 points on Friday and about 1% below its record close of 7,798.99 (Aug 13, 2026). Stuck in a two-month range under 7,800. 50-day MA 7,657.66 and 200-day MA 7,225.82 (StreetStats, Oct 2), so the index sits above both. Equal-weight S&P is up only 9.47% YTD. Daily path: Mon -0.77% (7,683.69), Tue -0.16% (7,670.84), Wed about -0.25% (7,651.54), Thu +0.19% (7,666.45), Fri +0.73%. Q3 2026: S&P +2.0%."
+   },
+   {
+    "name": "Dow Jones Industrial Average",
+    "close": 51176.96,
+    "date": "2026-10-02",
+    "day_change_pct_oct2": 0.49,
+    "week_change_pct": -1.26,
+    "ytd_change_pct": 6.5,
+    "source": "AP via WTOP https://wtop.com/news/2026/10/how-major-us-stock-indexes-fared-friday-10-2-2026 ; Investing.com https://www.investing.com/news/stock-market-news/us-stock-futures-drift-higher-with-nonfarm-payrolls-in-focus-4928740",
+    "note": "Up 250.40 points on Friday. The weekly loss was about 652 points, computed from AP's 9/25 close of 51,828.62; AP rounds it to -1.3%. One summary said the Dow 'shed 319 points' on the week, which is wrong. Wednesday's drop of about 444 points (to 50,906.05) came after the PCE report. Financials weighed heavily. Sept 2026: Dow -4.9% and Q3 -2.7%, per TheStreet/Yahoo."
+   },
+   {
+    "name": "Nasdaq Composite",
+    "close": 27190.86,
+    "date": "2026-10-02",
+    "day_change_pct_oct2": 1.19,
+    "week_change_pct": 0.45,
+    "ytd_change_pct": 17,
+    "source": "Nasdaq Chartstopper https://www.nasdaq.com/economic-institute/chartstopper-100226 ; Investing.com close 27,190.86 ; AP via WTOP for weekly (+0.5%) and YTD (+17%)",
+    "note": "Up 319.27 points on Friday. It set an intraday record but closed below its record close (investingLive). One source printed 27,192.87, a small discrepancy. It was the only major index up on the week. Q3 +2.5% and Sept +1.7%."
+   },
+   {
+    "name": "Nasdaq 100",
+    "close": 30807.93,
+    "date": "2026-10-02",
+    "day_change_pct_oct2": 1,
+    "week_change_pct": null,
+    "ytd_change_pct": 22.01,
+    "source": "investingLive https://investinglive.com/news/investinglive-americas-fx-news-wrap-2-oct-nasdaq-100-closes-at-a-record-after-soft-us-jobs-treasury-yields-reverse-higher/ ; YTD from Slickcharts https://www.slickcharts.com/nasdaq100/returns/ytd",
+    "note": "Record close, up 306.37 points. No reliable weekly % was found; one lower-quality source put QQQ at +1.14% for the week, which is not verified. The YTD figure is from Slickcharts and may be a total return."
+   },
+   {
+    "name": "Russell 2000",
+    "close": 2832.9,
+    "date": "2026-10-02",
+    "day_change_pct_oct2": 0.94,
+    "week_change_pct": -0.16,
+    "ytd_change_pct": 14.1,
+    "source": "Close and daily % from search results quoting multiple Oct 2 sources plus https://vistapglobal.com/weekly-market-summary-october-2-2026-stocks-finish-higher-as-soft-jobs-data-reframes-fed-outlook-amd-avgo-f-googl-hpp-lpl-nvda-ser-soc-tsla/ ; weekly computed vs AP 9/25 close of 2,837.55 (https://wtop.com/national/2026/09/how-major-us-stock-indexes-fared-friday-9-25-2026)",
+    "note": "Up 26.27 points on Friday, its best day in about a month (Reuters), but down about 0.2% on the week. The YTD figure is my own calculation from a reported 12/31/2025 close of 2,481.91 found in search, so treat it as approximate. IWM was +13.37% YTD as of Oct 1 per 24/7 Wall St. Small caps were testing their 200-day line as of Oct 1 (GlobeNewswire)."
+   }
+  ],
+  "drivers": [
+   "Fri Oct 2, September jobs report (BLS): payrolls rose just 29,000, against consensus of about 84K (Dow Jones) or 90K (Reuters), the slowest gain of 2026. Unemployment ticked up to 4.2% from 4.1%. August was revised down to +133K from +162K and July to -10K, for 60K fewer jobs in total. Average hourly earnings rose 0.1% m/m and 3.0% y/y, the slowest annual pace since May 2021. Sources: BLS, CNBC, Bloomberg, Benzinga.",
+   "Fed pricing: the Fed hiked 25bp on Sept 16 to 3.75%-4.00% in a 12-0 vote, its first hike in more than 3 years (CNBC). Gov. Barr said on Sept 23 that further hikes are 'likely' needed, and October hike odds hit about 64-73% (CME FedWatch). After the jobs report, the odds of an October 27-28 hike fell to about 16-24% (Reuters: 23.8%, down from 64.2% a week earlier; CNBC: 77% chance of a hold). Traders still see a December hike as likely. NY Fed's Williams backs one more hike late this year but says there is 'no urgency.' Kevin Warsh is Fed Chair, sworn in May 2026.",
+   "Bond sell-off: long-dated Treasury yields hit their highest since 2002 this week. The 30-year topped 5.6% on Tue Sept 29. On Friday the 10-year first fell after the jobs data, then reversed to close up about 5bp at 5.281% (CNBC). Cited causes are energy-driven inflation, government debt and heavy AI-infrastructure borrowing. Mortgage rates are around 7%. This is why the S&P and Dow ended down for the week (Investing.com: 'post weekly loss on bond rout').",
+   "Wed Sept 30, August PCE: headline +0.3% m/m and 3.4% y/y. Core rose +0.2% m/m and 3.0% y/y, against 3.3% expected. Caveat: BEA methodology changes trimmed core by about 0.18pp, per RBC. The Dow fell about 444 points that day, and quarter-end tallies were S&P +2.0% for Q3, Dow -2.7%, Nasdaq +2.5%.",
+   "Thu Oct 1, ISM Manufacturing: 54.5 vs 55.0 expected, a 9th straight month of expansion. The prices-paid index jumped to 77.9 from 71.1, its highest since May, on oil, tariffs and metals. ADP (Sept 30) showed +90K private jobs vs 68K expected.",
+   "Iran war and oil: on Sept 26 Trump rejected Iran's offer of a truce and a reopened Strait of Hormuz. Brent topped $107 on Mon Sept 28 and the S&P fell 0.77%. On Oct 2 the G7/IEA agreed to release up to 100M barrels of diesel and oil over 4 months, with diesel front-loaded; Goldman says it offsets only about half the diesel surge. US pump prices hit a record $6.53/gal. WTI settled at $91.11 Friday (-1.9%, about -1.6% for the week); Brent at $102.25 (+0.1% for the week).",
+   "Weekend risk (Sat Oct 3): Yemen's Houthis said they hit an Aramco facility in Riyadh with missiles and drones (Reuters). A witness reported a smoke plume, and there is no confirmed supply disruption. Separately, OPEC+'s JMMC meets Sun Oct 4.",
+   "AI and earnings: Micron (Sept 30) posted record FQ4 revenue of $54.23B, vs $51.07B expected and up 379% y/y, and guided $61.5B \u00b1 $1.5B vs about $57.2B consensus. The stock barely moved at first, then rose 3% Friday. Synopsys gained 12.8% on Oct 1 after its investor day guidance plus Amazon and OpenAI deals. Accenture rose 15.8% on Oct 1 after beating on FQ4. Nvidia hit an all-time intraday high of about $237.87 on Oct 2, its first record since May, helped by a new $150B buyback. Tesla rose 4.65% on Q3 deliveries of 486,532 vs about 461,974 expected. Seagate and Western Digital fell more than 12% Friday. Carnival jumped 13.4% on Sept 29 to $25.11 on a record Q3, about 15% for the week. Nike fell 3.6% to $33.87 after missing on revenue ($11.21B).",
+   "Health care was the week's worst sector, with XLV down 2.65%. Section 232 tariffs on patented drugs took effect Sept 29: a 100% baseline, 20% with an onshoring plan, and exemptions for companies with MFN pricing deals. CMS finalized the GLOBE Part B drug-pricing model on Sept 30.",
+   "No government shutdown: a stopgap funding bill (CR), signed Sept 2, funds the government through Dec 11, 2026. Congress must act again after the midterms.",
+   "Dollar: the DXY slipped to about 101.93 on Oct 2 (-0.17%) after the jobs data. It was still up about 0.9% for the week, its third straight weekly gain, and the euro had its 4th straight weekly loss vs the dollar on European bond-market selling."
+  ],
+  "sectors_leading": [
+   "Technology (XLK) +1.80% on the week (Morningstar tech +1.44%), led by semis: Nvidia's record, Micron, Broadcom +3.35% Fri, Synopsys +12.8% Thu. On Friday SOXX rose 2.18% and the Philly chip index about 3%. XLK is +39.28% YTD with RSI 69, and 70% of its members are above their 50-day, the best breadth of any sector (ETF Action).",
+   "Energy (XLE) +1.26% (Morningstar +1.21%). Most of the gain came Thursday, after reports that Chinese refiners suspended October fuel exports. Refiners rallied on record diesel cracks, e.g. MPC +6.3%.",
+   "Utilities (XLU) +0.81%, the only other sector up on the week.",
+   "Friday only: Consumer Discretionary (XLY) +1.13% led all sectors (Tesla +4.65%), Tech +1.01%. Cruise lines were a standout for the week: Carnival about +15%, Royal Caribbean and Norwegian also up."
+  ],
+  "sectors_lagging": [
+   "Health Care (XLV) -2.65% (Morningstar -2.57%), on the pharma tariffs and CMS GLOBE drug-pricing model.",
+   "Financials (Morningstar financial services -2.45%) were pressured by surging long-term yields. Financials were the worst S&P sector in September at more than -6%: Blackstone -21% for the month, BlackRock -8%, and Morgan Stanley on a 6-day losing streak. XLF rose only +0.06% even on Friday's rally.",
+   "Value stocks -1.09% vs growth +0.38% on the week (Morningstar).",
+   "Rate-sensitive groups: homebuilders fell Friday as long-term yields rose, and banks, REITs and utilities barely moved on the day. Storage makers (Seagate, Western Digital) fell more than 12% Friday."
+  ],
+  "breadth_and_sentiment": "Breadth is narrow even with the index near records. As of Oct 2 (StreetStats), only 24.8% of S&P 500 stocks were above their 50-day MA (10th percentile historically) and 45.4% above their 200-day. The 10-day average of net new 52-week highs was about -4.3%, meaning new lows still outnumber new highs (slightly better than about -4.7% on Oct 1). 24/7 Wall St put it as the S&P nearing a record with roughly 75% of its stocks below their 50-day. Morningstar: of 872 stocks covered, only 35% rose on the week and 65% fell. The cap-weighted S&P is +12.8% YTD vs +9.47% for the equal-weight version. Friday's NYSE breadth was positive, with 1,676 advancers vs 1,077 decliners, about 1.2 to 1 (McClellan data via search). VIX closed at 15.31 on Oct 2, down 6.6% from 16.39; 30-day realized volatility is about 10.5. CNN Fear & Greed was 31 ('Fear') on Sept 30, up from 29 (Benzinga), and was also cited at 31 on Oct 2. AAII survey (week of Oct 1): 34.6% bullish (+2.0), 46.5% bearish (-1.6), 18.9% neutral. Bearish readings have been above their long-term average for 34 straight weeks. Small vs large caps: the Russell 2000 gained 0.94% Friday, its best day in about a month, but slipped about 0.2% on the week. On Morningstar's measure small caps (-0.04%) edged large caps (-0.29%), and growth (+0.38%) beat value (-1.09%). Momentum and leadership: the Nasdaq 100 made a record close, Nvidia an intraday record, and the market leaders are AI and semiconductor stocks. ETF Action notes Small Growth (IJT) +1.47% Friday and XLK nearly overbought at RSI 69. Early Q3 reports: 13 S&P companies have reported and 85% beat; Q3 EPS growth is tracking about +31% (secondary source, myweeklystock substack).",
+  "other_assets": [
+   "10-year Treasury: 5.281% close on Oct 2, up about 5bp on the day after an early drop on the jobs data (CNBC). It hit its highest levels since 2002 this week and closed at 5.24% on Oct 1 after a 6bp drop. 2-year about 4.84% and 30-year about 5.61% on Oct 2 (StreetStats). The 30-year topped 5.6% intraday Sept 29, highest since June 2002. 10s-2s spread is about +45bp. https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html",
+   "Oil (Oct 2 settles): WTI $91.11/bbl, -$1.76 (-1.90%) on the day and about -1.6% for the week. Brent $102.25, -0.06% on the day and +0.11% for the week, a premium of more than $11 over WTI. Brent topped $107 on Sept 28 after Trump rejected Iran's offer. A Houthi strike claim on an Aramco site on Sat Oct 3 adds upside risk going into Monday. https://energynow.com/2026/10/oil-ends-volatile-week-mixed-as-emergency-reserve-release-knocks-wti-lower-but-brent-holds-above-102/",
+   "Gold: US futures settled at $4,162.30 (-1%) on Oct 2. Spot was about $4,140 (-0.9%), down about 3.4% for the week and a second straight weekly loss, on a firm dollar and high yields. Silver spot $60.36 (-0.8%), platinum $1,692.90. https://www.cnbc.com/2026/10/02/gold-slips-before-us-payrolls-data-set-for-second-weekly-loss.html",
+   "Bitcoin: briefly crossed $87,000 on Oct 2 after the jobs data, then faded to about $85,300 and was about $84,600-84,800 on Oct 3. About +2.6% on the week, a third straight weekly gain. About $433.6M of leveraged positions were liquidated, roughly three-quarters of them longs. It sits about 1.5% below its 2026 open of about $87,700. https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report ; https://www.cryptotimes.io/2026/10/03/bitcoin-price-slips-to-84600-as-433m-liquidations-hit-longs-after-87k-rejection/",
+   "US Dollar Index (DXY): about 101.93 on Oct 2 (-0.17%), dipping below 102 after payrolls but up about 0.9% for the week, a third straight weekly gain. EUR/USD about 1.1252 and USD/JPY about 157.83. https://www.fxstreet.com/news/us-payrolls-miss-at-29k-and-the-dollar-index-drops-below-10200-202610021607 ; https://tradingeconomics.com/united-states/currency"
+  ],
+  "week_ahead": [
+   {
+    "date": "Sat-Sun Oct 3-4",
+    "event": "Weekend risk: the Houthis claimed a missile and drone attack on an Aramco facility in Riyadh on Sat Oct 3; damage is unconfirmed. OPEC+ JMMC meeting Sunday. Brazil general election Sunday."
+   },
+   {
+    "date": "Mon Oct 5",
+    "event": "S&P Global Services/Composite PMI final for Sept (9:45 ET). ISM Services PMI for Sept (10:00 ET): consensus about 55.1 per investingLive or 55.7 per CMC, prior 55.4; watch prices paid after manufacturing prices hit 77.9. Fed's Goolsbee speaks."
+   },
+   {
+    "date": "Tue Oct 6",
+    "event": "US trade balance for August (8:30 ET). Treasury auctions $58B of 3-year notes (1:00 ET). Fed's Williams and Bowman speak. EIA Short-Term Energy Outlook. Earnings before the open: Lamb Weston (LW), RPM International (RPM), Apogee (APOG). After the close: Constellation Brands (STZ; EPS est. about $3.62), Penguin Solutions (PENG; EPS est. $0.77 on $519M revenue), Neogen (NEOG)."
+   },
+   {
+    "date": "Wed Oct 7",
+    "event": "FOMC minutes from the Sept 15-16 meeting, where the Fed hiked (2:00 ET). Treasury auctions $39B of 10-year notes (1:00 ET), a key test given the bond sell-off. Consumer credit for August (3:00 ET). Fed's Logan speaks. Earnings after the close: Applied Digital (APLD, call 5pm ET) and Levi Strauss (LEVI; EPS est. $0.36 on $1.62B revenue)."
+   },
+   {
+    "date": "Thu Oct 8",
+    "event": "Initial jobless claims (8:30 ET), wholesale inventories, more US Treasury supply (the 30-year auction usually falls this week; date and size not confirmed). Fed's Musalem speaks. ECB minutes. PepsiCo (PEP) reports before the open, around 6:00 ET."
+   },
+   {
+    "date": "Fri Oct 9",
+    "event": "University of Michigan consumer sentiment, preliminary October (10:00 ET); September was 48.1. Fed's Collins speaks (per TipRanks). Delta Air Lines (DAL) reports before the open, call 10:00 ET. Canada September jobs report."
+   },
+   {
+    "date": "Looking further out",
+    "event": "The FOMC meets Oct 27-28; an October hike is now priced at about 20%, and December remains in play. Big-bank Q3 earnings begin the following week. Government funding runs through Dec 11."
+   }
+  ],
+  "notable_earnings_week_ahead": [
+   {
+    "ticker": "LW",
+    "company": "Lamb Weston",
+    "date": "Tue Oct 6 (before open)"
+   },
+   {
+    "ticker": "RPM",
+    "company": "RPM International",
+    "date": "Tue Oct 6 (before open)"
+   },
+   {
+    "ticker": "APOG",
+    "company": "Apogee Enterprises",
+    "date": "Tue Oct 6 (before open)"
+   },
+   {
+    "ticker": "STZ",
+    "company": "Constellation Brands",
+    "date": "Tue Oct 6 (after close; call Oct 7 8am ET)"
+   },
+   {
+    "ticker": "PENG",
+    "company": "Penguin Solutions",
+    "date": "Tue Oct 6 (after close)"
+   },
+   {
+    "ticker": "NEOG",
+    "company": "Neogen",
+    "date": "Tue Oct 6 (after close)"
+   },
+   {
+    "ticker": "APLD",
+    "company": "Applied Digital",
+    "date": "Wed Oct 7 (after close)"
+   },
+   {
+    "ticker": "LEVI",
+    "company": "Levi Strauss",
+    "date": "Wed Oct 7 (after close)"
+   },
+   {
+    "ticker": "PEP",
+    "company": "PepsiCo",
+    "date": "Thu Oct 8 (before open)"
+   },
+   {
+    "ticker": "DAL",
+    "company": "Delta Air Lines",
+    "date": "Fri Oct 9 (before open)"
+   }
+  ],
+  "sources": [
+   "https://wtop.com/news/2026/10/how-major-us-stock-indexes-fared-friday-10-2-2026",
+   "https://wtop.com/national/2026/09/how-major-us-stock-indexes-fared-friday-9-25-2026",
+   "https://www.nasdaq.com/economic-institute/chartstopper-100226",
+   "https://www.investing.com/news/stock-market-news/us-stock-futures-drift-higher-with-nonfarm-payrolls-in-focus-4928740",
+   "https://investinglive.com/news/investinglive-americas-fx-news-wrap-2-oct-nasdaq-100-closes-at-a-record-after-soft-us-jobs-treasury-yields-reverse-higher/",
+   "https://vistapglobal.com/weekly-market-summary-october-2-2026-stocks-finish-higher-as-soft-jobs-data-reframes-fed-outlook-amd-avgo-f-googl-hpp-lpl-nvda-ser-soc-tsla/",
+   "https://www.spokesman.com/stories/2026/oct/02/nasdaq-climbs-to-record-after-softer-jobs-data-coo/",
+   "https://www.advisorperspectives.com/dshort/updates/2026/10/02/s-p-500-snapshot-stocks-rally-to-close-out-flat-week",
+   "https://www.morningstar.com/markets/weekly-market-update-stocks-little-changed-tech-sector-gains-while-healthcare-falls",
+   "https://currentlogic.substack.com/p/the-weekend-summary-sep-28-oct-02",
+   "https://www.etfaction.com/soft-jobs-report-fuels-global-equity-rally/",
+   "https://myweeklystock.substack.com/p/weekly-market-recap-sep-28-oct-2",
+   "https://www.bls.gov/news.release/empsit.nr0.htm",
+   "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
+   "https://www.bloomberg.com/news/articles/2026-10-02/us-firms-add-just-29-000-jobs-unemployment-rate-ticks-up",
+   "https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html",
+   "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-29-dow-sp-500-nasdaq-080526442.html",
+   "https://www.cnn.com/2026/09/24/investing/bond-market-global",
+   "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
+   "https://www.cnbc.com/2026/09/23/market-sees-next-fed-hike-in-october-following-barr-comments-hot-inflation.html",
+   "https://investinglive.com/central-banks/fed-officials-lean-hawkish-though-williams-sees-no-urgency-for-another-hike",
+   "https://www.foxbusiness.com/economy/august-2026-pce-inflation",
+   "https://www.techtimes.com/articles/328346/20260930/august-pce-inflation-cooled-34-bea-rewrote-how-it-measures-prices.htm",
+   "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-54-5-september-2026-ism-manufacturing-pmi-report-302894520.html",
+   "https://qz.com/ism-manufacturing-pmi-prices-september-2026-fed-rates-100126",
+   "https://www.cnbc.com/2026/09/30/private-sector-jobs-rose-by-90000-in-september-better-than-expected-adp-reports.html",
+   "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-28-2026",
+   "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-30-2026",
+   "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-01-2026",
+   "https://www.theglobeandmail.com/investing/markets/stocks/MU/pressreleases/4923794/stock-market-news-for-oct-2-2026/",
+   "https://www.benzinga.com/markets/market-summary/26/10/62097560/dow-dips-over-400-points-following-pce-data-investor-sentiment-improves-greed-index-remains-in-fear-zone",
+   "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+   "https://www.washingtontimes.com/news/2026/sep/26/trump-rejects-iranian-ceasefire-offer/",
+   "https://energynow.com/2026/10/oil-ends-volatile-week-mixed-as-emergency-reserve-release-knocks-wti-lower-but-brent-holds-above-102/",
+   "https://www.bloomberg.com/news/articles/2026-10-02/g7-to-release-up-to-100-millions-of-barrels-of-diesel-and-oil",
+   "https://discoveryalert.com/analysis/g7-oil-reserve-release-october-2026/",
+   "https://www.investing.com/news/commodities-news/yemens-houthis-say-they-attacked-aramco-facility-in-riyadh-with-missiles-drones-4930877",
+   "https://www.cnbc.com/2026/10/02/gold-slips-before-us-payrolls-data-set-for-second-weekly-loss.html",
+   "https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report",
+   "https://www.cryptotimes.io/2026/10/03/bitcoin-price-slips-to-84600-as-433m-liquidations-hit-longs-after-87k-rejection/",
+   "https://crypto.news/bitcoin-bitget-swift-chainlink-weekly-recap",
+   "https://www.fxstreet.com/news/us-payrolls-miss-at-29k-and-the-dollar-index-drops-below-10200-202610021607",
+   "https://www.cnbc.com/2026/10/02/dollar-at-17-month-high-as-global-bond-rout-hits-euro.html",
+   "https://tradingeconomics.com/united-states/currency",
+   "https://streetstats.finance/markets/breadth-momentum/SP500",
+   "https://streetstats.finance/rates/treasuries",
+   "https://247wallst.com/cards/xpost-01m3yj4gwktnp1xwb2706cvahn",
+   "https://www.mcoscillator.com/market_breadth_data/",
+   "https://seekingalpha.com/article/4951474-aaii-sentiment-survey-optimism-peeks-through",
+   "https://www.tradingview.com/news/benzinga:07d14a5f9094b:0-weak-jobs-lift-tech-stocks-to-record-highs-micron-confirms-the-ai-rally-this-week-on-wall-street/",
+   "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
+   "https://www.bloomberg.com/news/articles/2026-10-02/nvidia-hits-first-record-since-may-as-value-nears-6-trillion",
+   "https://www.benzinga.com/news/26/10/62141603/nvidia-nasdaq-100-record-high-western-digital-sinks-soft-jobs-report-fed-hike-bets-markets-friday",
+   "https://electrek.co/2026/10/02/tesla-q3-2026-deliveries-486532/",
+   "https://www.forbes.com/sites/maryroeloffs/2026/09/29/carnival-stock-jumps-12-after-cruise-giant-posts-record-revenue/",
+   "https://www.trefis.com/stock/snps/articles/617409/what-is-driving-the-move-in-synopsys-stock/2026-10-02",
+   "https://financefeeds.com/nike-11-21-billion-revenue-miss-nke-drops-3-64-percent/",
+   "https://cei.org/blog/this-week-in-health-care-policy-september-28-october-2-2026/",
+   "https://thehill.com/homenews/house/6063667-house-government-funding-cr-shutdown-midterms/",
+   "https://www.naco.org/news/congress-passes-short-term-funding-bill-keeping-federal-government-funded-through-dec-11-and",
+   "https://en.wikipedia.org/wiki/Closing_milestones_of_the_S&P_500",
+   "https://www.slickcharts.com/nasdaq100/returns/ytd",
+   "https://247wallst.com/investing/etf/2026/10/01/forget-iwm-this-screened-small-cap-fund-beat-it-year-to-date-over-one-year-and-over-five-years/",
+   "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-calendar---4th-9th-october-2026",
+   "https://investinglive.com/news/week-ahead-ism-services-fed-minutes-and-canadian-jobs-lead-the-economic-calendar-be-aware/",
+   "https://www.cmcmarkets.com/en-gb/news-and-analysis/the-week-ahead-us-ism-services-fed-minutes-pepsico-earnings",
+   "https://www.fxstreet.com/analysis/forecasting-the-upcoming-week-focus-shifts-to-the-fomc-minutes-202610021803",
+   "https://investrade.com/weekly-event-calendar-10-05-2026-10-09-2026/",
+   "https://tipranks.com/news/stock-market-week-ahead-fed-commentary-and-rate-hike-odds-in-focus?amp=",
+   "https://finance.yahoo.com/news/earnings-week-ahead-pepsico-acuity-070507203.html",
+   "https://www.marketbeat.com/instant-alerts/upcoming-delta-air-lines-dal-set-to-release-earnings-on-friday-2026-10-02/",
+   "https://www.stocktitan.net/news/STZ/constellation-brands-to-report-second-quarter-fiscal-2027-financial-88ejfwqedqtd.html",
+   "https://news.alphastreet.com/penguin-solutions-q4-2026-earnings-preview-october-6-street-expects-0-77-eps/amp/",
+   "https://www.marketbeat.com/instant-alerts/upcoming-applied-digital-apld-expected-to-announce-quarterly-earnings-on-wednesday-2026-09-30/",
+   "https://www.stocktitan.net/news/LEVI/levi-strauss-co-to-webcast-third-quarter-2026-earnings-conference-42yn1ybzlqu7.html",
+   "https://www.marketbeat.com/instant-alerts/upcoming-lamb-weston-lw-expected-to-announce-earnings-on-tuesday-2026-09-29/",
+   "https://qz.com/university-michigan-consumer-sentiment-september-2026-092526"
+  ]
+ },
+ "last_week_scorecard": null,
+ "live_track_record": null,
+ "model_backtest": null,
+ "picks": [
+  {
+   "ticker": "MPC",
+   "company": "Marathon Petroleum Corporation",
+   "spoken_name": "Marathon Petroleum",
+   "ticker_spoken": "M-P-C",
+   "slot": "momentum",
+   "angle": "The refiner riding a record diesel crack. MPC logged six straight weekly gains in September. It pulled back to about $395 by Sept 30, then jumped about 6% on Thursday, Oct 1, to close at $420. That left it about 2.5% under its $431 all-time high, in a week when energy was one of only three sectors up while the S&P and Dow fell. The twist: Friday's G7 diesel release takes aim at the exact margin that powered the run. A close above $431 on volume is the breakout. A pullback that holds $400 is the other way in. A close below $380 breaks the setup. (Replaces the brief's '+6.3% this week' and 'basing' framing. The 6.3% was a one-day move, and late September was a pullback, not a tight base.)",
+   "business_one_liner": "Marathon Petroleum is one of America's largest oil refiners, turning crude into gasoline, diesel and jet fuel, and it also controls the MPLX pipeline partnership. Its profits rise and fall with the crack spread, the gap between what crude costs and what fuel sells for.",
+   "market_cap": "About $118B (StockAnalysis, at the Oct 1 close). Large cap.",
+   "price_oct2": null,
+   "facts": [
+    {
+     "text": "Marathon Petroleum closed Thursday, October 1st, at about $420.",
+     "confidence": "confirmed",
+     "source": "stockanalysis.com/stocks/mpc (Oct 1 close $420.15)"
+    },
+    {
+     "text": "That was a jump of about 6% in one day, roughly $25 a share.",
+     "confidence": "confirmed",
+     "source": "stockanalysis.com: +$24.73, +6.25% at the $420.15 close; 24/7 Wall St had it up about 5% intraday"
+    },
+    {
+     "text": "The pop came on fuel-shortage headlines: talk of a European diesel shortage, and China halting its October fuel exports.",
+     "confidence": "confirmed",
+     "source": "247wallst.com 2026/10/01; gokhshtein.com 2026-10-01"
+    },
+    {
+     "text": "The latest EIA data showed US gasoline stocks down 1.7 million barrels and distillates down 2.3 million.",
+     "confidence": "confirmed",
+     "source": "247wallst.com 2026/10/01"
+    },
+    {
+     "text": "At UBS-hosted meetings that day, management said global fuel inventories are severely depleted, pointing to Middle East instability and Russian refinery outages. UBS reiterated its Buy rating.",
+     "confidence": "confirmed",
+     "source": "tradingkey.com MPC market movers 2026-10-01; investing.com UBS reiterates Buy"
+    },
+    {
+     "text": "Before that pop, the stock had pulled back to about $395 at the end of September.",
+     "confidence": "confirmed",
+     "source": "Derived from stockanalysis.com: $420.15 close minus the $24.73 daily gain"
+    },
+    {
+     "text": "Its record close is about $425, set September 18th. Its all-time intraday high is about $431.",
+     "confidence": "dossier-only",
+     "source": "Dossier ($424.89 close Sep 18; $431.08 intraday). Not re-confirmed this session"
+    },
+    {
+     "text": "As of Thursday's close, MPC sat about two and a half percent under that $431 all-time high.",
+     "confidence": "dossier-only",
+     "source": "Computed: $420.15 vs the dossier's $431.08 high"
+    },
+    {
+     "text": "MPC, Valero, HF Sinclair and Phillips 66 all logged six straight weekly gains in September on a record diesel crack.",
+     "confidence": "confirmed",
+     "source": "benzinga.com/markets/commodities/26/09/61881898/"
+    },
+    {
+     "text": "MPC gained about 42% over that six-week run.",
+     "confidence": "dossier-only",
+     "source": "Dossier citing Benzinga (Sept 2026)"
+    },
+    {
+     "text": "In late September the US diesel crack hit a record of around $102 a barrel, roughly five times normal.",
+     "confidence": "dossier-only",
+     "source": "Dossier and scout notes. The current level is unknown and likely narrowed after the G7 news"
+    },
+    {
+     "text": "The stock has more than doubled over the past year.",
+     "confidence": "confirmed",
+     "source": "stockanalysis.com/stocks/mpc/statistics (52-week change about +118%, Oct 1 data)"
+    },
+    {
+     "text": "It's in a textbook stage-2 uptrend. The price is above the 50-day near $363, and the 50-day is above the 200-day near $261.",
+     "confidence": "confirmed",
+     "source": "stockanalysis.com/stocks/mpc/statistics (Oct 1 data)"
+    },
+    {
+     "text": "It's about 16% above its 50-day: stretched, but not blown out.",
+     "confidence": "confirmed",
+     "source": "Computed: $420.15 vs a 50-day of $363.25"
+    },
+    {
+     "text": "It's about 61% above its 200-day, which is real relative strength.",
+     "confidence": "confirmed",
+     "source": "Computed: $420.15 vs a 200-day of $260.54"
+    },
+    {
+     "text": "Market value is roughly $118 billion.",
+     "confidence": "confirmed",
+     "source": "stockanalysis.com/stocks/mpc/statistics"
+    },
+    {
+     "text": "Energy was one of only three sectors up last week, while the S&P 500 and the Dow both fell.",
+     "confidence": "dossier-only",
+     "source": "market_pulse.json (XLE +1.3% for the week; S&P -0.3%, Dow -1.3%)"
+    },
+    {
+     "text": "On Friday the G7 agreed to release up to 100 million barrels of diesel and crude from emergency reserves over four months.",
+     "confidence": "confirmed",
+     "source": "spokesman.com 2026/oct/02; irishtimes.com 2026/10/02; pbs.org; qz.com"
+    },
+    {
+     "text": "Diesel goes first, with a substantial release within 20 days. US and European diesel futures slumped on the news.",
+     "confidence": "confirmed",
+     "source": "spokesman.com; irishtimes.com ('Diesel falls sharply'); finimize.com"
+    },
+    {
+     "text": "That release takes direct aim at the diesel margin that powered this rally.",
+     "confidence": "confirmed",
+     "source": "Inference from the confirmed G7 release and the diesel futures selloff"
+    },
+    {
+     "text": "Goldman estimates the release offsets only about half of the diesel surge.",
+     "confidence": "dossier-only",
+     "source": "market_pulse.json"
+    },
+    {
+     "text": "Before the deal, Washington pressed Europe to release reserves or face a US diesel export ban.",
+     "confidence": "confirmed",
+     "source": "pbs.org newshour; spokesman.com 2026/oct/02"
+    },
+    {
+     "text": "The backdrop is the Iran war and Strait of Hormuz disruption, which drove the fuel-price spike.",
+     "confidence": "confirmed",
+     "source": "pbs.org; kmph.com (Oct 2)"
+    },
+    {
+     "text": "Oil slipped Friday, with WTI around $91 and Brent around $102.",
+     "confidence": "confirmed",
+     "source": "finimize.com 'G7 Moves To Tap Diesel Reserves As Oil Slips'"
+    },
+    {
+     "text": "The stock trades above the average analyst target, which sits in the mid-$370s, about 11% below the price.",
+     "confidence": "confirmed",
+     "source": "stockanalysis.com ($375.50 average, range $297-$472); MarketBeat $370.38 points the same way"
+    },
+    {
+     "text": "The Street-high target is $472 from Goldman Sachs, raised from $376, with a Buy. Raymond James is at $445, up from $350, with an Outperform.",
+     "confidence": "confirmed",
+     "source": "tradingkey.com 2026-10-01. Action dates not shown, so do not say 'this week'"
+    },
+    {
+     "text": "Third-quarter results come Tuesday, November 3rd, with the call at 11 a.m. Eastern.",
+     "confidence": "dossier-only",
+     "source": "Dossier citing a company release via Nasdaq/StockTitan. Not re-confirmed this session"
+    }
+   ],
+   "levels": {
+    "pivot": 431,
+    "support": 400,
+    "invalidation": 380,
+    "how_to_say": "Levels I'm watching on M-P-C. First, $431, the all-time high. A close above it on strong volume is the breakout. Second, $400. If the G7 diesel news knocks it back, I want to see that round number hold. That's right around where it closed just before Thursday's pop. And the line in the sand is $380. A close below that and the setup is broken, and the rising 50-day near $363 is the next stop. Buying up near $420 is a chase. I want the breakout or the pullback."
+   },
+   "upcoming": [
+    "Sun Oct 4: OPEC+ JMMC meeting. Outcome not known at the time of writing (per market brief).",
+    "Mon Oct 5: first US session after Friday's G7/IEA diesel release and the weekend Middle East headlines. Expect the diesel-crack reaction here.",
+    "Wed Oct 7: weekly EIA petroleum status report. Watch the distillate inventories. Regular Wednesday schedule, not separately confirmed.",
+    "By about Oct 22: IEA says a 'substantial' diesel release lands within 20 days of the Oct 2 agreement (confirmed). The full 100M-barrel program runs four months.",
+    "Oct 27-28: FOMC meeting. Odds of a hike fell to about 20% after the weak jobs report (market brief, dossier-only).",
+    "Tue Nov 3, 11 a.m. ET: Q3 2026 earnings call. The company announced the date (dossier cites the release via Nasdaq/StockTitan). Not re-confirmed this session, so confidence is medium-high."
+   ],
+   "risks": [
+    "The G7/IEA diesel release front-loads supply into the next 20 days, aimed straight at the record diesel crack behind this rally. Diesel futures already slumped Friday, and refiner stocks usually peak before margins do.",
+    "Policy risk is concrete. Washington threatened a US diesel export ban before the G7 deal, and the administration wants lower pump prices. An export ban or windfall-tax talk would hit Gulf Coast refiners like MPC directly.",
+    "Headline-driven price action. Late September was about a 7% pullback, and the Oct 1 snapback came on a single day of shortage headlines. A failed breakout or double top under $431 is possible.",
+    "Extended vs fundamentals. About 16% above the 50-day and 61% above the 200-day, more than doubled in a year, and trading about 11% above the average analyst target. Mean reversion is likely if cracks cool.",
+    "De-escalation risk. An Iran truce, a reopened Strait of Hormuz or refinery restarts could narrow cracks fast.",
+    "Macro. The 10-year yield is at 5.28%, its highest since 2002, which pressures cyclicals.",
+    "Data gaps. The Friday Oct 2 close, the weekly change, volume accumulation and the 20-day MA are all unconfirmed."
+   ],
+   "do_not_say": [
+    "'Up 6.3% this week' or '+6.3% in a week when the S&P and Dow fell': WRONG. The 6.25% (+$24.73) was MPC's ONE-DAY Oct 1 move. The Sep 25 to Oct 2 weekly change is unverified. The market brief's 'MPC +6.3%' on the energy-sector line is that same daily move.",
+    "Any Friday Oct 2 close, % change or direction (up or down): UNCONFIRMED. A German-listing quote of EUR 376 (+0.41%) is not a US close. Check the actual print before air.",
+    "'+5% to $413.75' attributed to Friday: that was an Oct 1 INTRADAY print (24/7 Wall St).",
+    "Oct 1 gain of +4.52% (TradingKey): conflicts with StockAnalysis' +6.25% / +$24.73 close. Use 'about 6%'.",
+    "'Seven straight weekly gains' or 'six straight up weeks and counting': the streak's current status is unverified and may have broken in late September. Say only 'six straight weekly gains in September'.",
+    "'Tight base' or 'tight consolidation just under the high': late September was about a 7% pullback to roughly $395 before a one-day headline jump.",
+    "'Basing 2.5% under the high' as a current, Friday-close fact: the 2.5% is as of Thursday's close only, and the $431.08 high and $424.89 record close were not re-confirmed this session.",
+    "A new all-time high on Oct 2: can't be confirmed or ruled out.",
+    "50-day of $356.58, '17.8% above the 50-day' or '18-24% above the 50-day': WRONG. The dated 50-day is about $363, so the stretch is about 16%.",
+    "'200-day not available': the 200-day is about $261, and the price is about 61% above it.",
+    "Any 20-day moving average or 20-day stretch figure: not found.",
+    "Market cap of about $109B: outdated. It's about $118B.",
+    "1-year +122%: from an undated source. Use 'more than doubled' (about +118%).",
+    "'WTI fell 1.9% Friday' or a $91.11 settle: not supported. Finimize had WTI -1.6% to $91.42. Say 'around $91'.",
+    "'The diesel crack is still at a record' or 'still about $102': the current level is unknown and likely narrowed after the G7 news. The $102 record and '5x normal' are late-September, dossier-only figures.",
+    "UBS $450 target or a UBS 'smash its all-time high' quote: only the Buy reiteration is confirmed.",
+    "BofA raising its target from $410 to $426 at Neutral (Oct 2): not re-confirmed.",
+    "Jefferies to Hold with a $413 target: not confirmed, date unknown.",
+    "Seeking Alpha rating downgrade: undated and unconfirmed.",
+    "'Analysts are turning neutral': one-sided. Goldman raised to $472 (Buy) and Raymond James to $445 (Outperform).",
+    "Goldman or Raymond James target raises 'this week' or 'today': action dates not shown.",
+    "Presenting MarketBeat's $370 or StockAnalysis' $376 as THE consensus without naming the source: say 'mid-$370s'.",
+    "Volume accumulation, or 'heavy volume on up days', as a fact: not found.",
+    "Houthi strike on Aramco (Oct 3) as a confirmed fact: in the market brief but not re-confirmed.",
+    "OPEC+ JMMC outcome or Sunday-night futures and oil moves: not available.",
+    "'Largest US independent refiner' superlative: not confirmed this session. Say 'one of America's largest refiners'.",
+    "The quant-model stretch triggering a skip or the MTRN swap: it doesn't. That's internal, keep it off air."
+   ],
+   "name": "Marathon Petroleum Corporation",
+   "price": {
+    "value": 420.15,
+    "date": "2026-10-01"
+   },
+   "reasons": [
+    "Marathon Petroleum closed Thursday, October 1st, at about $420.",
+    "That was a jump of about 6% in one day, roughly $25 a share.",
+    "The pop came on fuel-shortage headlines: talk of a European diesel shortage, and China halting its October fuel exports."
+   ],
+   "overall_score": 7.67,
+   "scores": {
+    "momentum": 9,
+    "technical": 6,
+    "social_buzz": 3,
+    "under_radar": 1,
+    "catalyst": 8,
+    "risk": 6
+   }
+  },
+  {
+   "ticker": "MTRN",
+   "company": "Materion Corporation",
+   "spoken_name": "Materion (muh-TEER-ee-un)",
+   "ticker_spoken": "M-T-R-N",
+   "slot": "momentum",
+   "angle": "This is the materials name most listeners haven't heard of. Materion makes beryllium alloys and electronic materials that go into chips, aerospace and space. It posted a record Q2, has now raised guidance twice this year, and on Friday closed at an all-time high after jumping about 16% in two days. The stock is stretched, about 25% above its 50-day, and this move takes back the August post-earnings high (about $297) rather than breaking out of a long base. The healthy path is a hold above $290 and then a close above $314. A close below $285 means the breakout failed.",
+   "business_one_liner": "Materion makes advanced materials, including beryllium and specialty alloys, precision coatings and electronic materials, and sells them into semiconductors, aerospace and defense, space, and industrial markets.",
+   "market_cap": "About $6.5 billion at the Oct 2 close (mid-cap)",
+   "price_oct2": 312.16,
+   "facts": [
+    {
+     "text": "Materion closed Friday at about $312, up $27, or 9.5%, on the day.",
+     "confidence": "confirmed",
+     "source": "Morningstar / Robinhood / Public quote pages, Oct 2 close $312.16 vs $285.14"
+    },
+    {
+     "text": "That close is less than 1% below its all-time intraday high of $314, which it hit on Friday.",
+     "confidence": "confirmed",
+     "source": "Morningstar day range $289.70-$314.24; MarketChameleon"
+    },
+    {
+     "text": "It was a two-day burst. The stock rose about 6% on Thursday and 9.5% on Friday, roughly 16% in two sessions.",
+     "confidence": "confirmed",
+     "source": "GuruFocus Oct 1 (+5.8% to $285.14) plus Oct 2 quote data; two-day figure derived"
+    },
+    {
+     "text": "The stock is up about 117% over the past year and about 106% year to date. It has more than doubled.",
+     "confidence": "confirmed",
+     "source": "Quote-page performance summary (stockanalysis/Fool/CNN result set), about Oct 2"
+    },
+    {
+     "text": "Its 52-week low was about $110, so it has nearly tripled off the low.",
+     "confidence": "confirmed",
+     "source": "Quote-page summary, 52-week low $109.61"
+    },
+    {
+     "text": "Market value is about $6.5 billion, which makes it a mid-cap.",
+     "confidence": "confirmed",
+     "source": "Morningstar / TipRanks, about 20.8M shares x $312.16"
+    },
+    {
+     "text": "Q2 was a record quarter. Adjusted earnings were $1.90 a share, up 39% from a year ago.",
+     "confidence": "confirmed",
+     "source": "Business Wire Q2 2026 release (Aug 4, 2026); SEC 8-K"
+    },
+    {
+     "text": "Q2 net sales were about $614 million, up 42%. Much of that is metal costs passed through to customers. Value-added sales, the cleaner number, rose 15% to about $308 million.",
+     "confidence": "confirmed",
+     "source": "Q2 2026 release / earnings call summary"
+    },
+    {
+     "text": "Management raised full-year adjusted EPS guidance to $6.80 to $7.20, with mid-teens sales growth.",
+     "confidence": "confirmed",
+     "source": "Business Wire Q2 2026 release, Aug 4, 2026"
+    },
+    {
+     "text": "That was the second raise this year. Materion also improved its outlook with its Q1 report in April.",
+     "confidence": "confirmed",
+     "source": "Business Wire Q1 2026 release, Apr 28, 2026"
+    },
+    {
+     "text": "Management pointed to a record backlog in Q2.",
+     "confidence": "dossier-only",
+     "source": "Dossier citing the Q2 release; fresh search only confirmed 'strong backlog'"
+    },
+    {
+     "text": "The stock jumped roughly 25 to 30% after the August report and closed near $297.",
+     "confidence": "confirmed",
+     "source": "Morningstar quote summary (+30.8% to $296.90) vs Investing.com (about 25%); sources conflict, so it is given as a range"
+    },
+    {
+     "text": "Friday's close is only about 5% above that August post-earnings close. This move takes back the August high rather than breaking out of a long base.",
+     "confidence": "confirmed",
+     "source": "Derived: $312.16 vs $296.90"
+    },
+    {
+     "text": "The average analyst target is $310, with a consensus Buy. The stock is already above it.",
+     "confidence": "confirmed",
+     "source": "Daily Political / MarketBeat, Sep 25, 2026"
+    },
+    {
+     "text": "Jefferies started coverage at Buy with a $314 target in early September. It is the only target we found that sits above Friday's close.",
+     "confidence": "confirmed",
+     "source": "MarketBeat / Daily Political analyst summary, Sep 2, 2026"
+    },
+    {
+     "text": "In August, KeyBanc raised its target to $306 from $237 with an Overweight rating, and Zacks upgraded the stock to Strong Buy.",
+     "confidence": "confirmed",
+     "source": "MarketBeat / Daily Political analyst summary (KeyBanc Aug 7, Zacks Aug 6)"
+    },
+    {
+     "text": "The stock trades about 25% above its 50-day moving average, which is near $250, and about 40% above its 200-day, near $224.",
+     "confidence": "dossier-only",
+     "source": "Dossier MAs ($250.39 / $223.79); the stretch math was re-checked, but the MA values were not independently sourced"
+    },
+    {
+     "text": "Valuation is rich: roughly 45 times the midpoint of this year's earnings guidance, and about 47 times trailing adjusted earnings per Morningstar.",
+     "confidence": "confirmed",
+     "source": "Derived from $312.16 / $7.00 guide midpoint; Morningstar P/E 46.7"
+    },
+    {
+     "text": "On GAAP earnings, the P/E is about 71.",
+     "confidence": "dossier-only",
+     "source": "MarketBeat via dossier"
+    },
+    {
+     "text": "GuruFocus's GF Value model flags the stock as overvalued.",
+     "confidence": "confirmed",
+     "source": "GuruFocus, Oct 1, 2026"
+    },
+    {
+     "text": "No company news explained Friday's pop. It came on a big day for chip stocks, a market Materion sells into, but that link is our read, not a reported cause.",
+     "confidence": "confirmed",
+     "source": "MarketBeat Oct 2 alert (generic); no 8-K, upgrade or press release found; SOXX +2.2% Friday per market brief"
+    },
+    {
+     "text": "The stock normally trades about 310,000 to 360,000 shares a day, so Friday's volume looks only modestly above average. That is not a clear heavy-volume breakout.",
+     "confidence": "confirmed",
+     "source": "Barchart / stockanalysis / Yahoo-type quote pages (average volume); Friday's exact volume is unconfirmed"
+    },
+    {
+     "text": "Institutions own about 94% of the stock and social chatter is quiet. This is an institutional move, not a retail frenzy.",
+     "confidence": "dossier-only",
+     "source": "MarketBeat institutional ownership; dossier social scan"
+    }
+   ],
+   "levels": {
+    "pivot": 314.24,
+    "support": 290,
+    "invalidation": 285,
+    "how_to_say": "Levels I'm watching on Materion. First, I want it to hold above $290. That's Friday's low, where the breakout day started. The breakout trigger is a close above $314, the all-time high. I'm out of the idea on a close below $285. That's Thursday's close, and losing it wipes out Friday's whole move. In between, watch about $297, where it closed after the August earnings gap, as a natural retest spot. And because it's stretched about 25% above its 50-day, sideways chop between $290 and $314 would actually be healthy."
+   },
+   "upcoming": [
+    "Week of Oct 5-9: no Materion-specific events scheduled (no earnings, investor day or announced catalyst found).",
+    "Wed Oct 7: FOMC minutes (2:00 ET) and a $39B 10-year note auction (1:00 ET). Rates matter for a stock at about 45 times earnings.",
+    "Thu Oct 8 (unconfirmed): a likely 30-year Treasury auction. Date and size are not confirmed.",
+    "Tue-Wed Oct 27-28: FOMC meeting. An October hike is priced at about 20%.",
+    "Q3 2026 earnings: ESTIMATED Wed Nov 4, 2026, before the open (MarketBeat, based on last year's dates). LOW confidence, since the company has not announced a date. An unsourced Oct 28, 10 a.m. ET call date also circulates and is unconfirmed. Either way it falls after the episode week."
+   ],
+   "risks": [
+    "Overextended: about 25% above the 50-day (near $250) and about 40% above the 200-day, after a roughly 16% two-day run. That is right at the show's stretch limit. The 20-day stretch is unknown. Falling back to the 50-day would be about a 20% drop.",
+    "Ahead of the analysts and richly valued: the stock is above the $310 consensus and KeyBanc's $306, with only Jefferies' $314 higher. It trades at about 45 times guidance (GAAP P/E about 71), and GuruFocus flags it as overvalued.",
+    "Weak confirmation: no company catalyst for Friday's pop and only modestly above-average volume. If the chip rally cools, the move could reverse.",
+    "Failed-level history: the August post-earnings high near $297 has already failed once. This is a move back above that high, not a fresh breakout from a long base.",
+    "Rates: the 10-year is at 5.28%, the highest since 2002. The 10-year auction and FOMC minutes on Oct 7 and the Oct 27-28 Fed meeting all hit high-multiple mid-caps.",
+    "Thin liquidity: about $6.5B market cap, roughly 310,000 to 360,000 shares a day, and a wide after-hours spread ($313/$317). Expect gaps in both directions.",
+    "Headline sales growth is flattered by metal pass-through. Value-added sales grew 15%, not 42%.",
+    "The next binary event is Q3 earnings (estimated Nov 4; date unconfirmed)."
+   ],
+   "do_not_say": [
+    "Do not say the stock is up 144% over the past year (Investing.com outlier). Say about 117%, or 'more than doubled'.",
+    "Do not give $306 as Friday's close. That was an intraday print; the close was about $312.",
+    "Do not use the $6.38B market cap. It was priced intraday; say about $6.5B.",
+    "Do not call Friday a heavy-volume or accumulation breakout, or say volume 'more than doubled'. That comparison used a mid-day number, and against the 310K-360K average Friday was only about 1.1 to 1.3 times normal.",
+    "Do not quote a specific Friday volume (404,203). It was not independently confirmed; one snapshot showed 125K.",
+    "Do not name a company-specific catalyst, upgrade or news item for Friday's pop. None was found. The chip-stock link is only an inference.",
+    "Do not present Nov 4 (or Oct 28) as a confirmed Q3 earnings date. Both are estimates or unsourced.",
+    "Do not claim the stock passes the quant model's 25%-above-the-20-day rule. The 20-day moving average was not found. Only the 50-day stretch (about 25%) is known.",
+    "Do not quote weekly, 1-month or 3-month performance figures. None were found.",
+    "Do not say a precise post-earnings jump of 25% or 31%. Sources conflict, so say roughly 25 to 30%.",
+    "Do not present the GAAP P/E of about 71 as the only multiple. Label it GAAP; on adjusted earnings it is about 47 times, and about 45 times guidance.",
+    "Do not quote backlog up 30% or the $15 million commercial-space business. Neither was re-confirmed.",
+    "Do not say every segment grew by double digits. That is unverified.",
+    "Do not quote the EPS beat versus $1.52 consensus or the $71.8M adjusted EBITDA record until they are checked against the 8-K.",
+    "Do not cite Argus's $305 target (Sep 30) or the Weiss downgrade from C+ to C (Sep 10). Neither was re-confirmed in fresh checks.",
+    "Do not say guidance implies 30% EPS growth at the midpoint. The prior-year base was not verified.",
+    "Do not call this a breakout from a long base. It is a move back above the August gap high (about $297), only about 5% above that close.",
+    "Do not use $304.58 or $304.90 as the 52-week or all-time high. Those are stale; the high is $314.24.",
+    "Do not present 42% net-sales growth as organic demand without noting metal pass-through. Value-added sales grew 15%.",
+    "Do not cite the ad-hoc-news.de headline 'raises guidance, stock gains 6.81%' as an Oct 2 catalyst. It is undated and probably refers to an earlier quarter.",
+    "Do not quote $250 and $224 as sourced moving-average values. They come from the dossier only; just the stretch arithmetic was re-checked."
+   ],
+   "name": "Materion Corporation",
+   "price": {
+    "value": 312.16,
+    "date": "2026-10-02"
+   },
+   "reasons": [
+    "Materion closed Friday at about $312, up $27, or 9.5%, on the day.",
+    "That close is less than 1% below its all-time intraday high of $314, which it hit on Friday.",
+    "It was a two-day burst. The stock rose about 6% on Thursday and 9.5% on Friday, roughly 16% in two sessions."
+   ],
+   "overall_score": 6.67,
+   "scores": {
+    "momentum": 9,
+    "technical": 6,
+    "social_buzz": 2,
+    "under_radar": 5,
+    "catalyst": 5,
+    "risk": 6
+   }
+  },
+  {
+   "ticker": "TWLO",
+   "company": "Twilio Inc.",
+   "spoken_name": "Twilio",
+   "ticker_spoken": "T-W-L-O",
+   "slot": "momentum",
+   "angle": "Twilio joins the S&P 500 before Tuesday's open, so index funds should buy in Monday's closing auction. It closed Friday about 1.5% under its $306 52-week high, after more than doubling this year and roughly tripling off its 52-week low. This week's test: once the forced buying is done, can it close above $306? Support is $290, and the setup breaks below $280. Say the caveat on air: the stock is about 30% above its 50-day, so this is a setup to watch for a reaction, not one to chase. Call it a 52-week high, never a record.",
+   "business_one_liner": "Twilio is a cloud communications platform. Its APIs let businesses build texting, voice, email and AI-driven customer engagement into their apps.",
+   "market_cap": "About $46 billion (dossier-only: Investing.com, around Oct 2, 2026, not re-confirmed). Large cap moving up from the S&P MidCap 400 to the S&P 500.",
+   "price_oct2": 301.27,
+   "facts": [
+    {
+     "text": "Twilio closed Friday, October 2nd, at about $301.",
+     "confidence": "confirmed",
+     "source": "Investing.com TWLO quote page (numbers check)"
+    },
+    {
+     "text": "That's about 1.5% under its 52-week high of $306, which it hit during Friday's session.",
+     "confidence": "confirmed",
+     "source": "Investing.com quote page: 52-week high $305.95 = Oct 2 intraday high (numbers check)"
+    },
+    {
+     "text": "Friday was a wide day. It traded between about $288 and $306 and closed about $5 off the high.",
+     "confidence": "confirmed",
+     "source": "Investing.com Oct 2 day range $287.51-$305.95 (numbers check)"
+    },
+    {
+     "text": "It has more than doubled this year, up about 108% year to date.",
+     "confidence": "confirmed",
+     "source": "CoinCentral / MoneyCheck search summary, YTD +107.97% (numbers check)"
+    },
+    {
+     "text": "From its 52-week low near $99, it has roughly tripled.",
+     "confidence": "confirmed",
+     "source": "Investing.com 52-week range $99.22-$305.95; CoinCentral; MoneyCheck"
+    },
+    {
+     "text": "On October 1st, S&P Dow Jones Indices said Twilio joins the S&P 500 before the open on Tuesday, October 6th, replacing Warner Bros. Discovery.",
+     "confidence": "confirmed",
+     "source": "S&P DJI press release 2026-10-01; Investing.com; StockTitan"
+    },
+    {
+     "text": "Warner Bros. Discovery leaves the index because Paramount Skydance's roughly $110 billion takeover is set to close that same Tuesday. The combined company will be called Skydance.",
+     "confidence": "confirmed",
+     "source": "WBD IR closing-date release; RTTNews; Variety; TechCrunch 2026-10-02"
+    },
+    {
+     "text": "A federal judge approved the deal's settlement with the state attorneys general, which cleared the last hurdle. No sign of a delay.",
+     "confidence": "confirmed",
+     "source": "Variety; RTTNews; Bleeding Cool; Popped News (Oct 2-3)"
+    },
+    {
+     "text": "FormFactor takes Twilio's old spot in the S&P MidCap 400, and Workiva takes FormFactor's spot in the SmallCap 600.",
+     "confidence": "confirmed",
+     "source": "S&P DJI release 2026-10-01 (numbers check); StockTitan"
+    },
+    {
+     "text": "The same S&P announcement also adds a second company, Vylor, to the S&P 500.",
+     "confidence": "confirmed",
+     "source": "S&P DJI release title 2026-10-01; El-Balad"
+    },
+    {
+     "text": "The trend is textbook stage 2. Price is above the 50-day, and the 50-day sits well above the 200-day.",
+     "confidence": "confirmed",
+     "source": "Technical snapshots via both fact-checks (50-day about $223-229, 200-day about $170-173; undated / late Sep)"
+    },
+    {
+     "text": "It's stretched: roughly 30% above its 50-day moving average, which is somewhere around $230, and about 75% above its 200-day, around $170.",
+     "confidence": "confirmed",
+     "source": "50-day $228.99 and 200-day $172.83 (undated), plus a late-Sep snapshot of $222.79 / $169.69; the gap reads 28-35% depending on the date of the figure"
+    },
+    {
+     "text": "This is a 52-week high, not a record. Twilio is still about 32% below its all-time closing high of about $443, set in February 2021.",
+     "confidence": "confirmed",
+     "source": "Macrotrends: all-time closing high $443.49 on Feb 18, 2021"
+    },
+    {
+     "text": "In the normal index playbook, funds buy in the closing auction of the session before a change takes effect. Here that's Monday's close.",
+     "confidence": "dossier-only",
+     "source": "Dossier; standard index practice (both checks call it consistent, but nobody quantified it)"
+    },
+    {
+     "text": "Market value is about $46 billion.",
+     "confidence": "dossier-only",
+     "source": "Investing.com via dossier, around Oct 2"
+    },
+    {
+     "text": "Over the past 12 months it's up about 189%, so it has nearly tripled.",
+     "confidence": "dossier-only",
+     "source": "Investing.com via dossier (1-year +188.54%), not re-confirmed"
+    },
+    {
+     "text": "On September 22nd, TD Cowen raised its target to $300 and Rosenblatt raised theirs to $290, both with Buy ratings. The stock already trades above both.",
+     "confidence": "dossier-only",
+     "source": "GuruFocus via dossier"
+    },
+    {
+     "text": "The average Wall Street target is about $263, roughly 13% below Friday's close.",
+     "confidence": "dossier-only",
+     "source": "StockAnalysis consensus $263.04 via dossier"
+    },
+    {
+     "text": "The company's last guide called for third-quarter revenue of about $1.5 billion, up about 16% reported and 11 to 12% organic.",
+     "confidence": "dossier-only",
+     "source": "Dossier: Q3 guide $1.505-1.515B, attributed to the Aug 6 Q2 release (not re-confirmed)"
+    },
+    {
+     "text": "After the S&P news, Stocktwits said retail sentiment stayed bullish and message volume stayed high. That buzz is driven by news, not memes.",
+     "confidence": "dossier-only",
+     "source": "Stocktwits article around Oct 1-2, via dossier"
+    }
+   ],
+   "levels": {
+    "pivot": 306,
+    "support": 290,
+    "invalidation": 280,
+    "how_to_say": "Levels I'm watching on Twilio. First, $306. That's just above Friday's 52-week high, and a close above it after Tuesday means buyers beyond the index funds are stepping in. Second, $290 is support. It sits right above Friday's intraday low near $288. Third, below $280 the setup is broken. The 50-day is way down around $230, so if $280 goes, there's a lot of air underneath."
+   },
+   "upcoming": [
+    "Mon Oct 5, at the close: index funds are expected to buy TWLO in the closing auction ahead of Tuesday's effective time (standard practice; size not sourced). Also that day: ISM Services PMI at 10:00 ET.",
+    "Tue Oct 6, before the open: TWLO officially joins the S&P 500, replacing WBD (confirmed, S&P DJI Oct 1). FormFactor moves to the MidCap 400 and Workiva to the SmallCap 600. The Paramount Skydance/WBD merger is expected to close the same day, and the combined company becomes 'Skydance' (confirmed, on schedule as of Oct 2-3).",
+    "Tue Oct 6 onward: the first sessions without forced index buying, which is the real test of whether TWLO can close above $306.",
+    "Wed Oct 7: FOMC minutes at 2:00 ET and a $39B 10-year Treasury auction at 1:00 ET. Both are rate events for high-multiple software, with the 10-year at a 2002 high.",
+    "Q3 2026 earnings: estimated around Thu Oct 29. LOW CONFIDENCE, because Twilio has not announced the date (MarketBeat/TipRanks estimate). That's outside this episode's week.",
+    "Oct 27-28: FOMC meeting. The odds of an October hike are now about 20%."
+   ],
+   "risks": [
+    "PRODUCER FLAG, EXTENSION GATE: both fact-checks say TWLO is about 28-35% above its 50-day (best figure: $228.99, so about 32%). That meets the show's 'roughly 30%+ above the 50-day' drop rule, and both recommend swapping in TER. The 50-day figures are undated. Only a live 50-day of about $232 or higher would bring the gap under 30%. If TWLO stays in, call out the extension on air.",
+    "Sell-the-news after inclusion: the forced buying lands at Monday's close. Stocks that run up into an S&P 500 add often give some back once that demand is gone.",
+    "Friday's reversal: it tagged $306 intraday and closed about $5 lower after an $18 range going into the inclusion weekend. Sellers showed up at the high.",
+    "Valuation: it trades about 13% above the roughly $263 average target and above the TD Cowen ($300) and Rosenblatt ($290) targets (dossier-only). Analysts have to keep chasing it.",
+    "Rates: the 10-year closed at 5.28%, its highest since 2002, which pressures high-multiple software. Wednesday brings the 10-year auction and the FOMC minutes.",
+    "Fundamentals bar: the organic growth guide is only about 11-12% (dossier-only) after a near-tripling. Q3 earnings (estimated late October, unconfirmed) have to justify the move.",
+    "A deep air pocket: with the 50-day around $230, losing $280 could mean a much bigger pullback than a normal breakout failure."
+   ],
+   "do_not_say": [
+    "Do not say 'record high' or 'all-time high'. $306 is only a 52-week high. The all-time closing high is about $443 (Feb 18, 2021), and the stock is about 32% below it.",
+    "Do not quote the CoinCentral prints of a $304.85 'high' and a $305.43 'settle'. They contradict each other. Use $305.95 (say $306).",
+    "Do not use a 50-day of $191, or the pandaforecast 50-day/200-day of $128/$114. They are stale.",
+    "Do not give a precise percent above the 50-day as fact. The figures are undated and the gap reads anywhere from 28% to 35%. Say 'roughly 30%'.",
+    "Do not cite any 20-day moving average, and do not say it passes the 20-day test. No confirmed source exists, and the readings conflict (about 18% vs about 27% above).",
+    "Do not say it isn't extended, or call it a low-risk or clean entry.",
+    "Do not say it 'tripled in a year'. The 12-month gain is about 189% (nearly tripled, dossier-only). The roughly 3x is measured from the 52-week low.",
+    "Do not give a percent change for Friday, Oct 2, or for the week. Neither could be found.",
+    "Do not make volume or accumulation claims for Oct 1-2. No volume data was found.",
+    "Do not put a share count or dollar size on Monday's index-fund buying. It is not sourced.",
+    "Do not say index funds buy on Tuesday. The change takes effect before Tuesday's open, so the buying is expected in Monday's closing auction.",
+    "Do not give Oct 29 as a confirmed earnings date. It's an estimate, and Twilio hasn't announced one.",
+    "Do not mention the roughly $134M of insider selling. No source or dates were found.",
+    "Do not state HSBC's Sep 25 downgrade to Reduce with a $211 target as fact. The dossier never identified the source page, and neither fresh check confirmed it.",
+    "Do not repeat the Stocktwits story that it 'soared 20% premarket on strong guidance'. Which quarter it covered was never confirmed.",
+    "Do not say Twilio is the only company joining the S&P 500, or that the announcement was about Twilio alone. Vylor was also added, and the release headline leads with Vylor.",
+    "Do not describe Vylor (what it does, its effective date). That was not determined.",
+    "Do not say Vylor's addition 'splits' or shrinks the index buying in TWLO. Each addition is bought at its own index weight, and the claim is unsupported.",
+    "Do not call it a WallStreetBets, top-trending or meme name. There is no evidence of that, and the buzz comes from the news.",
+    "Do not present the $46B market cap, the 1-year +189%, the analyst targets or the Q3 guide as freshly confirmed. They are dossier-only and were not re-checked this session."
+   ],
+   "name": "Twilio Inc.",
+   "price": {
+    "value": 301.27,
+    "date": "2026-10-02"
+   },
+   "reasons": [
+    "Twilio closed Friday, October 2nd, at about $301.",
+    "That's about 1.5% under its 52-week high of $306, which it hit during Friday's session.",
+    "Friday was a wide day. It traded between about $288 and $306 and closed about $5 off the high."
+   ],
+   "overall_score": 8.0,
+   "scores": {
+    "momentum": 9,
+    "technical": 6,
+    "social_buzz": 5,
+    "under_radar": 1,
+    "catalyst": 9,
+    "risk": 6
+   }
+  },
+  {
+   "ticker": "NVDA",
+   "company": "NVIDIA Corporation",
+   "spoken_name": "Nvidia",
+   "ticker_spoken": "N-V-D-A",
+   "slot": "social",
+   "angle": "Retail is coming back just as Nvidia hit its first record since May. This is a one-day-old breakout from a four-month base. The stock is only about 7% above a rising 50-day, and chips are leading the market. Call the buzz \"returning\", not \"surging\": Stocktwits chatter is normal, sentiment is neutral, and Friday's volume was only about 10% above average. Watch for a close above about $238, the new intraday record. The breakout fails on a close below $218, which is under the 50-day.",
+   "business_one_liner": "Nvidia designs the AI accelerator chips, networking gear and CUDA software that power the world's data centers. It is the bellwether for the whole AI chip trade.",
+   "market_cap": "About $5.7T at the Oct 2 close, nearing $6T (Bloomberg/QZ). Mega-cap.",
+   "price_oct2": 233.95,
+   "facts": [
+    {
+     "text": "Nvidia closed Friday, October 2nd, at about $234.",
+     "confidence": "confirmed",
+     "source": "Numbers check: NVDA quote pages (Benzinga/MarketBeat family); news check: StockAnalysis/Benzinga"
+    },
+    {
+     "text": "It was Nvidia's first record since May. Bloomberg's headline: 'Nvidia hits first record since May as value nears $6 trillion.'",
+     "confidence": "confirmed",
+     "source": "Bloomberg Oct 2; QZ/Yahoo Finance Oct 2"
+    },
+    {
+     "text": "Nvidia is worth about $5.7 trillion, closing in on $6 trillion. No company has ever crossed that mark.",
+     "confidence": "confirmed",
+     "source": "QZ/Yahoo Finance; Bloomberg, Oct 2"
+    },
+    {
+     "text": "Intraday it set a new all-time high of about $238, then closed about 1.6% below it.",
+     "confidence": "confirmed",
+     "source": "QZ/Yahoo Finance (about $237.83); sources differ by a few cents, so round to $238"
+    },
+    {
+     "text": "It opened around $236 and gave back part of the gain. The $234 close is still just under the prior intraday record of about $236.",
+     "confidence": "confirmed",
+     "source": "Yahoo Finance via news check (open $236.05, prior high $235.54)"
+    },
+    {
+     "text": "The stock is up nearly 25% from its late-July low.",
+     "confidence": "confirmed",
+     "source": "QZ/Yahoo Finance, Oct 2"
+    },
+    {
+     "text": "The summer slide wiped out more than $1 trillion in market value before this comeback.",
+     "confidence": "confirmed",
+     "source": "QZ/Yahoo Finance, Oct 2"
+    },
+    {
+     "text": "It sits about 7% above a rising 50-day moving average near $218, and about 13% above the 200-day near $207.",
+     "confidence": "confirmed",
+     "source": "MarketBeat-network Oct 2 SMAs ($218.20 / $207.30); approximately matches the dossier's Oct 3 values"
+    },
+    {
+     "text": "Friday's volume was about 135 million shares, only about 10% above average. That is modest support, not a blowout breakout.",
+     "confidence": "confirmed",
+     "source": "StockAnalysis/Benzinga quote pages via both checks (avg about 123-124M)"
+    },
+    {
+     "text": "On September 28th Nvidia added a record $150 billion to its buyback, the biggest in its history. That brings the authorization to about $235 billion through fiscal 2028.",
+     "confidence": "confirmed",
+     "source": "NVIDIA Newsroom; Bloomberg; Benzinga; CNBC Oct 1"
+    },
+    {
+     "text": "That $150 billion is bigger than Apple's $110 billion buyback addition in 2024.",
+     "confidence": "confirmed",
+     "source": "Benzinga / Investing.com via news check"
+    },
+    {
+     "text": "Analysts estimate the new buyback could cut the share count by about 4% and add about 1.6% to earnings per share by 2028.",
+     "confidence": "confirmed",
+     "source": "Benzinga buyback article via news check"
+    },
+    {
+     "text": "On Friday Morgan Stanley's Joseph Moore restored Nvidia as his top chip pick. He kept an Overweight rating and a $300 target, about 28% above Friday's close, and called the valuation 'very undemanding'.",
+     "confidence": "confirmed",
+     "source": "Benzinga; Seeking Alpha; Stocktwits News, Oct 2"
+    },
+    {
+     "text": "Morgan Stanley made the call after meetings with Jensen Huang and CFO Colette Kress.",
+     "confidence": "confirmed",
+     "source": "Benzinga; Stocktwits News, Oct 2"
+    },
+    {
+     "text": "On October 1st Cantor Fitzgerald's C.J. Muse reiterated Overweight and kept his $350 target.",
+     "confidence": "confirmed",
+     "source": "MarketBeat alert Oct 1; GuruFocus"
+    },
+    {
+     "text": "Consensus price targets sit in the $320s to $340s, depending on the aggregator. Individual targets run from about $180 up to $515.",
+     "confidence": "confirmed",
+     "source": "Numbers check correction: StockAnalysis/MarketBeat/Benzinga forecast pages, Oct 4"
+    },
+    {
+     "text": "This week Nvidia also unveiled a double-layered AI security system.",
+     "confidence": "confirmed",
+     "source": "QZ/Yahoo Finance via numbers check"
+    },
+    {
+     "text": "Nvidia just paid its final $10 billion into OpenAI's latest funding round, completing a $30 billion commitment.",
+     "confidence": "confirmed",
+     "source": "QZ; Yahoo Finance, Oct 2"
+    },
+    {
+     "text": "The rally is tied to excitement over AI agents, with Meta's Muse cited, and to expectations that chip demand will last.",
+     "confidence": "confirmed",
+     "source": "QZ/Yahoo Finance, Oct 2"
+    },
+    {
+     "text": "Around the Morgan Stanley news, Stocktwits put retail sentiment at 'neutral' with 'normal' chatter. Retail is coming back, not stampeding in.",
+     "confidence": "confirmed",
+     "source": "Stocktwits News, Oct 2"
+    },
+    {
+     "text": "AltIndex had Nvidia number three on the WallStreetBets board with 186 mentions. It was also among Stocktwits' top-trending tickers on Friday.",
+     "confidence": "dossier-only",
+     "source": "Dossier / scout notes (AltIndex; Stocktwits News); not re-verified in fresh checks"
+    },
+    {
+     "text": "Chips led Friday's market. The Philly semiconductor index rose about 3%, and the Nasdaq 100 made a record close.",
+     "confidence": "dossier-only",
+     "source": "market_pulse.json"
+    },
+    {
+     "text": "Even at a record, Nvidia appears to trail the tech sector this year. The tech ETF XLK is up about 39% year to date.",
+     "confidence": "dossier-only",
+     "source": "market_pulse.json (XLK +39.28%); Nvidia's own YTD figure is unconfirmed"
+    },
+    {
+     "text": "The 10-year Treasury yield closed near 5.3%, its highest since 2002. That is a headwind for high-multiple tech.",
+     "confidence": "dossier-only",
+     "source": "market_pulse.json (CNBC, 5.281% on Oct 2)"
+    },
+    {
+     "text": "Nvidia's next earnings are expected November 25th after the close, per TipRanks. That is the day before Thanksgiving.",
+     "confidence": "confirmed",
+     "source": "TipRanks NVDA earnings page via numbers check; no Nvidia IR release seen"
+    }
+   ],
+   "levels": {
+    "pivot": 238,
+    "support": 218,
+    "invalidation": 218,
+    "how_to_say": "Levels I'm watching on Nvidia. First, a close above about $238, Friday's new intraday record. That's my confirmation that the breakout from the four-month base is real. Support is the rising 50-day, around $218. A close below $218 means the breakout failed and I'm out. Under that, the 200-day near $207 is the deeper line."
+   },
+   "upcoming": [
+    "Mon Oct 5: first chance for a daily close above about $238 to confirm the breakout. Also the September ISM Services PMI at 10:00 ET, watching prices paid as a read on rates (market_pulse).",
+    "Wed Oct 7: $39B 10-year note auction (1:00 ET) and FOMC minutes from the September hike (2:00 ET). This is the key rate test for high-multiple mega-cap tech. Applied Digital (APLD) reports after the close, a read on AI data-center demand (market_pulse; dossier-level).",
+    "Oct 27-28: FOMC meeting. The market prices about a 20% chance of an October hike, and December is still in play (market_pulse).",
+    "Wed Nov 25, after the close: Q3 FY2027 earnings. TipRanks lists the date as confirmed, but no Nvidia IR release was seen. MEDIUM confidence. Say 'expected Nov 25, per TipRanks'. It falls the day before Thanksgiving.",
+    "Ongoing: execution of the roughly $235B buyback authorization through fiscal 2028 (announced Sep 28)."
+   ],
+   "risks": [
+    "The breakout is one day old and unconfirmed. Nvidia opened around $236, faded to close at $234, and finished about 1.6% below the roughly $238 intraday high. The close is still just under the prior intraday record near $236.",
+    "Weak volume confirmation. Friday's volume was only about 10% above average (135M vs about 124M), not the accumulation surge the model wants on a breakout.",
+    "The social premise is thin. Stocktwits shows 'neutral' sentiment and 'normal' chatter, and other snippets disagree ('bullish' vs 'neutral'). Nobody re-verified that buzz is still rising after Oct 2. Pitch it as 'retail returning', not 'buzz surging'.",
+    "Rates. The 10-year is near 5.3%, its highest since 2002. The 10-year auction and FOMC minutes both land Wed Oct 7, and a continued bond rout could cap mega-cap tech.",
+    "Circular AI money. Nvidia just completed a $30B investment commitment to OpenAI, a major customer, which feeds the vendor-financing critique of AI demand.",
+    "China and competition. Chinese firms such as DeepSeek, Alibaba and Baidu are moving to domestic chips, and coverage describes Nvidia's China AI share as near zero. Analysts also warn that fast GPU depreciation could hit the collateral behind GPU-backed AI loans.",
+    "Crowding and a '$6 trillion' sell-the-news risk. The stock is already massively owned, and the round-number headline could mark a near-term top.",
+    "Earnings run-up risk. The expected Nov 25 report could disappoint on data-center guidance. The lowest Street target is about $180, roughly 23% below Friday's close.",
+    "The buyback's headline outruns its impact. Estimates put the earnings-per-share lift at only about 1.6% by 2028.",
+    "Episode balance. Nvidia next to TER and a chip-led market story makes the show semis-heavy."
+   ],
+   "do_not_say": [
+    "Do NOT say '+2.9% on Friday'. The daily gain conflicts across sources (+2.6% GuruFocus intraday, +1.1% at 10:55am per Stocktwits, and the $236 open doesn't fit a $227 prior close). Say 'a solid Friday gain' or skip the number.",
+    "Do NOT cite a $227 support level or a $227 Oct 1 close. It was derived from the unconfirmed +2.9%.",
+    "Do NOT quote the intraday high to the cent ($237.88 / $237.87 / $237.83). Sources disagree, so say 'about $238'.",
+    "Do NOT say Nvidia closed at its high or above its old intraday record. It closed about 1.6% below the new high and just under the prior intraday record near $236.",
+    "Do NOT say '55 analysts, average target $320.71'. It could not be reproduced. Do NOT say the low target is $210; another source shows $180. Say 'consensus in the $320s to $340s' and name the aggregator.",
+    "Do NOT say Morgan Stanley 'upgraded' Nvidia or raised its target. It reinstated Nvidia as its top pick, keeping Overweight and the $300 target. Do NOT say Cantor raised its target; the $350 was unchanged.",
+    "Do NOT say '+27% YTD' (the producer's figure is unverified). Do NOT quote '+21% YTD' as current either: its date is uncertain and it may predate Friday. No YTD number on air.",
+    "Do NOT quote a weekly % move, 1-year return, 20-day moving average or RSI. None were found.",
+    "Do NOT quote the exact MarketBeat Oct 3 SMAs ($218.74 / $207.48). Only the Oct 2 values ($218.20 / $207.30) were found, so say 'about $218' and 'about $207'.",
+    "Do NOT say the earnings date is 'unannounced' or 'late November, unconfirmed'. Do NOT say 'Nvidia confirmed Nov 25' either. Say 'expected Nov 25 after the close, per TipRanks'.",
+    "Do NOT say buzz is 'surging', 'exploding' or a retail frenzy. Chatter is 'normal', sentiment is neutral or mixed, and rising buzz after Oct 2 was not re-verified.",
+    "Do NOT present the AltIndex WSB #3 rank (186 mentions), the 272 Reddit-wide mentions, or 'Stocktwits top-trending' as current or re-verified. If used, attribute them to AltIndex/Stocktwits as of Friday.",
+    "Do NOT claim a 'bearish-to-neutral' sentiment trajectory over the week. It was not re-confirmed, and the readings conflict.",
+    "Do NOT call it a 'big' or 'heavy-volume' breakout. Volume was only about 10% above average.",
+    "Do NOT say Nvidia hit $6 trillion or is the first $6T company. It is about $5.7T and 'nearing' $6T. Don't use the older $5.64T / $5.65T snapshots.",
+    "Do NOT call the $235B buyback new money. Only $150B is new; it brings the total authorization to about $235B ('total', not necessarily 'remaining').",
+    "Do NOT say the Morgan Stanley note pushed the stock 'up as much as 2.5% after the open'. That wasn't re-checked and conflicts with other intraday figures.",
+    "Do NOT cite '1 downgrade vs 3 upgrades in 90 days'. It was not checked.",
+    "Do NOT use the stray '$208 close' snippet. It is wrong.",
+    "Do NOT state as fact that there was no weekend (Oct 3-4) news. Searches found nothing, but that is absence of evidence.",
+    "Do NOT state Nvidia's China AI share as a hard number such as 'zero'. That comes from undated, opinion-level coverage, so frame it as a risk.",
+    "Wording caution: the safest phrasing is 'first record since May' (Bloomberg's headline). QZ/Yahoo say it closed at an all-time high, but the numbers check found no snippet saying 'record close' outright. Never say 'first record ever'."
+   ],
+   "name": "NVIDIA Corporation",
+   "price": {
+    "value": 233.95,
+    "date": "2026-10-02"
+   },
+   "reasons": [
+    "Nvidia closed Friday, October 2nd, at about $234.",
+    "It was Nvidia's first record since May. Bloomberg's headline: 'Nvidia hits first record since May as value nears $6 trillion.'",
+    "Nvidia is worth about $5.7 trillion, closing in on $6 trillion. No company has ever crossed that mark."
+   ],
+   "overall_score": 7.67,
+   "scores": {
+    "momentum": 7,
+    "technical": 8,
+    "social_buzz": 6,
+    "under_radar": 0,
+    "catalyst": 8,
+    "risk": 3
+   }
+  },
+  {
+   "ticker": "CHEF",
+   "company": "The Chefs' Warehouse, Inc.",
+   "spoken_name": "Chefs' Warehouse",
+   "ticker_spoken": "C-H-E-F",
+   "slot": "sleeper",
+   "angle": "The under-the-radar pick is a specialty food distributor worth about $4.8 billion that sells to fine-dining restaurants and hotels. It isn't on the social trending lists we scanned. On Friday it pushed out of a month-long base to a new all-time high. It is only about 7% above a rising 50-day, and the fuel was the big Q2 beat on July 29. Watch for a close above about $118.50 on rising volume. Support is the 50-day near $110, and the setup breaks below $105.",
+   "business_one_liner": "A specialty food distributor that supplies premium proteins, produce, cheeses and specialty ingredients to independent fine-dining restaurants, hotels, clubs and caterers. Most of the business is in major US cities, with some in Canada and the Middle East.",
+   "market_cap": "About $4.8B: $4.79B per MarketBeat (Oct 2) and Investing.com, $4.6B per indmoney. That is well under the $10B sleeper ceiling. Even fully diluted at about 46-47M shares, if the convertible notes settle in stock, it would be about $5.5B, still under the ceiling.",
+   "price_oct2": 117.94,
+   "facts": [
+    {
+     "text": "Chefs' Warehouse is a specialty food distributor. It supplies premium proteins, produce and cheeses to independent fine-dining restaurants, hotels, clubs and caterers, mostly in big US cities.",
+     "confidence": "dossier-only",
+     "source": "candidate_dossiers.json (business description; the news check found nothing contradicting it, but no fresh source restated it)"
+    },
+    {
+     "text": "It's about a $4.8 billion company, well under our $10 billion sleeper ceiling.",
+     "confidence": "confirmed",
+     "source": "MarketBeat Oct 2 alert ($4.79B); Investing.com ATH article ($4.79B); indmoney ($4.6B)"
+    },
+    {
+     "text": "It closed Friday around $118.",
+     "confidence": "confirmed",
+     "source": "indmoney, $117.94 Oct 2 close (labeled 'as of Oct 3'). Get a live quote before air"
+    },
+    {
+     "text": "Friday it traded just over $118 intraday, a new 52-week high and a new all-time high.",
+     "confidence": "confirmed",
+     "source": "MarketBeat Oct 2 alert (new 12-month high, intraday $118.51); indmoney day high $118.27; Investing.com prior ATH $117.67"
+    },
+    {
+     "text": "That move took out the early-September high near $118, which had capped the stock for about a month.",
+     "confidence": "confirmed",
+     "source": "GuruFocus Oct 2 (prior 52-week high $117.65); indmoney (Sep 1 high $117.65)"
+    },
+    {
+     "text": "It has made a string of record highs this year: first in the low $80s, then the mid $90s, and now the high $110s.",
+     "confidence": "confirmed",
+     "source": "Investing.com all-time-high alerts ($82.87, $95.27, $117.47, $117.67)"
+    },
+    {
+     "text": "Per GuruFocus, the stock is up about 87% this year and has more than doubled over the past year, up about 111%.",
+     "confidence": "confirmed",
+     "source": "GuruFocus Oct 2 article (measured at an intraday $116.42; attribute to GuruFocus)"
+    },
+    {
+     "text": "It's only about 7% above its rising 50-day moving average, which sits near $110, so it's not overextended by our rules.",
+     "confidence": "confirmed",
+     "source": "MarketBeat Oct 2 alert (50-day SMA $110.04)"
+    },
+    {
+     "text": "It's about 31% above its 200-day, which is near $90. The long-term trend is strong but stretched.",
+     "confidence": "confirmed",
+     "source": "MarketBeat Oct 2 alert (200-day SMA $89.71)"
+    },
+    {
+     "text": "That's real relative strength in a narrow market. Only about a quarter of S&P 500 stocks are above their 50-day, and Chefs' Warehouse just made a record.",
+     "confidence": "dossier-only",
+     "source": "market_pulse.json (StreetStats Oct 2: 24.8% of S&P 500 above their 50-day)"
+    },
+    {
+     "text": "The fuel was a second-quarter beat on July 29. The headline: 'tops estimates, shares jump.'",
+     "confidence": "confirmed",
+     "source": "Investing.com Q2 2026 earnings call transcript headline; Yahoo Finance date announcement; roic.ai transcript"
+    },
+    {
+     "text": "Wall Street rates it a consensus Buy across 8 analysts, with price targets from $104 up to a Street-high $131.",
+     "confidence": "confirmed",
+     "source": "Analyst aggregator (stockanalysis.com / Yahoo forecast / MarketScreener); TradingKey range matches"
+    },
+    {
+     "text": "It's trading right around the average analyst target, which runs about $116 to $122 depending on the source.",
+     "confidence": "confirmed",
+     "source": "MarketBeat consensus $115.67 vs aggregator average $122.00 (numbers check correction)"
+    },
+    {
+     "text": "The Street-high target of $131 is about 11% above Friday's close.",
+     "confidence": "confirmed",
+     "source": "Derived: $131 Street high vs $117.94 close"
+    },
+    {
+     "text": "The Street-high $131 target comes from TD Cowen.",
+     "confidence": "dossier-only",
+     "source": "candidate_dossiers.json (the $131 high is confirmed; the firm attribution was not independently re-seen)"
+    },
+    {
+     "text": "It's not cheap. It trades at about 47 times earnings, and GuruFocus's fair-value model calls it about 88% overvalued.",
+     "confidence": "confirmed",
+     "source": "GuruFocus Oct 2 (GF Value $62.10, 87.5% overvalued); indmoney/GuruFocus P/E 47.13"
+    },
+    {
+     "text": "Recent coverage is upbeat and centers on margin expansion and scaling the distribution network to take share.",
+     "confidence": "confirmed",
+     "source": "Motley Fool Sep 28, 2026; Yahoo Finance 'Can Chefs' Warehouse Margin Expansion Continue Through 2026?'"
+    },
+    {
+     "text": "No downgrades, stock offerings or guidance changes hit around the breakout.",
+     "confidence": "confirmed",
+     "source": "News check, Oct 2-4 (MarketBeat, GuruFocus)"
+    },
+    {
+     "text": "Buzz is low. Coverage is mostly automated price alerts plus a few Zacks, Yahoo and Motley Fool pieces, and it hasn't shown up on the WallStreetBets or Stocktwits trending lists we scanned.",
+     "confidence": "dossier-only",
+     "source": "candidate_dossiers.json social notes; the news check saw coverage of the same type, but the absence from trending lists was not re-checked"
+    },
+    {
+     "text": "Third-quarter results aren't scheduled yet. Last year's Q3 report came on October 29, so the best guess is late October, not this week.",
+     "confidence": "confirmed",
+     "source": "SEC EDGAR 8-K pattern; MarketBeat earnings page; company IR page (no Q3 2026 date as of Oct 4)"
+    }
+   ],
+   "levels": {
+    "pivot": 118.51,
+    "support": 110,
+    "invalidation": 105,
+    "how_to_say": "Levels I'm watching on Chefs' Warehouse. The trigger is a close above about $118.50, which is Friday's intraday record, and ideally on rising volume. Support is the rising 50-day near $110, about 7% below Friday's close. A close below $105 breaks the setup, and it comes off the watchlist."
+   },
+   "upcoming": [
+    "Any day now: CHEF's press release / 8-K announcing its Q3 2026 date. It usually comes about a month ahead (Sep 27, 2024 and Sep 29, 2023), and this year's had not appeared as of Oct 4. Re-check investors.chefswarehouse.com before air.",
+    "Q3 2026 earnings: NOT ANNOUNCED. The best estimate is late October, around Oct 27-29, based on Q3 2025 (Oct 29, 2025) and Q2 2026 (Jul 29). LOW confidence and inferred from the pattern. A report before Oct 16 is very unlikely but can't be fully ruled out.",
+    "Mon Oct 5: ISM Services PMI for September (10:00 ET). A read on services demand, including restaurants, and on prices paid.",
+    "Tue Oct 6: Lamb Weston (LW) reports before the open, a direct read-through on restaurant and foodservice traffic. Constellation Brands (STZ) reports after the close.",
+    "Wed Oct 7: FOMC minutes (2:00 ET) and a $39B 10-year note auction. Rate pressure falls hardest on high-multiple mid-caps like CHEF (about 47x earnings).",
+    "Thu Oct 8: PepsiCo (PEP) reports before the open, a consumer food-demand read. Weekly jobless claims are also out.",
+    "Fri Oct 9: University of Michigan consumer sentiment, preliminary October (September was 48.1). Delta (DAL) earnings give a read on premium consumer and travel spending.",
+    "Oct 27-28: FOMC meeting. The market prices about a 20% chance of an October hike."
+   ],
+   "risks": [
+    "Earnings binary: Q3 is probably late October and the date isn't announced. It comes after a run of more than 100% in a year, and the July beat set a high bar.",
+    "Valuation: about 47 times earnings, GuruFocus fair value of about $62 (88% 'overvalued'), and the price already sits around the $116-122 average analyst target. That leaves little room for a miss.",
+    "Extended on the long-term trend: about 31% above the 200-day (near $90). A failed breakout could pull back to the 50-day near $110 (about 7% down) or deeper.",
+    "The breakout isn't confirmed. Friday closed around $118, below the intraday high of about $118.50, and no breakout-day volume data was found, so accumulation is unproven.",
+    "Convertible notes and dilution: Q2 materials reportedly say the 2028 converts will be dilutive in FY26, with a fully diluted share count of about 46-47M versus about 41M basic. The company reportedly announced redemption of its 2.375% converts due 2028. Conversion could add shares or use cash. The terms and timing were not retrieved.",
+    "Macro and consumer: September payrolls rose only 29,000, unemployment is 4.2%, the 10-year closed at 5.28% (highest since 2002) and consumer sentiment is weak. Fine dining and hotel demand are discretionary, so a slowdown would hit restaurant traffic.",
+    "Fuel costs: record pump prices (about $6.53/gal) and a diesel surge tied to the Iran and oil situation raise delivery costs for a truck-based distributor.",
+    "Data noise: price sources disagree ($117.94 close vs a $116.42 intraday snapshot vs a stale $112.57), and Friday's high is $118.51 vs $118.27. Pull a live quote before quoting any price."
+   ],
+   "do_not_say": [
+    "Do not call it a '$4.5 billion' company (the angle's figure) or use the stale $3.48B / $4.49B market caps. Say about $4.8 billion, or under $5 billion.",
+    "Do not say it's '8% above a 50-day at $109'. MarketBeat's Oct 2 50-day is $110.04, about 7% below price. Support is near $110, not $109.",
+    "Do not call $116.42 Friday's close. It was a GuruFocus intraday snapshot. The best-supported close is $117.94.",
+    "Do not quote $112.57 as the current price (stale aggregator snapshot).",
+    "Do not say it was 'up 3.4% Friday'. That was an intraday reading. Friday's closing % change and the weekly % change were not verified.",
+    "Do not say it 'closed at a record above $118.51' or that the breakout is confirmed. It closed about $117.94, below the intraday high.",
+    "Do not say it's 1.8% below its high (that used the wrong $116.42 close). If needed, say 'within 1% of its high'. Note the conflict on the high itself: $118.51 (MarketBeat) vs $118.27 (indmoney).",
+    "Do not use a $79 200-day or say it's '45-49% above the 200-day'. Both are stale. Use about 31% above a 200-day near $90.",
+    "Do not cite the Sep 29 MarketBeat headline 'breaks above two hundred day moving average' (template noise).",
+    "TRAP: do not say Q3 was 'already reported Oct 29 with EPS $0.50 vs $0.43 and revenue $1.02B'. That is Q3 2025 data. Q3 2026 has NOT been reported.",
+    "Do not give a specific Q3 2026 earnings date. It is unannounced.",
+    "Do not quote the Q2 specifics: adj. EPS $0.78 vs $0.58 (or GuruFocus's $0.76 vs $0.55), revenue $1.169B vs $1.12B, organic +12.2%, net sales +12.9%, adj. EBITDA $88.1M vs $65.4M, +7.3% premarket. Only 'beat estimates, shares jumped' is confirmed.",
+    "Do not quote the FY26 guidance ($4.50-4.60B sales, $305-315M adj. EBITDA), the 'guidance raise', or the 2030 targets ($6.0-6.5B revenue, $450-520M adj. EBITDA). All unverified.",
+    "Do not say 'TD Cowen raised to $131 from $123 on Sep 11'. The date and prior target are unverified, and so are the dates of the Benchmark and UBS $125 targets.",
+    "Do not say it's 'above the consensus target, so little upside is left'. It depends on the source ($115.67 MarketBeat, $120.33 TradingKey, $122 aggregator). Say 'trading around the average target'.",
+    "Do not cite the +67.9% 52-week figure (undated snippet).",
+    "Do not cite the '24.46% profit margin' (likely wrong for a distributor).",
+    "Do not claim the breakout came on heavy or above-average volume, or that volume shows accumulation. No volume data was found.",
+    "Do not quote a 20-day moving average or a stretch figure versus the 20-day (not found).",
+    "Do not quote a base low or base depth (not found).",
+    "Do not say 'nobody on WSB or Stocktwits is talking about it' as an absolute. It was not re-checked. Say 'it's not on the social trending lists we scanned'.",
+    "Do not state the convert redemption date (August 2026), the exact diluted share count, or the settlement terms as fact. They come from a search summary only.",
+    "Do not cite the Yahoo 'options market predicting a spike' piece as current (undated).",
+    "Do not tie Investing.com's $117.67 all-time-high article or its +111.31% one-year figure to Oct 2. That article is probably from about Sep 1."
+   ],
+   "name": "The Chefs' Warehouse, Inc.",
+   "price": {
+    "value": 117.94,
+    "date": "2026-10-02"
+   },
+   "reasons": [
+    "It's about a $4.8 billion company, well under our $10 billion sleeper ceiling.",
+    "It closed Friday around $118.",
+    "Friday it traded just over $118 intraday, a new 52-week high and a new all-time high."
+   ],
+   "overall_score": 6.67,
+   "scores": {
+    "momentum": 8,
+    "technical": 7,
+    "social_buzz": 2,
+    "under_radar": 7,
+    "catalyst": 5,
+    "risk": 5
+   }
+  }
+ ],
+ "disclaimer": "I'm not a financial advisor and this isn't financial advice. Always do your own DD before putting money into any stock.",
+ "research_method": "Episode 1 was researched with live web search by parallel research agents (market pulse, new highs, RS leaders, themes, social buzz, sleepers, catalysts), deep dives per candidate scored on the show's rubric, a selector panel, and adversarial fact-checks. The quantitative scan could not run because the build sandbox blocks market-data downloads; weekly automated episodes use it."
+}

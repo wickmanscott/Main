@@ -25,6 +25,8 @@ KOKORO_FILES = "https://github.com/thewh1teagle/kokoro-onnx/releases/download/mo
 
 _ONES = "zero one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen".split()
 _TENS = "_ _ twenty thirty forty fifty sixty seventy eighty ninety".split()
+# Names the voice gets wrong, spelled the way they sound.
+_LEXICON = {"Houthis": "Hoo-theez", "Houthi": "Hoo-thee"}
 
 
 def _two_digits(n: int) -> str:
@@ -40,6 +42,10 @@ def normalize_for_speech(text: str) -> str:
     text = re.sub(r"\$(\d[\d,]*(?:\.\d+)?)\s*(billion|million|trillion)?",
                   lambda m: f"{m.group(1)} {m.group(2) + ' ' if m.group(2) else ''}dollars", text)
     text = re.sub(r"(\d)\s*%", r"\1 percent", text)
+    # "the low 80s" -> "the low eighties" (a voice reads "80s" as "eighty-z").
+    text = re.sub(r"\b([2-9])0s\b", lambda m: _TENS[int(m.group(1))][:-1] + "ies", text)
+    for word, spoken in _LEXICON.items():
+        text = re.sub(rf"\b{word}\b", spoken, text)
     # 2010-2099 read as years ("twenty twenty-six"), but leave "Russell 2000" alone.
     text = re.sub(r"\b20([1-9]\d)\b", lambda m: "twenty " + _two_digits(int(m.group(1))), text)
     return text

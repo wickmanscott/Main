@@ -92,8 +92,9 @@ guarantees future results.
    - `ANTHROPIC_API_KEY`: Claude writes the scripts. Without it, a plainer template script is used.
    - Optional `ELEVENLABS_API_KEY` + `ELEVENLABS_VOICE_ID`: to have **your own cloned
      voice** read the episodes. Clone your voice from your old episodes on ElevenLabs, then
-     set `tts.provider: elevenlabs` in `config/settings.yaml`. The default is a free
-     Microsoft neural voice (edge-tts).
+     set `tts.provider: elevenlabs` in `config/settings.yaml`. The default is Kokoro, a
+     free neural voice that runs offline: no key needed, and the model downloads once
+     (~350 MB, cached between runs). `edge` (Microsoft voices) is also available.
 3. **Turn on GitHub Pages:** Settings → Pages → deploy from the default branch, folder `/docs`.
    Your feed will be at `https://wickmanscott.github.io/Main/feed.xml`. Update
    `publish.site_url` and `publish.audio_url_template` if the repo or account name changes.
