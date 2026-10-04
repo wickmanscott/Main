@@ -1,0 +1,104 @@
+{
+ "headline": "Weak news turned out to be good news for stocks. September added only 29,000 jobs, which cut the odds of an October Fed hike from about 64% to about 20% and sent the Nasdaq 100 to a record close (30,807.93). But a nonstop bond sell-off pushed the 10-year yield to its highest level since 2002 (5.28% close), so the S&P 500 (-0.3%) and Dow (-1.3%) still lost ground on the week. Only the Nasdaq rose (+0.5%), carried by tech and chip stocks.",
+ "indexes": [
+  {
+   "name": "S&P 500",
+   "close": 7722.72,
+   "week_change_pct": -0.27,
+   "day_change_pct_oct2": 0.73,
+   "ytd_change_pct": 12.8,
+   "note": "Up 56.27 points on Friday and about 1% below its record close of 7,798.99 (Aug 13, 2026). Stuck in a two-month range under 7,800. 50-day MA 7,657.66 and 200-day MA 7,225.82 (StreetStats, Oct 2), so the index sits above both. Equal-weight S&P is up only 9.47% YTD. Daily path: Mon -0.77% (7,683.69), T"
+  },
+  {
+   "name": "Dow Jones Industrial Average",
+   "close": 51176.96,
+   "week_change_pct": -1.26,
+   "day_change_pct_oct2": 0.49,
+   "ytd_change_pct": 6.5,
+   "note": "Up 250.40 points on Friday. The weekly loss was about 652 points, computed from AP's 9/25 close of 51,828.62; AP rounds it to -1.3%. One summary said the Dow 'shed 319 points' on the week, which is wrong. Wednesday's drop of about 444 points (to 50,906.05) came after the PCE report. Financials weigh"
+  },
+  {
+   "name": "Nasdaq Composite",
+   "close": 27190.86,
+   "week_change_pct": 0.45,
+   "day_change_pct_oct2": 1.19,
+   "ytd_change_pct": 17,
+   "note": "Up 319.27 points on Friday. It set an intraday record but closed below its record close (investingLive). One source printed 27,192.87, a small discrepancy. It was the only major index up on the week. Q3 +2.5% and Sept +1.7%."
+  },
+  {
+   "name": "Nasdaq 100",
+   "close": 30807.93,
+   "week_change_pct": null,
+   "day_change_pct_oct2": 1,
+   "ytd_change_pct": 22.01,
+   "note": "Record close, up 306.37 points. No reliable weekly % was found; one lower-quality source put QQQ at +1.14% for the week, which is not verified. The YTD figure is from Slickcharts and may be a total return."
+  },
+  {
+   "name": "Russell 2000",
+   "close": 2832.9,
+   "week_change_pct": -0.16,
+   "day_change_pct_oct2": 0.94,
+   "ytd_change_pct": 14.1,
+   "note": "Up 26.27 points on Friday, its best day in about a month (Reuters), but down about 0.2% on the week. The YTD figure is my own calculation from a reported 12/31/2025 close of 2,481.91 found in search, so treat it as approximate. IWM was +13.37% YTD as of Oct 1 per 24/7 Wall St. Small caps were testin"
+  }
+ ],
+ "drivers": [
+  "Fri Oct 2, September jobs report (BLS): payrolls rose just 29,000, against consensus of about 84K (Dow Jones) or 90K (Reuters), the slowest gain of 2026. Unemployment ticked up to 4.2% from 4.1%. August was revised down to +133K from +162K and July to -10K, for 60K fewer jobs in total. Average hourly earnings rose 0.1% m/m and 3.0% y/y, the slowest annual pace since May 2021. Sources: BLS, CNBC, Bloomberg, Benzinga.",
+  "Fed pricing: the Fed hiked 25bp on Sept 16 to 3.75%-4.00% in a 12-0 vote, its first hike in more than 3 years (CNBC). Gov. Barr said on Sept 23 that further hikes are 'likely' needed, and October hike odds hit about 64-73% (CME FedWatch). After the jobs report, the odds of an October 27-28 hike fell to about 16-24% (Reuters: 23.8%, down from 64.2% a week earlier; CNBC: 77% chance of a hold). Traders still see a December hike as likely. NY Fed's Williams backs one more hike late this year but says there is 'no urgency.' Kevin Warsh is Fed Chair, sworn in May 2026.",
+  "Bond sell-off: long-dated Treasury yields hit their highest since 2002 this week. The 30-year topped 5.6% on Tue Sept 29. On Friday the 10-year first fell after the jobs data, then reversed to close up about 5bp at 5.281% (CNBC). Cited causes are energy-driven inflation, government debt and heavy AI-infrastructure borrowing. Mortgage rates are around 7%. This is why the S&P and Dow ended down for the week (Investing.com: 'post weekly loss on bond rout').",
+  "Wed Sept 30, August PCE: headline +0.3% m/m and 3.4% y/y. Core rose +0.2% m/m and 3.0% y/y, against 3.3% expected. Caveat: BEA methodology changes trimmed core by about 0.18pp, per RBC. The Dow fell about 444 points that day, and quarter-end tallies were S&P +2.0% for Q3, Dow -2.7%, Nasdaq +2.5%.",
+  "Thu Oct 1, ISM Manufacturing: 54.5 vs 55.0 expected, a 9th straight month of expansion. The prices-paid index jumped to 77.9 from 71.1, its highest since May, on oil, tariffs and metals. ADP (Sept 30) showed +90K private jobs vs 68K expected.",
+  "Iran war and oil: on Sept 26 Trump rejected Iran's offer of a truce and a reopened Strait of Hormuz. Brent topped $107 on Mon Sept 28 and the S&P fell 0.77%. On Oct 2 the G7/IEA agreed to release up to 100M barrels of diesel and oil over 4 months, with diesel front-loaded; Goldman says it offsets only about half the diesel surge. US pump prices hit a record $6.53/gal. WTI settled at $91.11 Friday (-1.9%, about -1.6% for the week); Brent at $102.25 (+0.1% for the week).",
+  "Weekend risk (Sat Oct 3): Yemen's Houthis said they hit an Aramco facility in Riyadh with missiles and drones (Reuters). A witness reported a smoke plume, and there is no confirmed supply disruption. Separately, OPEC+'s JMMC meets Sun Oct 4."
+ ],
+ "sectors_leading": [
+  "Technology (XLK) +1.80% on the week (Morningstar tech +1.44%), led by semis: Nvidia's record, Micron, Broadcom +3.35% Fri, Synopsys +12.8% Thu. On Friday SOXX rose 2.18% and the Philly chip index about 3%. XLK is +39.28% YTD with RSI 69, and 70% of its members are above their 50-day, the best breadth of any sector (ETF Action).",
+  "Energy (XLE) +1.26% (Morningstar +1.21%). Most of the gain came Thursday, after reports that Chinese refiners suspended October fuel exports. Refiners rallied on record diesel cracks, e.g. MPC +6.3%.",
+  "Utilities (XLU) +0.81%, the only other sector up on the week.",
+  "Friday only: Consumer Discretionary (XLY) +1.13% led all sectors (Tesla +4.65%), Tech +1.01%. Cruise lines were a standout for the week: Carnival about +15%, Royal Caribbean and Norwegian also up."
+ ],
+ "sectors_lagging": [
+  "Health Care (XLV) -2.65% (Morningstar -2.57%), on the pharma tariffs and CMS GLOBE drug-pricing model.",
+  "Financials (Morningstar financial services -2.45%) were pressured by surging long-term yields. Financials were the worst S&P sector in September at more than -6%: Blackstone -21% for the month, BlackRock -8%, and Morgan Stanley on a 6-day losing streak. XLF rose only +0.06% even on Friday's rally.",
+  "Value stocks -1.09% vs growth +0.38% on the week (Morningstar).",
+  "Rate-sensitive groups: homebuilders fell Friday as long-term yields rose, and banks, REITs and utilities barely moved on the day. Storage makers (Seagate, Western Digital) fell more than 12% Friday."
+ ],
+ "breadth_and_sentiment": "Breadth is narrow even with the index near records. As of Oct 2 (StreetStats), only 24.8% of S&P 500 stocks were above their 50-day MA (10th percentile historically) and 45.4% above their 200-day. The 10-day average of net new 52-week highs was about -4.3%, meaning new lows still outnumber new highs (slightly better than about -4.7% on Oct 1). 24/7 Wall St put it as the S&P nearing a record with roughly 75% of its stocks below their 50-day. Morningstar: of 872 stocks covered, only 35% rose on the week and 65% fell. The cap-weighted S&P is +12.8% YTD vs +9.47% for the equal-weight version. Friday's NYSE breadth was positive, with 1,676 advancers vs 1,077 decliners, about 1.2 to 1 (McClellan data via search). VIX closed at 15.31 on Oct 2, down 6.6% from 16.39; 30-day realized volatility is about 10.5. CNN Fear & Greed was 31 ('Fear') on Sept 30, up from 29 (Benzinga), and was also cited at 31 on Oct 2. AAII survey (week of Oct 1): 34.6% bullish (+2.0), 46.5% bearish (-1.6), 18.9% neutral. Bearish readings have been above their long-term average for 34 straight weeks. Small vs large caps: the Russell 2000 gained 0.94% Friday, its best day in about a month, but slipped about 0.2% on the week. On Morningstar's measure small caps (-0.04%) edged large caps (-0.29%), and growth (+0.38%) beat value (-1.09%). Momentum and leadership: the Nasdaq 100 made a record close, Nvidia an intraday record, and the market leaders are AI and semiconductor stocks. ETF Action notes Small Growth (IJT) +1.47% Friday and XLK nearly overbought at RSI 69. Early Q3 reports: 13 S&P companies have reported and 85% beat; Q3 EPS growth is tracking about +31% (secondary source, myweeklystock substack).",
+ "other_assets": [
+  "10-year Treasury: 5.281% close on Oct 2, up about 5bp on the day after an early drop on the jobs data (CNBC). It hit its highest levels since 2002 this week and closed at 5.24% on Oct 1 after a 6bp drop. 2-year about 4.84% and 30-year about 5.61% on Oct 2 (StreetStats). The 30-year topped 5.6% intraday Sept 29, highest since June 2002. 10s-2s spread is about +45bp. https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html",
+  "Oil (Oct 2 settles): WTI $91.11/bbl, -$1.76 (-1.90%) on the day and about -1.6% for the week. Brent $102.25, -0.06% on the day and +0.11% for the week, a premium of more than $11 over WTI. Brent topped $107 on Sept 28 after Trump rejected Iran's offer. A Houthi strike claim on an Aramco site on Sat Oct 3 adds upside risk going into Monday. https://energynow.com/2026/10/oil-ends-volatile-week-mixed-as-emergency-reserve-release-knocks-wti-lower-but-brent-holds-above-102/",
+  "Gold: US futures settled at $4,162.30 (-1%) on Oct 2. Spot was about $4,140 (-0.9%), down about 3.4% for the week and a second straight weekly loss, on a firm dollar and high yields. Silver spot $60.36 (-0.8%), platinum $1,692.90. https://www.cnbc.com/2026/10/02/gold-slips-before-us-payrolls-data-set-for-second-weekly-loss.html",
+  "Bitcoin: briefly crossed $87,000 on Oct 2 after the jobs data, then faded to about $85,300 and was about $84,600-84,800 on Oct 3. About +2.6% on the week, a third straight weekly gain. About $433.6M of leveraged positions were liquidated, roughly three-quarters of them longs. It sits about 1.5% below its 2026 open of about $87,700. https://www.coindesk.com/tech/2026/10/02/live-updates-bitcoin-gold-and-tech-futures-edge-higher-as-markets-await-u-s-jobs-report ; https://www.cryptotimes.io/2026/10/03/bitcoin-price-slips-to-84600-as-433m-liquidations-hit-longs-after-87k-rejection/",
+  "US Dollar Index (DXY): about 101.93 on Oct 2 (-0.17%), dipping below 102 after payrolls but up about 0.9% for the week, a third straight weekly gain. EUR/USD about 1.1252 and USD/JPY about 157.83. https://www.fxstreet.com/news/us-payrolls-miss-at-29k-and-the-dollar-index-drops-below-10200-202610021607 ; https://tradingeconomics.com/united-states/currency"
+ ],
+ "week_ahead": [
+  {
+   "date": "Sat-Sun Oct 3-4",
+   "event": "Weekend risk: the Houthis claimed a missile and drone attack on an Aramco facility in Riyadh on Sat Oct 3; damage is unconfirmed. OPEC+ JMMC meeting Sunday. Brazil general election Sunday."
+  },
+  {
+   "date": "Mon Oct 5",
+   "event": "S&P Global Services/Composite PMI final for Sept (9:45 ET). ISM Services PMI for Sept (10:00 ET): consensus about 55.1 per investingLive or 55.7 per CMC, prior 55.4; watch prices paid after manufacturing prices hit 77.9. Fed's Goolsbee speaks."
+  },
+  {
+   "date": "Tue Oct 6",
+   "event": "US trade balance for August (8:30 ET). Treasury auctions $58B of 3-year notes (1:00 ET). Fed's Williams and Bowman speak. EIA Short-Term Energy Outlook. Earnings before the open: Lamb Weston (LW), RPM International (RPM), Apogee (APOG). After the close: Constellation Brands (STZ; EPS est. about $3.62), Penguin Solutions (PENG; EPS est. $0.77 on $519M revenue), Neogen (NEOG)."
+  },
+  {
+   "date": "Wed Oct 7",
+   "event": "FOMC minutes from the Sept 15-16 meeting, where the Fed hiked (2:00 ET). Treasury auctions $39B of 10-year notes (1:00 ET), a key test given the bond sell-off. Consumer credit for August (3:00 ET). Fed's Logan speaks. Earnings after the close: Applied Digital (APLD, call 5pm ET) and Levi Strauss (LEVI; EPS est. $0.36 on $1.62B revenue)."
+  },
+  {
+   "date": "Thu Oct 8",
+   "event": "Initial jobless claims (8:30 ET), wholesale inventories, more US Treasury supply (the 30-year auction usually falls this week; date and size not confirmed). Fed's Musalem speaks. ECB minutes. PepsiCo (PEP) reports before the open, around 6:00 ET."
+  },
+  {
+   "date": "Fri Oct 9",
+   "event": "University of Michigan consumer sentiment, preliminary October (10:00 ET); September was 48.1. Fed's Collins speaks (per TipRanks). Delta Air Lines (DAL) reports before the open, call 10:00 ET. Canada September jobs report."
+  },
+  {
+   "date": "Looking further out",
+   "event": "The FOMC meets Oct 27-28; an October hike is now priced at about 20%, and December remains in play. Big-bank Q3 earnings begin the following week. Government funding runs through Dec 11."
+  }
+ ]
+}

@@ -1,0 +1,1665 @@
+{
+ "verified_dossiers": [
+  {
+   "ticker": "TER",
+   "company": "Teradyne, Inc.",
+   "sector": "Technology",
+   "industry": "Semiconductor Equipment (Test)",
+   "market_cap": "$70.20B (MarketBeat Oct 2, 2026 alert)",
+   "business_one_liner": "Makes automated test equipment for semiconductors (SoC/AI compute, memory, optical) plus defense and electronics test systems. Its robotics unit is Universal Robots/MiR.",
+   "price": {
+    "value": 449.04,
+    "date": "2026-10-02"
+   },
+   "performance_pct": {
+    "week": null,
+    "month": null,
+    "ytd": 140,
+    "one_year": 209.9,
+    "three_month": null,
+    "notes": "Friday Oct 2: +8.0% (from $415.79 to $449.04, per MarketBeat). 1-year +209.9% (search summary of the MarketBeat/TradingView pages, around Oct 2). The YTD figure is approximate: a TIKR article headline says 'up around 140% in 2026', but its exact date is unclear. I could not verify the scout's +20.7% month or the weekly change; both are null. Stock is still about 8% below its June 30 all-time high, so the 3-month return is likely modest or negative, but that is unverified."
+   },
+   "range": {
+    "high_52w": 487.91,
+    "low_52w": 131.75,
+    "pct_below_52w_high": 8,
+    "date": "2026-10-02"
+   },
+   "moving_averages": {
+    "sma50": 373.1,
+    "sma200": null,
+    "pct_above_50": 20.4,
+    "date": "2026-10-02"
+   },
+   "catalysts": [
+    {
+     "date": "2026-10-02",
+     "headline": "TER +8% to $449.04 (intraday high $451.86) as chips led and the Nasdaq 100 closed at a record",
+     "detail": "MarketBeat ties the move to 'AI-driven memory and optical test growth' and 'upbeat analyst attention', but names no specific new press release or analyst. Volume was about 3.36M shares, 6% BELOW the 3.57M average, so this was not a high-volume breakout."
+    },
+    {
+     "date": "2026-06 (early June 2026, NOT Oct 2)",
+     "headline": "Teradyne and Tokyo Electron launch an integrated test cell for AI and data-center chips (UltraFLEXplus + TEL Prexa SDP singulated-device prober for 2.5D/3D chiplets)",
+     "detail": "The search summary dates the announcement to June 2026. Investing.com article IDs (4730809, just before the June 10 contract story's 4736273) support early June. The scout's 'Oct 2' date looks wrong. This is stale, not new news."
+    },
+    {
+     "date": "2026-06-10",
+     "headline": "$139,903,994 firm-fixed-price requirements contract from the US Department of War (Air Force Sustainment Center, Robins AFB) for versatile diagnostic automatic test station kits",
+     "detail": "Awarded June 10, 2026. Sole source, contract FA857926D0004, runs to June 12, 2031. No funds were obligated at award. This is about four months old, not a fresh catalyst."
+    },
+    {
+     "date": "2026-07-30",
+     "headline": "Q2 2026 beat and price-target hikes: EPS $2.47 vs $2.09 consensus; revenue $1.33B, +103.9% y/y vs $1.22B est",
+     "detail": "Jul 30 targets: JPMorgan $465 (from $450), Evercore ISI $420 (from $370), Morgan Stanley $397 (from $387). Cantor Fitzgerald raised to $550 (from $400), Overweight, on an unclear date."
+    },
+    {
+     "date": "2026-10-27 (estimated)",
+     "headline": "Q3 2026 earnings, estimated Tue Oct 27, with a call reported for Wed Oct 28 at 8:30 AM ET",
+     "detail": "Not confirmed by a company press release found this session. It falls about 3 weeks after the episode airs."
+    }
+   ],
+   "negative_news": [
+    {
+     "date": "2026 (date not determined)",
+     "headline": "CEO Smith sells $1.43 million in stock"
+    },
+    {
+     "date": "2026 (date not determined)",
+     "headline": "Director Marilyn Matz sells $507,635 in company stock"
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Stock trades about 13% above the $396.80 consensus price target (Moderate Buy); most Street targets sit below the price"
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "The +8% Friday move came on volume 6% below average"
+    }
+   ],
+   "next_earnings": {
+    "date": "2026-10-27",
+    "confirmed": false,
+    "source": "MarketBeat earnings page (estimated from past schedule). The search summary also cites a call on Wed Oct 28, 8:30 AM ET, which I could not confirm with a compan"
+   },
+   "social": {
+    "level": "low",
+    "trend": "unknown",
+    "notes": "No WSB/StockTwits/trending data turned up in the search budget. TER is a $70B Nasdaq-100 large cap mostly owned by institutions; chatter likely rose with the 8% Friday move, but that is unverified."
+   },
+   "analysts": "MarketBeat consensus is Moderate Buy with an average target of $396.80, below the $449 price. Post-Q2 (Jul 30) targets: JPMorgan $465 (from $450), Evercore ISI $420 (from $370), Morgan Stanley $397 (from $387). Cantor Fitzgerald is the Street high at $550, Overweight (raised from $400). A TIKR piece",
+   "key_levels": {
+    "breakout_or_pivot": 487.91,
+    "support": 415.79,
+    "invalidation": 400,
+    "rationale": "Pivot $487.91 is the June 30, 2026 all-time/52-week high. TER is about 8% below it, not 0.6% as the scout claimed (the scout may have used Friday's $451.86 intraday high). A first trigger is a close above Friday's $451.86 high; the real breakout is a close above $487.91 on above-average volume. Support $415.79 is the Oct 1 close, where Friday's gap started. Holding it keeps the gap intact. Invalidation $400 is a round number below the gap. Losing it means a failed gap and likely a slide toward the rising 50-day near $373, which is too far for a momentum entry."
+   },
+   "risks": [
+    "Extended: 20.4% above the 50-day ($373.10) after a single-day 8% gap. That is the upper edge of the 'not stretched' anchor.",
+    "Friday's 8% gain came on below-average volume (-6% vs average), a weak sign of institutional backing.",
+    "The producer's premises do not hold: the stock is about 8% below its 52-week high, not 0.6%, and both headline catalysts (TEL test cell, $139.9M DoW contract) are from June 2026, not October.",
+    "Price is about 13% above the $396.80 consensus target, so valuation leaves less room for error.",
+    "Q3 earnings are estimated Oct 27-28, about 3 weeks out. After a doubling-plus year, expectations are high.",
+    "Macro: the 10-year yield is at 5.28%, the highest since 2002. Memory/storage peers (STX, WDC) fell more than 12% Friday, which could spill into memory-test sentiment.",
+    "Insider selling by the CEO ($1.43M) and a director ($508K); the dates are not confirmed in this session.",
+    "Several data gaps: no 200-day value, unverified month/week/YTD returns, Oct 2 price taken from an intraday-labelled alert."
+   ],
+   "scores": {
+    "momentum": 7,
+    "technical": 6,
+    "social_buzz": 3,
+    "under_radar": 2,
+    "catalyst": 5,
+    "risk": 6
+   },
+   "best_slot": "momentum",
+   "verdict": "Usable for the momentum slot only with corrections, and weaker than pitched. The verified facts: TER jumped 8% Friday to $449.04 (high $451.86), is up about 210% over a year, and sits 20.4% above its 50-day ($373.10). Three key claims fail. (1) It is about 8% below its 52-week/all-time high of $487.91 (June 30), not 0.6%. (2) The Tokyo Electron test cell and the $139.9M Department of War contract (awarded June 10) are both June 2026 news, not new catalysts. (3) Friday's move came on below-average volume. Frame it on air as a semi-test leader rebounding toward its June high, with a buy trigger on a close above $487.91 on strong volume. Support is $415.79 (gap level), invalidation $400, and Q3",
+   "data_confidence": "medium"
+  },
+  {
+   "ticker": "MTRN",
+   "company": "Materion Corporation",
+   "sector": "Basic Materials",
+   "industry": "Specialty / Advanced Materials",
+   "market_cap": "$6.38B per MarketBeat/Cerbat Gem on Oct 2, 2026, apparently priced near the intraday $306 print. At the $312.16 close it works out to about $6.5B (derived from about 20.8M implied shares). Mid-cap.",
+   "business_one_liner": "Advanced materials maker (specialty and beryllium alloys, precision coatings and electronic materials) that sells into semiconductors, aerospace/defense, space and industrial markets. Every segment grew sales by double digits in Q2 2026, and backlog hit a record, up about 30% year over year.",
+   "price": {
+    "value": 312.16,
+    "date": "2026-10-02"
+   },
+   "performance_pct": {
+    "week": null,
+    "month": null,
+    "three_month": null,
+    "ytd": null,
+    "one_year": 144.33,
+    "notes": "The 1-year +144.33% comes from Investing.com's 'Materion stock hits all-time high of 304.9 USD' piece (Oct 2, 2026), not the producer's +113%. The figure was likely measured intraday, and the gap between the two numbers is unresolved. Oct 2 alone: +9.5% ($285.14 to $312.16). The stock jumped about 25% after Q2 results (released Aug 4, 2026; call Aug 5) per an Investing.com transcript headline. No week, month, 3-month or YTD figures were found in this session's searches."
+   },
+   "range": {
+    "high_52w": 314.24,
+    "low_52w": null,
+    "pct_below_52w_high": 0.7,
+    "date": "2026-10-02"
+   },
+   "moving_averages": {
+    "sma50": 250.39,
+    "sma200": 223.79,
+    "pct_above_50": 24.7,
+    "date": "2026-10-02"
+   },
+   "catalysts": [
+    {
+     "date": "2026-10-02",
+     "headline": "Breakout to an all-time high: +9.5% to $312.16 close, intraday high $314.24, on 404,203 shares",
+     "detail": "No company-specific news, upgrade or filing for Oct 2 turned up. The move came on the same day semis ran (SOXX +2.18% Fri, per the market brief), and Materion sells into semiconductors. Linking the two is my inference, not something a source states. Average daily volume was not found, so I cannot confirm the volume was above average, though 404K is more than double the 173.5K MarketBeat logged mid-day."
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Argus raises MTRN price target to $305",
+     "detail": null
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Consensus rating Buy, average price target $310.00",
+     "detail": "The stock now closes above the consensus target, so it is running ahead of the analysts."
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Jefferies initiates coverage at Buy, $314 price target",
+     "detail": null
+    },
+    {
+     "date": "2026-08-04",
+     "headline": "Record Q2 2026: adj. EPS $1.90 vs $1.52 consensus ($1.37 a year ago); net sales $613.9M vs $431.7M (+42.2%); FY26 adj. EPS guide raised to $6.80-$7.20 (+30% at midpoint); stock jumped about 25%",
+     "detail": "Record adjusted EBITDA of $71.8M (23.3% of value-add sales, +250 bp). Mid-teens sales growth now expected for the year. Record backlog up about 30% year over year. About $15M in new business from a large commercial space customer. This is two months old, so it is fundamental support rather than a fresh catalyst."
+    }
+   ],
+   "negative_news": [
+    {
+     "date": "2026-09-10",
+     "headline": "Weiss Ratings cuts MTRN from Hold (C+) to Hold (C) (minor, quant-driven)"
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Stock now trades above both the $310 consensus target and Argus's $305 target; GAAP P/E about 71"
+    }
+   ],
+   "next_earnings": {
+    "date": "2026-11-04",
+    "confirmed": false,
+    "source": "MarketBeat earnings page gives an estimated Wed Nov 4, 2026. One search snippet mentioned an Oct 28, 2026 10:00 AM ET call, but its source and year were unclear"
+   },
+   "social": {
+    "level": "low",
+    "trend": "unknown",
+    "notes": "None of the six searches turned up WSB, StockTwits or Reddit trending mentions. Coverage is the usual MarketBeat, Investing.com and syndicated auto-alerts. The stock is 93.56% held by institutions (MarketBeat), so this looks like a quiet institutional move rather than a retail mania. I did not run a search dedicated to social buzz, so that check is incomplete."
+   },
+   "analysts": "Consensus Buy, average PT $310.00 (Daily Political/MarketBeat, Sep 25, 2026). Jefferies initiated Buy, PT $314 (Sep 2, 2026). Argus raised PT to $305 (Sep 30, 2026). Weiss cut Hold (C+) to Hold (C) (Sep 10, 2026). Number of covering analysts not found. Coverage looks thin, typical of a mid-cap.",
+   "key_levels": {
+    "breakout_or_pivot": 314.24,
+    "support": 289.69,
+    "invalidation": 285,
+    "rationale": "Pivot: $314.24, the Oct 2 intraday all-time high. A close above it would show the breakout carrying on into the new week. Support: $289.69-$292.25, the Oct 2 low and open, where buyers stepped in at the start of the breakout day. Invalidation: a close below about $285 (the $285.14 Oct 2 prior close) would erase the whole breakout day and mark a failed breakout. Caveat: the 50-day ($250) sits about 20% below the price, so the next major moving-average support is far off. A normal pullback toward the 50-day would be a deep drawdown for anyone buying here."
+   },
+   "risks": [
+    "Extended: about 24.7% above the 50-day ($250.39) and about 39.5% above the 200-day ($223.79), past the 15-20% comfort zone after a +9.5% one-day pop. Prone to a pullback or digesting sideways.",
+    "Price ($312) is already above the consensus target ($310) and Argus ($305), and only just below Jefferies ($314). Analysts may lag, or valuation pushback may follow.",
+    "Rich valuation: GAAP P/E about 71 (MarketBeat). The forward multiple on the $6.80-7.20 guide is about 43-46x (derived).",
+    "The Oct 2 breakout has no identified company catalyst. If it was driven by semis or sector rotation, it could reverse when chips cool off.",
+    "Rates: the 10-year at 5.28% (a 2002 high) weighs on high-multiple mid-caps.",
+    "Q3 earnings around late Oct/early Nov (unconfirmed) are the next binary event, though they fall outside the episode week.",
+    "Data gaps: average volume, RSI and week/month/YTD performance were not verified."
+   ],
+   "scores": {
+    "momentum": 9,
+    "technical": 6,
+    "social_buzz": 2,
+    "under_radar": 5,
+    "catalyst": 5,
+    "risk": 6
+   },
+   "best_slot": "momentum",
+   "verdict": "MTRN fits the momentum slot as a non-tech, non-energy leader: a record Q2 beat with a raised guide, a 1-year gain of more than 100% (Investing.com says +144%), and a Friday close at an all-time high. One correction to the scout notes: the actual Oct 2 close was $312.16 (+9.5% from $285.14), not $306.12, which was a MarketBeat intraday print. The real close is about 0.7% below the $314.24 intraday high and about 24.7% above the 50-day. The stock is getting more stretched, not less, and is now past the 15-20% extension guideline. I found no company-specific news or upgrade behind the Oct 2 pop; it most likely rode Friday's semis strength. Volume of 404K looks solid, but average volume could no",
+   "data_confidence": "medium"
+  },
+  {
+   "ticker": "TWLO",
+   "company": "Twilio Inc.",
+   "sector": "Technology",
+   "industry": "Software (cloud communications / CPaaS)",
+   "market_cap": "$46.27B (Investing.com quote page, around Oct 2, 2026). Large cap that is moving up from the S&P MidCap 400 to the S&P 500.",
+   "business_one_liner": "Cloud communications platform: APIs that let businesses build messaging, voice, email and AI-driven customer-engagement features into their apps.",
+   "price": {
+    "value": 301.27,
+    "date": "2026-10-02"
+   },
+   "performance_pct": {
+    "week": null,
+    "month": null,
+    "three_month": null,
+    "ytd": null,
+    "one_year": 188.54,
+    "notes": "1-year change of +188.54% comes from Investing.com (around Oct 2, 2026). The stock is more than 200% above its 52-week low of $99.22 (CoinCentral and Investing.com). I could not verify week, month, 3-month or YTD figures in this session. The producer's 'more than doubled YTD' fits the 1-year move but is unconfirmed here. Rough cross-check: StockAnalysis lists a consensus target of $263.04 that it calls 10.95% below the latest price, which implies a reference price near $295 a few days earlier."
+   },
+   "range": {
+    "high_52w": 305.95,
+    "low_52w": 99.22,
+    "pct_below_52w_high": 1.53,
+    "date": "2026-10-02"
+   },
+   "moving_averages": {
+    "sma50": null,
+    "sma200": null,
+    "pct_above_50": null,
+    "date": "unverified"
+   },
+   "catalysts": [
+    {
+     "date": "2026-10-01",
+     "headline": "S&P Dow Jones Indices: Twilio to join the S&P 500, replacing Warner Bros. Discovery, before the open Tue Oct 6",
+     "detail": "WBD is leaving because its acquisition by Paramount Skydance is expected to close the same day. FormFactor (FORM) takes TWLO's spot in the MidCap 400, and Workiva (WK) takes FORM's spot in the SmallCap 600. Stocktwits reported TWLO rose after hours on the news. Index funds normally buy in the closing auction the session before the change takes effect, which is Monday Oct 5."
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "S&P 500 inclusion takes effect (before the open Tuesday)",
+     "detail": "The index-fund buying is a known, dated event. Monday's close (Oct 5) is when it should hit, and Tuesday onward tests whether the stock holds once that demand is gone."
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "TD Cowen raises target to $300 from $260 (Buy); Rosenblatt raises to $290 from $275 (Buy)",
+     "detail": "Both bullish targets are now at or below the Oct 2 price of $301.27."
+    },
+    {
+     "date": "2026-08-06",
+     "headline": "Q2 2026 results; Q3 revenue guide set at $1.505B-$1.515B (+16% to +16.5% reported, +11% to +12% organic)",
+     "detail": "The guidance is the fundamental support for the rally. Stocktwits ran a 'TWLO soars 20% premarket on strong guidance' story, but I could not confirm which quarter it covered."
+    },
+    {
+     "date": "2026-10-29 (estimated, unconfirmed)",
+     "headline": "Q3 2026 earnings (quarter ended Sep 30)",
+     "detail": "MarketBeat and TipRanks estimate. Twilio has not announced the date yet. It falls about 3.5 weeks out, after this episode's week."
+    }
+   ],
+   "negative_news": [
+    {
+     "date": "2026-09-25",
+     "headline": "HSBC downgrades Twilio to Reduce with a $211 price target, about 30% below the Oct 2 close"
+    },
+    {
+     "date": "trailing 3 months (as of late Sep / early Oct 2026, exact date not given)",
+     "headline": "Insiders sold about $134M of stock over the past three months"
+    },
+    {
+     "date": "around late Sep 2026",
+     "headline": "Stock trades above the Street consensus target of $263.04, about 11% below the latest price"
+    }
+   ],
+   "next_earnings": {
+    "date": "2026-10-29",
+    "confirmed": false,
+    "source": "MarketBeat earnings page / TipRanks estimate (Twilio has not announced the date; Q3 ends Sep 30, 2026)"
+   },
+   "social": {
+    "level": "moderate",
+    "trend": "rising",
+    "notes": "A Stocktwits news article around Oct 1-2, 2026 said retail sentiment on TWLO 'stayed in bullish territory over the past 24 hours, while message volume remained high' after the S&P 500 announcement. That is high relative to TWLO's own baseline. I found no sign of WSB or top-10 trending status. The buzz comes from news (index inclusion, AI-communications story), not a meme-style surge."
+   },
+   "analysts": "Recent activity: on Sep 22, 2026, TD Cowen (Derrick Wood) raised its target to $300 from $260 (Buy) and Rosenblatt raised to $290 from $275 (Buy), per GuruFocus. On Sep 25, 2026, HSBC downgraded to Reduce with a $211 target (search summary, page not identified). StockAnalysis lists a consensus 12-mo",
+   "key_levels": {
+    "breakout_or_pivot": 306,
+    "support": 290,
+    "invalidation": 280,
+    "rationale": "Pivot at $306: just above the verified 52-week intraday high of $305.95 (Investing.com), the $304.85 high alert and the $305.43 settle (CoinCentral). A close above $306 after the inclusion takes effect would show demand beyond the index funds. Support at $290: a round number about 3.7% below the $301.27 close. It is also Rosenblatt's target and the bottom of the late-September run toward the highs (StockAnalysis's consensus math implies a price near $295 a few days earlier). Invalidation at $280: about 7% below the close and 8.5% below the high, the usual stop for a failed breakout. Losing it after Oct 6 would confirm the classic post-inclusion 'sell the news' fade. These levels rest on price and percentages only, because I could not verify a current 50-day MA. If a live chart shows the 50-day well below $280, the stock is extended and pullbacks could run deeper."
+   },
+   "risks": [
+    "Post-inclusion fade: index-fund buying is concentrated at Monday Oct 5's close. Stocks that run into an S&P 500 addition often give some back once the forced buying is done, so frame Oct 6 onward as the 'can it hold $305?' test, not a guaranteed lift.",
+    "Extension: the stock is up about 189% in a year, more than 200% off its $99.22 low and about 1.5% below its high. The 50-day gap is unverified but likely large, so a mean-reversion pullback is a real possibility.",
+    "Valuation and analysts: the price is above the $263 consensus target and above TD Cowen ($300) and Rosenblatt ($290). HSBC downgraded to Reduce with a $211 target on Sep 25.",
+    "Insider selling of about $134M over the trailing three months (aggregator data, not dated precisely).",
+    "Macro: the 10-year yield at 5.28% (highest since 2002) weighs on high-multiple software, though the Nasdaq 100 is at records.",
+    "Q3 earnings are estimated for about Oct 29 (unconfirmed). Outside this week, but organic growth guidance of only 11-12% sets a high bar after a near-tripling."
+   ],
+   "scores": {
+    "momentum": 9,
+    "technical": 6,
+    "social_buzz": 5,
+    "under_radar": 1,
+    "catalyst": 9,
+    "risk": 6
+   },
+   "best_slot": "momentum",
+   "verdict": "This is a solid momentum-slot pick with a hard, dated catalyst. The S&P DJI release (Oct 1) confirms Twilio replaces WBD in the S&P 500 before Tuesday's open on Oct 6, so index funds should buy at Monday's close. It closed Oct 2 at $301.27 (Investing.com), about 1.5% below its $305.95 52-week high, up about 189% over a year, with a $46.3B market cap. The on-air angle works: 'Can it break out above $306 after the forced buying ends?' Support is around $290 and the setup fails below $280. Three caveats need to be said on air. First, it is very extended, and I could not find a dated 50-day MA (one undated figure, 191, is probably stale; check a live chart). Second, stocks often fade once an ind",
+   "data_confidence": "medium"
+  },
+  {
+   "ticker": "MRNA",
+   "company": "Moderna, Inc.",
+   "sector": "Health Care",
+   "industry": "Biotechnology",
+   "market_cap": "About $73B at the Oct 2 close. This is derived from MoneyCheck's ~$75.4B at a $194.82 price, scaled to $187.92. Not directly quoted.",
+   "business_one_liner": "mRNA medicines company (COVID/respiratory vaccines) whose rerating in 2026 comes from its individualized cancer vaccine intismeran autogene, partnered with Merck's Keytruda.",
+   "price": {
+    "value": 187.92,
+    "date": "2026-10-02"
+   },
+   "performance_pct": {
+    "week": -3.5,
+    "month": null,
+    "three_month": null,
+    "ytd": 533,
+    "one_year": null,
+    "notes": "WEEK (derived): MoneyCheck says MRNA gained ~26.5% in a week to close 'Friday' at $194.82. Given the Sep 29 close of $203.46, that Friday has to be Sep 25, so Sep 25 to Oct 2 = 187.92/194.82 = about -3.5%. In this week's three sessions it fell about 7.6%, from $203.46 (Sep 29 close) to $187.92. YTD (derived, approximate): Stocktwits said +574% YTD at $198.88 (late Sep), and MoneyCheck said +553% at $194.82. Both imply a start-of-year base near $29.5-29.8, so Oct 2 YTD is about +530% to +537% (a bit over 6x). Citi cited a ~590% rally near the Sep 29 high. MONTH / 3-MONTH: no dated Sep 2 or Jul 2 close was found. Stocktwits describes a 'from $63 to $195' rerating over about two months, but that is not an exact anchor. ONE-YEAR: the producer's ~679% total return was not verified. The 52-week low is $22.28 (Investing.com), so the stock is about 8.4x off its low."
+   },
+   "range": {
+    "high_52w": 208.9,
+    "low_52w": 22.28,
+    "pct_below_52w_high": 10,
+    "date": "2026-10-02"
+   },
+   "moving_averages": {
+    "sma50": 104.13,
+    "sma200": null,
+    "pct_above_50": 80.5,
+    "date": "2026-09-23 (50-day value is stale; price used is the Oct 2 close)"
+   },
+   "catalysts": [
+    {
+     "date": "2026-10-09",
+     "headline": "Joins the Nasdaq-100 before the open on Fri Oct 9",
+     "detail": "Inclusion is confirmed by several outlets. Index funds must buy before inclusion, but 'sell the inclusion' reversals are common. The scout said it replaces Warner Bros. Discovery, which I did NOT independently confirm in these searches."
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Phase 3 INTerpath-001 intismeran autogene + Keytruda adjuvant melanoma data at ESMO 2026 Presidential Symposium; investor webcast Oct 24",
+     "detail": "Confirmed as PHASE 3 and late-breaking: intismeran plus pembrolizumab vs pembrolizumab alone in resected high-risk melanoma. The Presidential Symposium slot signals high-profile data. This is a binary, sell-the-news risk 3 weeks out, outside the 2-week window."
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "Stock surged ~9% after the Phase 3 melanoma data won a Presidential Symposium slot",
+     "detail": "Started the leg that took MRNA to its $208.90 52-week high."
+    },
+    {
+     "date": "2026-09 (late, exact date not found)",
+     "headline": "Named Juan Andres its first chief operating officer, to scale manufacturing for cancer vaccines",
+     "detail": null
+    }
+   ],
+   "negative_news": [
+    {
+     "date": "2026-09-30",
+     "headline": "Citi (Geoff Meacham) downgraded MRNA to Sell from Hold with an $80 price target. This is NOT a typo: the target was RAISED from $60. Citi says the ~590% rally assumes success across many tumor types and the valuation can't be justified by peers or pipeline NPV. The stock fell ~6% premarket to $191.36 from the $203.46 Sep 29 close."
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "A Delaware federal court denied Moderna's motion to dismiss Bayer/Monsanto's mRNA patent-infringement suit"
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "MRNA pulled back toward $185 as valuation worries returned after the Citi downgrade"
+    },
+    {
+     "date": "2026-07 (Q2 release)",
+     "headline": "A $950M litigation settlement payment was expected in Q3 2026 (older, but a cash drag to watch in Q3 results)"
+    }
+   ],
+   "next_earnings": {
+    "date": null,
+    "confirmed": false,
+    "source": "Not found. Search results only showed Q1 (reported late April) and Q2 (reported late July) 2026. The Q3 report is likely early November, after the Oct 24 ESMO e"
+   },
+   "social": {
+    "level": "high",
+    "trend": "rising",
+    "notes": "Stocktwits (late Sep): retail sentiment jumped to 'extremely bullish' from 'neutral' a week earlier, with 'high' message volume, when the stock was at $198.88. Stocktwits has run frequent MRNA stories ('From $63 to $195...', 'MRNA eyes best year ever', and 'SLS, IBRX draw retail chatter as MRNA lands Nasdaq-100 spot'), and MRNA's run is spilling over into smaller biotechs. I did not verify a top-10 WSB/StockTwits trending rank. Buzz may have cooled slightly during this week's ~7.6% pullback. It is a credible backup for the social-buzz slot."
+   },
+   "analysts": "Sep 30, 2026: Citi (Geoff Meacham) downgraded to Sell from Hold and raised the target to $80 from $60. Citi says the valuation can't be justified by peer comps or pipeline NPV and the price implies unrealistic multi-tumor sales. Bullish view found in search titles: Wolfe sees a $9.2B cancer-vaccine ",
+   "key_levels": {
+    "breakout_or_pivot": 208.9,
+    "support": 183.28,
+    "invalidation": 175,
+    "rationale": "PIVOT $208.90: the 52-week high (Investing.com range; Benzinga 'fresh 52-week high'). A first reclaim level is $203.46, the Sep 29 close before the Citi downgrade. A close above $208.90 on volume after the Oct 9 inclusion would confirm the uptrend has resumed. SUPPORT $183.28: the Oct 2 intraday low. Sellers stalled near $185 after the downgrade (FX Leaders), so the $183-185 zone is the post-downgrade floor. INVALIDATION ~$175: my judgment level, not a sourced pivot. It sits about 4.5% under the Oct 2 low and about 16% off the high, and a close below it would undo a large part of the Sep 21+ breakout leg from roughly $154 (the implied Sep 18 close, derived from MoneyCheck's +26.5% week to $194.82). It would also suggest the Nasdaq-100 bid has been sold. Note the 50-day sits far below at ~$104 (stale) to ~$115-130 (est.), so there is no nearby moving-average support."
+   },
+   "risks": [
+    "Extremely extended: up ~530% YTD and roughly 45-80% above its 50-day (stale $104.13 vs an estimated ~$115-130 now). Pullbacks from parabolic runs can be violent, and the nearest MA support is far below.",
+    "Binary event: Phase 3 INTerpath-001 data at ESMO on Oct 24. The Presidential Symposium slot raises expectations, and Citi argues success across many tumors is already priced in. There is sell-the-news risk even on good data.",
+    "Nasdaq-100 inclusion (Oct 9) is a known event. Index-buying demand often peaks into the effective date, and stocks frequently fade afterward.",
+    "Sector headwind: health care was the worst sector this week (XLV -2.65%) on pharma tariffs and the CMS GLOBE drug-pricing model. Rising 10-year yields (5.28%) also pressure long-duration biotech valuations.",
+    "Analyst skepticism: Citi Sell with an $80 target (about 57% below the price). More downgrades on valuation are possible.",
+    "Legal: the Monsanto/Bayer mRNA patent suit is going forward after the dismissal motion was denied on Sep 28, plus other litigation overhang ($950M settlement payment in Q3).",
+    "Already lost momentum: ~10% below the $208.90 high and down ~7.6% in three sessions this week, so the stock is not in a tight base near highs.",
+    "Data gaps: no current 50/200-day values, no confirmed earnings date, and no verified month or 3-month performance."
+   ],
+   "scores": {
+    "momentum": 8,
+    "technical": 4,
+    "social_buzz": 7,
+    "under_radar": 1,
+    "catalyst": 9,
+    "risk": 8
+   },
+   "best_slot": "momentum",
+   "verdict": "MRNA works as a momentum watchlist name on its catalysts, but it is extended and has stepped back from its highs. Its 12-month and YTD performance is elite: about +530% YTD, roughly 6.3x, after the stock went from $63 to $195 in about two months. It has two dated catalysts. It joins the Nasdaq-100 before the open on Fri Oct 9, and Phase 3 intismeran data comes at the ESMO Presidential Symposium on Oct 24. Corrections to the producer notes: the Oct 2 close was $187.92, not $190.01. The 52-week high is $208.90; the $202.69 behind the scan's 6.26% figure was an earlier high. That puts MRNA about 10% below its high, not 6%. The Citi Sell with an $80 target is real, not a typo; Citi actually rais",
+   "data_confidence": "medium"
+  },
+  {
+   "ticker": "MPC",
+   "company": "Marathon Petroleum Corporation",
+   "sector": "Energy",
+   "industry": "Oil & Gas Refining & Marketing",
+   "market_cap": "About $109B (companiesmarketcap, September 2026, possibly at a lower price than now). Large cap.",
+   "business_one_liner": "The largest US independent refiner (gasoline, diesel, jet fuel). It also owns a majority stake in the MPLX midstream partnership. Its earnings depend directly on refining crack spreads.",
+   "price": {
+    "value": 420.15,
+    "date": "2026-10-01"
+   },
+   "performance_pct": {
+    "week": 6.3,
+    "month": null,
+    "three_month": null,
+    "ytd": null,
+    "one_year": 122.34,
+    "notes": "Week +6.3% comes from the producer's market brief (verified upstream). I did not re-verify it this session. 1-year +122.34% is from an undated Yahoo Finance article ('Marathon Petroleum Stock Just Hit New Highs, But Oil Price Risks Remain'). Benzinga (Sept 2026): six straight weekly gains, about +42% over that stretch, to $424.07. No reliable 1-month, 3-month or YTD figure turned up."
+   },
+   "range": {
+    "high_52w": 431.08,
+    "low_52w": 161.93,
+    "pct_below_52w_high": 2.5,
+    "date": "2026-10-01"
+   },
+   "moving_averages": {
+    "sma50": 356.58,
+    "sma200": null,
+    "pct_above_50": 17.8,
+    "date": "undated (late Sep/early Oct 2026, per search summary)"
+   },
+   "catalysts": [
+    {
+     "date": "2026-09 (late)",
+     "headline": "US diesel crack spread hits a record of about $102/bbl, roughly 5x normal; refiners rally",
+     "detail": "Global refining capacity disruptions have tightened gasoline, diesel and jet supply. MPC is the group leader."
+    },
+    {
+     "date": "2026-09",
+     "headline": "Four oil refiners log their 6th straight weekly gain; MPC leads, +7.1% to $424.07 in one session, +42% over six weeks",
+     "detail": null
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "All-time closing high of $424.89; intraday 52-week/all-time high $431.08",
+     "detail": null
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "UBS reiterates Buy, $450 target; says MPC could smash its all-time high",
+     "detail": null
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Bank of America raises price target from $410 to $426, keeps Neutral",
+     "detail": null
+    }
+   ],
+   "negative_news": [
+    {
+     "date": "2026-10-01 (as of)",
+     "headline": "Jefferies moved MPC to Hold with a $413 target, below the current price"
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "BofA raised its target to only $426 and kept Neutral, about 1% above the Oct 1 close"
+    },
+    {
+     "date": "2026-10 (MarketBeat consensus)",
+     "headline": "Consensus price target is $370.38 (range $318-$472), about 12% below the stock; the stock has run past most analyst targets"
+    },
+    {
+     "date": "undated (recent)",
+     "headline": "Seeking Alpha: 'Crack Spreads And Marathon Petroleum's Explosive Rally (Rating Downgrade)'"
+    }
+   ],
+   "next_earnings": {
+    "date": "2026-11-03",
+    "confirmed": true,
+    "source": "Company press release via Nasdaq/StockTitan: Q3 2026 results call Tuesday Nov 3, 2026 at 11 a.m. EST"
+   },
+   "social": {
+    "level": "low",
+    "trend": "unknown",
+    "notes": "No WSB or StockTwits trending data was found. Attention is mostly mainstream and institutional: Forbes, Yahoo/Zacks, Benzinga, Seeking Alpha and Simply Wall St pieces on record crack spreads. Media coverage of the refiner theme is clearly elevated, but this is not a retail-buzz name."
+   },
+   "analysts": "Moderate Buy consensus. Average PT $370.38, range $318-$472 (MarketBeat). Recent actions: BofA PT $410 to $426, Neutral (Oct 2, 2026); UBS reiterated Buy, $450 PT, says it could smash its ATH (as of Oct 1); Jefferies moved to Hold, $413 PT (as of Oct 1). The stock trades above most targets, a sign t",
+   "key_levels": {
+    "breakout_or_pivot": 431.08,
+    "support": 400,
+    "invalidation": 380,
+    "rationale": "Pivot: $431.08 is the intraday 52-week and all-time high. A close above it would be a fresh breakout from the late-September consolidation (all-time closing high was $424.89 on Sep 18; Oct 1 close $420.15, about 2.5% below the high). Support: the $400 round number sits about 5% below Oct 1 and near the earlier ~$403 trading area. Invalidation: a decisive close below about $380 (about 12% off the high). That would break the six-week up-leg and likely mean a trip back to the rising 50-day (about $357). The 50-day is the classic line but sits about 15% lower, too wide for a watchlist entry. Buying near $420 is a chase. A cleaner setup is a breakout through $431 or a pullback that holds near $400."
+   },
+   "risks": [
+    "Extended. About 18-24% above the 50-day (depending on which 50-day value is right) after a +42% six-week run and +122% in a year. Mean reversion is likely if cracks cool.",
+    "Crack-spread dependent. The record diesel crack (~$102/bbl, ~5x normal) comes from supply disruptions, and G7 strategic reserve releases this week, demand destruction or refinery restarts could narrow it fast. Refiner stocks usually peak before margins do.",
+    "Analyst momentum is turning neutral. Jefferies moved to Hold ($413) and BofA is Neutral ($426). Consensus PT of $370 is well below the price. Seeking Alpha published a rating downgrade.",
+    "Price stalled under the $431 high in late September. A double top / failed breakout is possible.",
+    "Political/regulatory risk. Fuel shortages and record diesel prices invite export restrictions, windfall-tax talk or other intervention.",
+    "Rising long-term yields (10-year at 5.28%) and a falling broad market (S&P -0.3%, Dow -1.3%) could hit cyclicals.",
+    "Data gaps. The Oct 2 close and a definitive current 50-day/200-day were not confirmed."
+   ],
+   "scores": {
+    "momentum": 9,
+    "technical": 6,
+    "social_buzz": 3,
+    "under_radar": 1,
+    "catalyst": 8,
+    "risk": 6
+   },
+   "best_slot": "momentum",
+   "verdict": "MPC is a legitimate momentum leader and the best large-cap way to show the record-diesel-crack refiner theme. It closed at $420.15 on Oct 1, about 2.5% below its $431.08 all-time intraday high, after six straight weekly gains (+42%), +122% over a year and +6.3% this week. It also adds energy and macro variety to a tech-heavy list. The catch is extension. It sits about 18-24% above its 50-day (data conflict), at the edge of the 'not stretched' threshold. Analysts are going neutral (Jefferies Hold $413, BofA Neutral $426), and the consensus target of $370 is far below the price. Pitch it as a watchlist name, not a buy-here. Trigger: a breakout above $431 on volume, or a pullback that holds abo",
+   "data_confidence": "medium"
+  },
+  {
+   "ticker": "NVDA",
+   "company": "NVIDIA Corporation",
+   "sector": "Technology",
+   "industry": "Semiconductors",
+   "market_cap": "About $5.7T at the Oct 2, 2026 close (Bloomberg/QZ). An undated AltIndex snapshot shows $5.64T. Mega-cap.",
+   "business_one_liner": "Dominant designer of AI accelerator GPUs, networking and software (CUDA) that power hyperscale data centers. It is also the bellwether for the AI chip trade.",
+   "price": {
+    "value": 233.95,
+    "date": "2026-10-02"
+   },
+   "performance_pct": {
+    "week": null,
+    "month": null,
+    "three_month": null,
+    "ytd": null,
+    "one_year": null,
+    "notes": "Verified: +2.9% on Fri Oct 2 (QZ/Bloomberg). That was its first record close since May and capped a nearly 25% rally from a late-July low (QZ, Oct 2). The producer's ~+27% YTD figure could NOT be verified in this session, so it is left null. For context, XLK is +39.28% YTD, so even at a record NVDA likely lags the tech sector YTD. Week, month, 3-month and 1-year returns were not found."
+   },
+   "range": {
+    "high_52w": 237.88,
+    "low_52w": null,
+    "pct_below_52w_high": 1.65,
+    "date": "2026-10-02"
+   },
+   "moving_averages": {
+    "sma50": 218.74,
+    "sma200": 207.48,
+    "pct_above_50": 6.95,
+    "date": "2026-10-03"
+   },
+   "catalysts": [
+    {
+     "date": "2026-09-28",
+     "headline": "Nvidia adds a record $150B to its share buyback",
+     "detail": "This is the largest buyback expansion in company history. It lifts the remaining authorization to about $235B through fiscal 2028. The producer's $150B figure is CONFIRMED."
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Cantor Fitzgerald reiterates Overweight, $350 price target",
+     "detail": "C.J. Muse kept his rating and his $350 target."
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Morgan Stanley restores NVDA as its top semiconductor pick",
+     "detail": "Joseph Moore kept an Overweight rating and a $300 target (about 28% upside) after meeting Jensen Huang and CFO Colette Kress. The stock rose as much as 2.5% after the open on the note."
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "First record close since May; intraday all-time high of $237.88; market cap about $5.7T and nearing $6T",
+     "detail": "The stock rose 2.9% on the day and is up nearly 25% from its late-July low. Nvidia also unveiled a two-layer AI agent security system during the week. The producer's $237.87 is one cent off; sources say $237.88."
+    },
+    {
+     "date": "Late Nov 2026 (expected, unconfirmed)",
+     "headline": "Q3 FY2027 earnings",
+     "detail": "Nvidia has not yet announced the exact date of its November report."
+    }
+   ],
+   "negative_news": [
+    {
+     "date": "Past 90 days (undated)",
+     "headline": "1 analyst downgrade against 3 upgrades in the past 90 days; the lowest Street target is $210, about 10% below the close"
+    },
+    {
+     "date": "Week ending 2026-10-02",
+     "headline": "Macro headwind: the 10-year Treasury yield closed at 5.28%, the highest since 2002. That pressures long-duration, high-multiple names like NVDA."
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Stocktwits retail sentiment only 'neutral' (up from 'bearish' over the week) and chatter only 'normal'. Retail is not euphoric."
+    },
+    {
+     "date": "2026-10-03",
+     "headline": "Minor: Wedbush Securities trimmed its NVDA holdings (13F filing). Not material."
+    }
+   ],
+   "next_earnings": {
+    "date": null,
+    "confirmed": false,
+    "source": "Nvidia has not announced the date. It is expected in late November 2026, per search summaries of Benzinga/StockAnalysis results. The producer's 'late Nov' is pl"
+   },
+   "social": {
+    "level": "high",
+    "trend": "rising",
+    "notes": "Rank is high: 186 r/wallstreetbets mentions with neutral sentiment (#3 on the AltIndex WSB board) and 272 Reddit-wide mentions with bullish sentiment (AltIndex). It was among Stocktwits' top-trending tickers on Fri Oct 2 (Stocktwits News). Buzz is rising only MODESTLY, not surging. Over the past week Stocktwits chatter moved from 'low' to 'normal' and sentiment from 'bearish' to 'neutral'. For a stock this widely held, 'normal' chatter means retail is coming back, not stampeding in. A TrendEdge page shows 39,216 Stocktwits mentions over 7 days, but its date is unclear, so it is not relied on."
+   },
+   "analysts": "55 analysts have an average target of $320.71, about 37% upside from $233.95 (StockAnalysis/MarketBeat). The high target is $515 and the low is $210. There were 3 upgrades and 1 downgrade in the past 90 days. Recent actions: Cantor Fitzgerald reiterated Overweight with a $350 target on Oct 1. Morgan",
+   "key_levels": {
+    "breakout_or_pivot": 237.88,
+    "support": 227,
+    "invalidation": 218,
+    "rationale": "Pivot: $237.88 is Friday's intraday all-time high. The stock closed about 1.65% below it at $233.95, so a daily close above $237.88 confirms the breakout from the four-month base that began after May's record. Support: about $227 is the approximate Oct 1 close ($233.95 / 1.029), where Friday's breakout started. Holding it keeps the breakout intact. Invalidation: a daily close below $218, under the rising 50-day SMA ($218.74, MarketBeat Oct 3), would mean the record breakout failed and the stock fell back into its range. The 200-day at $207.48 is the deeper line."
+   },
+   "risks": [
+    "Not surging buzz. Stocktwits chatter is 'normal' and sentiment 'neutral'. The social-slot story rests on rank (#3 WSB, top trending), not on acceleration.",
+    "Rates. The 10-year at 5.28%, the highest since 2002, threatens high-multiple mega-cap tech. A continued bond sell-off could cap the breakout.",
+    "Breakout is one day old. The close of $233.95 was below the $237.88 intraday high, and volume/RSI confirmation was not verified.",
+    "Earnings are expected in late November (unconfirmed). The run-up into the print could fade on any data-center guidance disappointment.",
+    "Concentration and crowding. At about $5.7T and nearing $6T, it is already widely owned. A '$6T' headline could become a sell-the-news point.",
+    "Episode balance. Adding NVDA alongside TER and the market's chip-led story makes the episode semis-heavy, although NVDA is not a semi-equipment name."
+   ],
+   "scores": {
+    "momentum": 7,
+    "technical": 8,
+    "social_buzz": 6,
+    "under_radar": 0,
+    "catalyst": 8,
+    "risk": 3
+   },
+   "best_slot": "social",
+   "verdict": "A qualified yes for the social slot. NVDA is the buzz name with a genuinely clean chart, but call its buzz 'returning', not 'surging'. The facts hold up. It closed at $233.95 on Oct 2 (the $208 snippet is wrong), +2.9%, its first record close since May. The intraday all-time high was $237.88, and the stock sits 1.65% below it and about 7% above a rising 50-day ($218.74), with the 200-day at $207.48. The record $150B buyback (Sep 28; about $235B remaining) is confirmed. Morgan Stanley named it a top pick on Oct 2, and Cantor reiterated a $350 target on Oct 1. On buzz, retail chatter only rose from 'low' to 'normal' and sentiment from 'bearish' to 'neutral'. The pitch is 'retail is coming back",
+   "data_confidence": "medium"
+  },
+  {
+   "ticker": "TSLA",
+   "company": "Tesla, Inc.",
+   "sector": "Consumer Discretionary",
+   "industry": "Automobile Manufacturers (EVs) / Energy Storage",
+   "market_cap": "About $1.46T per one search-result figure, but the source and date are unclear. I could not confirm it from a dated Oct 2026 source, so treat it as approximate and check it before airing.",
+   "business_one_liner": "Electric-vehicle maker (Model 3/Y and others) that also sells energy-storage products (Megapack/Powerwall) and is working on autonomy/robotaxi, Optimus robots and the Semi truck.",
+   "price": {
+    "value": 370.59,
+    "date": "2026-10-02"
+   },
+   "performance_pct": {
+    "week": null,
+    "month": null,
+    "three_month": null,
+    "ytd": null,
+    "one_year": null,
+    "notes": "Verified: +4.65% on Fri Oct 2 ($354.11 to $370.59) after the Q3 delivery beat. I found no dated source for week, month, 3-month or YTD returns. One Stocktwits article (undated) says TSLA 'has fallen 9% over the past year', but I left one_year null because I can't date it. The price is 25.7% below the $498.83 52-week high."
+   },
+   "range": {
+    "high_52w": 498.83,
+    "low_52w": null,
+    "pct_below_52w_high": 25.7,
+    "date": "2026-10-02"
+   },
+   "moving_averages": {
+    "sma50": 360.26,
+    "sma200": 377.47,
+    "pct_above_50": 2.9,
+    "date": "2026-10-03"
+   },
+   "catalysts": [
+    {
+     "date": "2026-10-02",
+     "headline": "Q3 2026 deliveries of 486,532 beat the 461,974 consensus (about +5.3%)",
+     "detail": "Down 2.1% YoY from 497,099. Production was 464,391, so deliveries ran above production. Model 3/Y delivered 478,237. One outlet cited consensus of 463,761, so the exact consensus figure varies by source."
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Shares rose 4.65% to $370.59 and led Consumer Discretionary on Friday",
+     "detail": null
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Sell-side reaction: Morgan Stanley (hold) says Tesla may be 'exiting the EV winter'; RBC (outperform) calls the deliveries 'impressive'",
+     "detail": null
+    },
+    {
+     "date": "Undated (before the Q3 delivery report)",
+     "headline": "Deutsche Bank raised its price target to $435 from $345 and kept Buy",
+     "detail": "The search summary said this came 'ahead of the Q3 deliveries report' but gave no exact date. Cantor reiterated Overweight with a $485 target and UBS kept $385; both dates are unclear."
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Q3 2026 earnings after the close; Q&A webcast at 5:30pm ET",
+     "detail": "Confirmed. Tesla's Q3 P&D release says results come after market close on Wed Oct 21, 2026."
+    }
+   ],
+   "negative_news": [
+    {
+     "date": "2026-10-02",
+     "headline": "Energy-storage deployments missed: 13.7 GWh vs about 15.9 GWh expected. Up 9.6% YoY and up from 13.5 GWh in Q2, but below the 14.2 GWh record in Q4 2025"
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Deliveries still fell 2.1% YoY (486,532 vs 497,099), and production (464,391) trailed deliveries"
+    },
+    {
+     "date": "Date unclear (recent)",
+     "headline": "Goldman Sachs keeps Neutral with a $360 target, below the current price; Morgan Stanley rates it a hold"
+    },
+    {
+     "date": "Undated",
+     "headline": "Stocktwits articles describe 'extremely bearish' retail sentiment and dilution fears tied to Tesla-SpaceX merger speculation (Gary Black: a deal would likely be dilutive; Gordon Johnson is skeptical)"
+    }
+   ],
+   "next_earnings": {
+    "date": "2026-10-21",
+    "confirmed": true,
+    "source": "Tesla Q3 2026 P&D release (ir.tesla.com), via notateslaapp.com and fool.com (Oct 2, 2026): results after market close Wed Oct 21, Q&A webcast 5:30pm ET"
+   },
+   "social": {
+    "level": "high",
+    "trend": "rising",
+    "notes": "Tesla is always among the most-discussed retail tickers, and Stocktwits has many articles on it with 'high' message volume. I could NOT verify the producer's figures (115 WSB mentions; Stocktwits sentiment moving from neutral to bullish); none of my searches showed them. The Stocktwits articles I found are undated, describe retail sentiment as 'extremely bearish' and largely blame Tesla-SpaceX/xAI merger worries, so they may predate the delivery beat. Merger chatter is real but SPECULATIVE. Gene Munster puts the odds of a Tesla-SpaceX merger within five years above 50%; Gary Black and Gordon Johnson are skeptical. No deal has been announced, so do not air it as fact. A 'rising' trend fits the delivery-beat news flow but rests mainly on the producer's data."
+   },
+   "analysts": "Recent activity: Deutsche Bank raised its target to $435 from $345 and kept Buy before the delivery report (exact date unclear). Cantor reiterated Overweight with a $485 target, UBS kept $385, and Goldman kept Neutral with $360; dates for these three are unclear. After the report on Oct 2, Morgan St",
+   "key_levels": {
+    "breakout_or_pivot": 381,
+    "support": 360,
+    "invalidation": 354,
+    "rationale": "Pivot at $381. The 200-day sits at $377.30-377.47 (altindex; blockchain.news, Oct 3), and Sep 22 coverage flagged a $377-381 resistance band. A close above about $381 on volume would clear both and turn this from a bounce into a reclaim of the 200-day. Support at $360 is the 50-day ($360.26), with the 20-day ($366.88) as the first cushion. Invalidation at $354, roughly the Oct 1 close ($354.11): falling back below it would erase the whole delivery-beat gap. The 200-day is only about 1.8% above Friday's close, so the 'test of the 200-day' framing fits well, but using the $393 figure would overstate the distance."
+   },
+   "risks": [
+    "Earnings Oct 21 (about 2.5 weeks out) are a binary event, and the storage miss and YoY delivery decline put margins and energy under scrutiny.",
+    "Moving-average data conflict: the producer's 200-day of $393.18 and 50-day of $347.58 don't match the Oct 3 sources ($377.47 / $360.26). Using the wrong numbers on air changes the story.",
+    "Death cross in place (50-day below 200-day); the stock has repeatedly failed at the 200-day / $377-381 zone.",
+    "Merger speculation (Tesla-SpaceX/xAI) creates headline volatility and dilution fears, and it is unconfirmed.",
+    "Mega-cap at a rich valuation with a mixed analyst split: Goldman $360 Neutral sits below the price, Deutsche $435 Buy and Cantor $485 above it.",
+    "Market cap, 52-week low and multi-period performance were not verified from dated sources.",
+    "Macro: the 10-year yield at its highest since 2002 weighs on long-duration growth names."
+   ],
+   "scores": {
+    "momentum": 3,
+    "technical": 4,
+    "social_buzz": 7,
+    "under_radar": 0,
+    "catalyst": 8,
+    "risk": 6
+   },
+   "best_slot": "social",
+   "verdict": "It fits the social slot if we frame it as 'buzz plus a test of the 200-day,' not as a leader. Confirmed: the Q3 delivery beat (486,532 vs 461,974), the +4.65% close at $370.59, the $498.83 52-week high (25.7% below) and Oct 21 earnings after the close (from Tesla's own release). Corrections for the script: the best-sourced 200-day is about $377 (blockchain.news Oct 3: $377.47; altindex: $377.30), not $393.18. The 50-day is about $360 (not $347.58), so TSLA is only about 3% above its 50-day and about 2% below its 200-day, under a death cross. For balance, mention that energy storage missed (13.7 vs about 15.9 GWh) and that deliveries still fell 2.1% YoY. The SpaceX merger is speculation from ",
+   "data_confidence": "medium"
+  },
+  {
+   "ticker": "SPCX",
+   "company": "Space Exploration Technologies Corp. (SpaceX)",
+   "sector": "Industrials",
+   "industry": "Aerospace & Defense / Satellite Communications",
+   "market_cap": "About $2.16T (StockAnalysis, Oct 3, 2026, at $159.11). I could not confirm the producer's $2.10T figure. At the $158.96 close it works out to roughly $2.15-2.16T.",
+   "business_one_liner": "Rocket launch company (Falcon 9, Starship) that also runs the Starlink satellite-internet business, its largest unit. It is also pushing into AI compute with Nvidia hardware. Listed on Nasdaq June 12, 2026 at a $135 IPO price.",
+   "price": {
+    "value": 158.96,
+    "date": "2026-10-02"
+   },
+   "performance_pct": {
+    "week": 6.9,
+    "month": null,
+    "three_month": null,
+    "ytd": null,
+    "one_year": null,
+    "notes": "Week (+6.9%) is the producer's figure. My searches did not confirm it independently, but it fits the +7.35% Friday move. There is no YTD or 1-year figure because the stock listed Jun 12, 2026. I found no month or 3-month return. Verified reference points: about 29.6% below the $225.64 all-time high (StockAnalysis); +17.8% above the $135 IPO price; +51.6% off the all-time low of $104.83 (cryptonews.net/CoinGape, Oct 3). In late July it was about 50% below its post-IPO peak. It first closed below $135 in mid-July (Forbes/NBC/Axios, Jul 15-17)."
+   },
+   "range": {
+    "high_52w": 225.64,
+    "low_52w": 104.83,
+    "pct_below_52w_high": 29.6,
+    "date": "2026-10-02"
+   },
+   "moving_averages": {
+    "sma50": null,
+    "sma200": null,
+    "pct_above_50": null,
+    "date": "2026-10-03"
+   },
+   "catalysts": [
+    {
+     "date": "2026-10-02",
+     "headline": "Starship Flight 14 is the first orbital Starship flight and deploys all 26 Starlink V3 satellites",
+     "detail": "One Raptor engine shut down during booster ascent, but the mission succeeded. Bigger Starlink batches and cheaper launches support the largest business."
+    },
+    {
+     "date": "2026-10-01/02",
+     "headline": "Three launches in under 13 hours: NASA astronaut crew to ISS, a Google AI satellite, and a classified NRO payload",
+     "detail": "Stock +7.35% to $158.96, its highest close since July (about a 3-month high)."
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Consensus Moderate Buy, average price target $235.10 (about 49% upside)",
+     "detail": "Other aggregator: 44 analysts, average $218.68, high $800, low $75. FinanceFeeds frames it as bull $235 vs bear $145."
+    },
+    {
+     "date": "undated (recent)",
+     "headline": "Pivotal Research starts coverage at Buy with a year-end-2027 target of $220",
+     "detail": "Initiation date not confirmed in the snippet."
+    },
+    {
+     "date": "undated (recent)",
+     "headline": "Musk says running Nvidia's VR72 system at about 250 kW would be a 'big deal if it pans out'",
+     "detail": "This is a conditional engineering claim about SpaceX/Nvidia co-design, not a signed commercial deal. Do not call it an 'Nvidia deal' on air."
+    }
+   ],
+   "negative_news": [
+    {
+     "date": "2026-10-09 (upcoming)",
+     "headline": "Up to 328.4M shares (Day-120 tranche) become eligible to sell. That is about 2.8x Friday's 119M-share volume."
+    },
+    {
+     "date": "2026-09-09",
+     "headline": "Earlier lockup expiry released about 319M insider shares. The full 180-day lockup ends Dec 8, 2026."
+    },
+    {
+     "date": "undated (stock near $148)",
+     "headline": "Scott Galloway says SPCX is worth just $10-$30, citing swelling losses and a debt-heavy AI bet"
+    },
+    {
+     "date": "past 90 days",
+     "headline": "4 analyst downgrades (vs 6 upgrades) in the last 90 days"
+    }
+   ],
+   "next_earnings": {
+    "date": null,
+    "confirmed": false,
+    "source": "Not found. Sources conflict on the last report: Q2 2026 results are cited as Aug 4, 2026, and another snippet mentions Sep 2, 2026. The Q3 report (probably Nove"
+   },
+   "social": {
+    "level": "high",
+    "trend": "rising",
+    "notes": "My searches could not independently confirm the producer's data (Stocktwits sentiment flipping from bearish to bullish on 'high' message volume; 97 WSB mentions). Stocktwits News is running SPCX stories (the Musk/Nvidia piece). Crypto-news and retail sites (CoinGape, CoinCentral, Parameter, cryptonews.net) are covering the move heavily, and a Polymarket/Kalshi merger-odds story is circulating. That fits high and rising buzz. A $2T Musk name with launch news on the tape is a natural retail magnet."
+   },
+   "analysts": "TipRanks consensus is Moderate Buy with an average target of $235.10, about 49% upside (Oct 2, 2026). Another aggregator shows 44 analysts averaging $218.68, with a range of $75-$800. MarketBeat counts 6 upgrades and 4 downgrades in the past 90 days. Pivotal Research initiated at Buy with a year-end",
+   "key_levels": {
+    "breakout_or_pivot": 160,
+    "support": 148,
+    "invalidation": 145,
+    "rationale": "Pivot $160: just above Friday's intraday high of $159.84 and the top of the 50-day range. A close above it on volume extends the move to new post-July highs. Support $148: Thursday's close ($148.07) and Friday's intraday low ($149.02), sitting on the unlabeled MA cluster of $145.77-$149.16. Invalidation $145: a close below the whole MA cluster, which also matches FinanceFeeds' $145 bear case. It would mean the launch-week gap failed, probably on Oct 9 lockup supply. The next deeper support is the $135 IPO price. Upside reference: consensus target $235.10 and the $225.64 all-time high, about 42% above the current price."
+   },
+   "risks": [
+    "Lockup supply: up to 328.4M shares unlock on Oct 9, 2026, inside the episode week. The next unlock is the 180-day expiry on Dec 8. Musk and insiders are locked for 366 days.",
+    "Not a leader on price: about 30% below the $225.64 all-time high and only about 18% above the $135 IPO price. It traded below the IPO price for long stretches from mid-July, so this is a rebound inside a bigger downtrend from June, not a breakout to highs.",
+    "Gap and extension risk: +7.35% in one day on very heavy volume after a news event. A pullback into the gap ($148-149) is common.",
+    "Valuation debate: about $2.16T market cap with critics like Galloway calling for $10-30, mounting losses and debt tied to AI ambitions.",
+    "Binary launch and operational events: Starship results swing the stock either way (July delay sent it to $124 after hours, and one Raptor engine shut down even on the successful Flight 14).",
+    "Hype and source risk: the Musk/Nvidia 'big deal' comment is conditional ('if it pans out') and I only found it reported second-hand. Tesla merger odds are speculative and conflicting (Polymarket at 11% or 18% for a 2026 announcement, 54-66% by 2027, Kalshi 45-55% before May 2027, all undated). Do not air either as fact.",
+    "Macro: 10-year yield at 5.28% (highest since 2002) weighs on long-duration, high-multiple names.",
+    "No 200-day MA and a short trading history, so technical reads are less reliable. The next earnings date is unconfirmed."
+   ],
+   "scores": {
+    "momentum": 5,
+    "technical": 6,
+    "social_buzz": 8,
+    "under_radar": 0,
+    "catalyst": 9,
+    "risk": 7
+   },
+   "best_slot": "social",
+   "verdict": "SPCX fits the social slot. It is not a momentum leader. The buzz is real and has a news trigger behind it. Starship reached orbit for the first time on Oct 2 and deployed 26 Starlink V3 satellites, alongside three launches in under 13 hours. The stock rose 7.35% to $158.96, its highest close since July and the top of its 50-day range. So 'near a 3-month high' holds up: two Oct 3 sources say so, and StockAnalysis's 50-day range tops out at Friday's close.\n\nThe extension needs honest framing. It is still about 29.6% below the $225.64 June high and only about 18% above the $135 IPO price. Market cap is about $2.16T, not $2.10T. There is no 200-day average, and price is roughly 7-9% above an unl",
+   "data_confidence": "medium"
+  },
+  {
+   "ticker": "CVI",
+   "company": "CVR Energy, Inc.",
+   "sector": "Energy",
+   "industry": "Oil & Gas Refining & Marketing (plus nitrogen fertilizer)",
+   "market_cap": "About $5.1B (MarketBeat, 9/29/2026, at the $50.77 price). About $5.47B at the latest quoted $54.36 close with 100.53M shares (live quote page, snippet not dated). That makes it a lower mid-cap, not a true small cap.",
+   "business_one_liner": "Icahn-controlled holding company that runs two Mid-Continent oil refineries, owns a renewables (renewable diesel) segment and holds the controlling stake in a nitrogen fertilizer business (CVR Partners). Its earnings move with crack spreads, especially diesel.",
+   "price": {
+    "value": 54.36,
+    "date": "Latest close on a live quote page seen 10/4/2026, probably 10/2/2026 but the snippet is not dated (it may be the 9/30 close)"
+   },
+   "performance_pct": {
+    "week": null,
+    "month": null,
+    "three_month": null,
+    "ytd": null,
+    "one_year": null,
+    "notes": "No dated week, month or YTD figures were found this session. What we have: Trefis listed it among small caps at 52-week highs on 9/15 (+48% over the period). Investing.com says CVI is up 53.1% since its AI pick on 8/1/2026. It jumped 10.8% on Q2 results (7/29-30). Refiner rally days: Alphastreet reports +6.3% on a Tuesday (to $51.72 intraday on 254,385 shares; most likely 9/29), and Investing.com reports +6.61% on 9/30. MarketBeat had it opening at $50.77 on Tue 9/29, so the stock went from about $50.8 to about $54.4 over the last week of September. The producer's '+115% YTD' figure was NOT verified."
+   },
+   "range": {
+    "high_52w": 55.19,
+    "low_52w": null,
+    "pct_below_52w_high": 1.5,
+    "date": "52-week high from an Investing.com quote snippet, not dated. Percent below is computed against $54.36. The $19.62 low and the $56 all-time-high alert were not verified this session."
+   },
+   "moving_averages": {
+    "sma50": 41.08,
+    "sma200": null,
+    "pct_above_50": 32.3,
+    "date": "2026-09-29 (50-day)"
+   },
+   "catalysts": [
+    {
+     "date": "2026-09-30",
+     "headline": "Refiners rally across the sector; CVI +6.61%",
+     "detail": "A sector-wide refining rally tied to strong crack spreads, which fits this week's record diesel cracks (MPC +6.3%)."
+    },
+    {
+     "date": "2026-09-29 (Tuesday, likely)",
+     "headline": "CVR Energy jumps 6.3% amid sector-wide rally to $51.72",
+     "detail": "Volume was only 254,385 shares, so the stock trades thinly."
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Argus raises price target to $55, keeps neutral/hold",
+     "detail": "This is the only price target near the current price."
+    },
+    {
+     "date": "2026-09-15 to 09-18",
+     "headline": "Repeated new 52-week highs",
+     "detail": "Trefis small caps at 52-week highs on 9/15. Quantcha 52-week-high alert on 9/17. DailyPolitical/MarketBeat 'sets new 52-week high' on 9/18. Investing.com 52-week high alert at $52.41."
+    },
+    {
+     "date": "2026-07-29",
+     "headline": "Q2 2026 beat: adj. EPS $0.34 vs $0.12 est.; adj. EBITDA $209M vs $99M a year ago; $0.10 dividend declared",
+     "detail": "Crude utilization was 98% and ammonia utilization 99%. GAAP showed a net loss of $3M (-$0.03/share). Shares jumped 10.8%. One aggregator wrongly says EPS 'missed $0.92', but most sources say it beat."
+    }
+   ],
+   "negative_news": [
+    {
+     "date": "2026-09-29",
+     "headline": "Consensus is 'Reduce': 4 sells and 4 holds, average PT $30.50 (about 44% below the price)"
+    },
+    {
+     "date": "Recent, not dated",
+     "headline": "'As Energy Surges on Crack Spreads, Consider Taking Gains on 2 Small Cap Oil Stocks' (take-profit call on small-cap refiners)"
+    },
+    {
+     "date": "Recent, not dated",
+     "headline": "'CVR Energy Stock (CVI): Jumps on Crack Spread Strength, Analysts Still Bearish'"
+    },
+    {
+     "date": "2026-08-04",
+     "headline": "Mizuho keeps Underperform, PT raised only to $29 from $28"
+    }
+   ],
+   "next_earnings": {
+    "date": "2026-10-28",
+    "confirmed": false,
+    "source": "Quote-page/aggregator snippet ('expected to release earnings on 10/28/2026', EPS est. $1.53). The company has not announced a date; Q2 was reported 7/29."
+   },
+   "social": {
+    "level": "low",
+    "trend": "unknown",
+    "notes": "No WSB/StockTwits trending activity turned up in searches. Coverage is mostly automated MarketBeat/Investing alerts and sector-rally recaps. Volume is thin (about 254K shares on a +6% day), which fits the sleeper profile."
+   },
+   "analysts": "8 covering firms (MarketBeat 9/29/2026): 4 Sell and 4 Hold, consensus 'Reduce', average 12-month PT $30.50. Argus raised its PT to $55 on 9/16/2026 and stayed neutral. Mizuho moved its PT from $28 to $29 on 8/4/2026 and kept Underperform. The stock trades about 75% above the consensus target, so ana",
+   "key_levels": {
+    "breakout_or_pivot": 55.19,
+    "support": 50.77,
+    "invalidation": 48.5,
+    "rationale": "Pivot: the $55.19 52-week high from Investing.com. A close above it, ideally above the unverified ~$56 all-time-high alert, on above-average volume would confirm a breakout from the mid-September highs. Support: about $50.77, the 9/28-9/29 level where the late-September refiner rally started; MarketBeat had it opening there on 9/29. Invalidation: a close below about $48.50, roughly the level before the 6.3% rally day (implied by $51.72 after +6.3%). That would fail the late-September base and suggest a deeper pullback toward the rising 50-day ($41.08 on 9/29). The stock is already about 24-32% above its 50-day, so buying a breakout chases an extended move. A pullback toward $50-51 is the lower-risk entry."
+   },
+   "risks": [
+    "Extended: about 24-32% above a rising 50-day ($41.08 on 9/29), above the 15-20% 'not stretched' threshold, so mean reversion is a real risk.",
+    "Analysts are bearish: consensus 'Reduce' with an average PT of $30.50 (MarketBeat 9/29). Only Argus ($55, neutral) is near the price, so a downgrade wave is possible after the run.",
+    "Earnings depend on crack spreads: a fade in record diesel cracks or a refiner rotation would hit CVI hard. Renewables and RFS/RIN policy exposure add noise.",
+    "Icahn control (IEP majority stake) leaves a small float and thin volume (about 254K shares on a +6% day), so gaps and volatility run both ways. Icahn could also sell or buy stock.",
+    "Q3 earnings expected around 10/28 (unconfirmed). The bar is high: EPS est. about $1.53 vs $0.34 adj. in Q2.",
+    "Data gaps: the latest close is not dated, the 52-week low, 200-day and YTD figures were not verified, and the producer's $56 all-time high and +115% YTD were not confirmed.",
+    "Macro: 10-year yield at its highest since 2002 and a weak tape for value/cyclicals outside tech."
+   ],
+   "scores": {
+    "momentum": 8,
+    "technical": 6,
+    "social_buzz": 2,
+    "under_radar": 7,
+    "catalyst": 7,
+    "risk": 7
+   },
+   "best_slot": "sleeper",
+   "verdict": "This is a good sleeper fit if MPC is not used in a momentum slot. CVI is a thinly traded, Icahn-controlled refiner and fertilizer maker (about $5.1-5.5B) that ties directly to this week's record diesel cracks. It rose 6.61% on 9/30 in a sector rally and closed at about $54.36 (latest quote, probably 10/2), about 1.5% below its $55.19 52-week high, after repeated highs in mid-September and a clean Q2 beat (adj. EPS $0.34 vs $0.12, $0.10 dividend reinstated). The story is that Wall Street is still bearish while the stock trends: consensus 'Reduce', average PT $30.50, and only Argus ($55) near the price. The honest caveat is extension. It is about 24-32% above its 50-day and depends on crack sp",
+   "data_confidence": "medium"
+  },
+  {
+   "ticker": "CHEF",
+   "company": "The Chefs' Warehouse, Inc.",
+   "sector": "Consumer Staples",
+   "industry": "Food Distribution (foodservice distributor)",
+   "market_cap": "About $4.5-4.8B, so a mid-cap well under the $10B ceiling. Search snippets show $4.49B (roic.ai/TradingView, undated), with other sources ranging from $3.48B to $4.66B depending on the date. Scaling $4.49B to a price near $117 gives about $4.8B.",
+   "business_one_liner": "Specialty food distributor that supplies premium proteins, produce, cheeses and center-of-plate items to independent fine-dining restaurants, hotels, clubs and caterers, mainly in major US metro areas plus Canada and the Middle East.",
+   "price": {
+    "value": 117.94,
+    "date": "2026-10-02 close (indmoney labels it 'as on October 3, 2026'; Oct 2 was the last session)"
+   },
+   "performance_pct": {
+    "week": null,
+    "month": null,
+    "three_month": null,
+    "ytd": null,
+    "one_year": null,
+    "notes": "No dated performance figures turned up in 6 searches. The producer scan's YTD +86.8% and 1-year +111.1% remain UNVERIFIED and are left as null here. One undated snippet (roic.ai/TradingView) said +67.9% over 52 weeks, probably from an earlier date. Verified pieces: indmoney puts the price at $117.94, above the Sep 1, 2026 52-week high of $117.65. That confirms a fresh high in early October, consistent with the scan's Oct 2 intraday all-time high of $118.51. Against that $118.51 high, $117.94 is about 0.5% below, or 1.8% below on the scan's $116.42 close. A June 24, 2026 article also flagged a new 52-week high, so the stock has been making highs since at least June. What drove the run: a strong Q2 2026 beat on Jul 29 (adjusted EPS $0.78 vs $0.58 consensus, revenue $1.169B vs $1.12B, organic sales +12.2%), FY26 guidance of $4.50-4.60B sales and $305-315M adjusted EBITDA, new 2030 targets ($6.0-6.5B revenue, $450-520M adjusted EBITDA), and analyst target hikes (TD Cowen $131, Benchmark and UBS $125)."
+   },
+   "range": {
+    "high_52w": 118.51,
+    "low_52w": null,
+    "pct_below_52w_high": 0.5,
+    "date": "2026-10-02. The $118.51 intraday high comes from the producer scan and was not independently found. indmoney's last-listed 52-week high is $117.65 (Sep 1, 2026), and the latest price is already above it. The gap to the high is 0.5% on $117.94, or 1.8% on the scan's $116.42 close."
+   },
+   "moving_averages": {
+    "sma50": 108.99,
+    "sma200": null,
+    "pct_above_50": 8.2,
+    "date": "about late Sep / early Oct 2026 (undated snippet from an October 2026 query; MarketBeat-style wording, likely the Sep 29, 2026 MarketBeat alert)"
+   },
+   "catalysts": [
+    {
+     "date": "2026-10-02",
+     "headline": "New all-time high",
+     "detail": "Producer scan: intraday $118.51. indmoney confirms the stock traded above its Sep 1 52-week high of $117.65, at $117.94. The breakout comes after roughly a month of basing below the Sep 1 high."
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "TD Cowen raises price target to $131 from $123, reiterates Buy",
+     "detail": "The highest target on the Street."
+    },
+    {
+     "date": "2026 (mid-year, exact date unverified)",
+     "headline": "Benchmark and UBS raise price targets to $125",
+     "detail": "Benchmark cited strength in dining."
+    },
+    {
+     "date": "2026-07-29",
+     "headline": "Q2 2026 beat: adjusted EPS $0.78 vs $0.58 consensus (+34.5%), revenue $1.169B vs $1.12B; shares up 7.3% premarket",
+     "detail": "Net sales +12.9% YoY, organic +12.2%. Adjusted EBITDA $88.1M vs $65.4M on wider gross margins. Adjusted EPS up 50% from $0.52. FY26 guidance: net sales $4.50-4.60B, gross profit $1.102-1.125B, adjusted EBITDA $305-315M. New 2030 targets: $6.0-6.5B revenue, $450-520M adjusted EBITDA. GuruFocus cites a slightly different consensus ($0.76 vs $0.55). The prior FY26 range was not retrieved, so the exact size of the raise is unconfirmed, though coverage describes it as a raise."
+    }
+   ],
+   "negative_news": [
+    {
+     "date": "2026-07 (post-Q2)",
+     "headline": "GuruFocus: 'Is CHEF overvalued after Q2 beat?' GF Value model calls it 87.3% overvalued"
+    },
+    {
+     "date": "2026 (recent, undated)",
+     "headline": "Simply Wall St narrative: 'Premium demand supports the story, valuation now leaves less room for error'"
+    },
+    {
+     "date": "2026-09/10",
+     "headline": "Price is above the MarketBeat consensus target of $115.67 (TradingKey average $120.33, range $104-$131), so little upside is left to the average target"
+    },
+    {
+     "date": "n/a",
+     "headline": "No offerings, downgrades or guidance cuts surfaced in 6 searches. The check was not exhaustive; CHEF has used convertible notes in the past, which was not re-checked."
+    }
+   ],
+   "next_earnings": {
+    "date": null,
+    "confirmed": false,
+    "source": "Not announced in search results; the company IR events page lists no Q3 date. Q2 was reported Jul 29, 2026, which suggests Q3 will land in late October or early"
+   },
+   "social": {
+    "level": "low",
+    "trend": "unknown",
+    "notes": "No WallStreetBets, StockTwits or trending mentions surfaced. Coverage is mostly MarketBeat auto-alerts, Zacks/Yahoo ('Hits Fresh High: Is There Still Room to Run?'), GuruFocus and Simply Wall St. It is a classic low-attention, non-tech mid-cap."
+   },
+   "analysts": "Consensus Buy. TD Cowen: Buy, target raised to $131 from $123 on Sep 11, 2026 (Street high). Benchmark and UBS raised targets to $125. MarketBeat consensus target is $115.67. TradingKey's average is $120.33, with a high of $131 and a low of $104. The stock now trades around or above the average targ",
+   "key_levels": {
+    "breakout_or_pivot": 118.51,
+    "support": 109,
+    "invalidation": 105,
+    "rationale": "Pivot: $118.51, the Oct 2 intraday all-time high (producer scan), which sits just above the Sep 1 high of $117.65 that capped a roughly month-long base. A close above about $118.50 on rising volume confirms the breakout out of that base. Support: about $109, the rising 50-day ($108.99). That is roughly 7-8% below price, which makes it a reasonable pullback-buy zone for a breakout that is not stretched. Invalidation: a decisive close below about $105. That is roughly 3.5% under the 50-day and about 11% off the high, and would show the breakout failed with no 50-day support, ahead of Q3 earnings. Caveat: the base low and volume data were not retrieved."
+   },
+   "risks": [
+    "Price data conflict: indmoney shows $117.94 and the scan shows a $116.42 close for Oct 2. Confirm before quoting on air.",
+    "Q3 earnings are probably late October (unconfirmed date), a binary event 3-4 weeks out after a large run-up and a high bar set by the Q2 beat.",
+    "Valuation: price is at or above the average analyst target ($115.67-120.33), and GuruFocus and Simply Wall St flag it as overvalued with less room for error.",
+    "Macro sensitivity: fine-dining and restaurant demand is exposed to a weakening labor market (September +29k jobs) and a 10-year yield of 5.28% (highest since 2002). A consumer slowdown would hit restaurant traffic.",
+    "Distributor balance sheet and possible convertible-note dilution were not checked this session.",
+    "Performance and RSI figures are unverified (YTD/1-year from the scan only), and the 200-day value found looks stale."
+   ],
+   "scores": {
+    "momentum": 8,
+    "technical": 7,
+    "social_buzz": 2,
+    "under_radar": 7,
+    "catalyst": 5,
+    "risk": 5
+   },
+   "best_slot": "sleeper",
+   "verdict": "Good fit for the sleeper slot. CHEF is a roughly $4.5-4.8B specialty food distributor, a low-attention, non-tech consumer theme no other candidate covers, and it is breaking to all-time highs. The breakout comes out of a month-long base under the Sep 1 high of $117.65, and the stock is only about 7-8% above a rising 50-day ($108.99), so it is not parabolic. The fundamentals support the run: a big Q2 beat on Jul 29 (adjusted EPS $0.78 vs $0.58, revenue $1.169B vs $1.12B, organic sales +12.2%, adjusted EBITDA +35%), FY26 guidance of $305-315M adjusted EBITDA, new 2030 targets, and TD Cowen's $131 target. Pivot $118.51, support about $109, invalidation below about $105. Honest caveats: (1) it i",
+   "data_confidence": "medium"
+  },
+  {
+   "ticker": "TXG",
+   "company": "10x Genomics, Inc.",
+   "sector": "Health Care",
+   "industry": "Life Sciences Tools & Services",
+   "market_cap": "About $12.2B. StockAnalysis/HeyGoTrade show $12.19B at about $92. Using StockAnalysis's 126.96M shares at $93.50 gives about $11.9B. Either way it is ABOVE the $10B small/mid ceiling for the sleeper slot.",
+   "business_one_liner": "Life-science tools company that makes single-cell and spatial-biology instruments and consumables (Chromium, Xenium, and the new Atera whole-transcriptome spatial platform) used by academic labs and pharma/biotech, including for AI-driven drug discovery datasets.",
+   "price": {
+    "value": 93.5,
+    "date": "2026-10-02"
+   },
+   "performance_pct": {
+    "week": 19.5,
+    "month": 50.7,
+    "three_month": null,
+    "ytd": 473,
+    "one_year": null,
+    "notes": "Week: +19.5% over 5 straight up days. This is the producer's figure. Trefis's Oct 1 headline ('5 Green Days In A Row: Stock Is Up 20%') roughly backs it up, but I did not find the Sep 25 close myself. Month: +50.7% is the September calendar-month change (HeyGoTrade), not a trailing 1-month return. YTD: ytdreturn.com lists the start-of-year price as $16.31 and shows +454% at a slightly earlier price. At the $93.50 close that works out to about +473%. 3-month and 1-year: not found (null). The 52-week low is $11.16, so the stock is up about 8.4x from its low. It is very likely one of the top YTD performers of 2026 (StockTitan keeps a YTD best-performers ranking, but I did not confirm TXG's rank)."
+   },
+   "range": {
+    "high_52w": 95.16,
+    "low_52w": 11.16,
+    "pct_below_52w_high": 1.74,
+    "date": "2026-10-02"
+   },
+   "moving_averages": {
+    "sma50": 63.37,
+    "sma200": 40.53,
+    "pct_above_50": 47.5,
+    "date": "2026-09-30"
+   },
+   "catalysts": [
+    {
+     "date": "2026-09-28",
+     "headline": "Argus starts coverage at Buy with a $110 price target, citing Atera demand",
+     "detail": "$110 target is about 18% above the Oct 2 close and far above the Street average of about $58.80-$60.62. The stock rose after the initiation and kept rising through Oct 2 (Timothy Sykes news, Oct 2)."
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "$4.8M patent verdict win against Parse Biosciences, plus an AI partnership with Lunit for oncology biomarker discovery on Xenium and Atera",
+     "detail": "Two pieces of news on one day that helped start the late-September leg higher."
+    },
+    {
+     "date": "2026-08-06",
+     "headline": "Q2 2026 results: 2026 outlook raised on strong Atera demand; Q2 Atera orders alone exceeded the 40-unit delivery target for all of 2026",
+     "detail": "This is the ORIGINAL SOURCE of the 'demand exceeds capacity' claim: management said on its own Q2 call that demand exceeds shipment capacity, with about 40 units expected in H2 2026, mostly in Q4, and manufacturing constraints limiting near-term growth. Argus repeated it. It is a company claim, not independent channel checks."
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "RBC Capital starts coverage with a $70 target",
+     "detail": "Its target is now far below the current price."
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Q3 2026 earnings expected (date not confirmed)",
+     "detail": "About 1 month away. Q4 Atera shipments and capacity ramp are the key items to watch."
+    }
+   ],
+   "negative_news": [
+    {
+     "date": "2026-09-26",
+     "headline": "CEO/co-founder Serge Saxonov sold 25,000 shares"
+    },
+    {
+     "date": "2026-10 (approx.)",
+     "headline": "Insider Shehnaaz Suliman sold 5,723 shares; pre-scheduled 10b5-1 insider sales led to profit-taking near resistance"
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Price is far above the Street: consensus target is $60.62 (raised 13.66%) and the ratings mix is about 33% Buy / 67% Hold. A Sep 19 MarketBeat consensus target was $44"
+    },
+    {
+     "date": "2026-08-06",
+     "headline": "Manufacturing capacity limits near-term Atera shipments (about 40 units in H2, mostly Q4), which puts execution risk on Q4"
+    }
+   ],
+   "next_earnings": {
+    "date": "2026-11-04",
+    "confirmed": false,
+    "source": "Investing.com earnings calendar (search snippet). This is an estimate; the company has not yet announced Q3 timing. The Q2 report was Aug 6, 2026."
+   },
+   "social": {
+    "level": "moderate",
+    "trend": "unknown",
+    "notes": "Coverage is mostly automated or aggregator content: MarketBeat syndicates (Cerbat Gem, Daily Political, Defense World), Timothy Sykes momentum write-ups (Sep 24, Oct 2), Trefis and GuruFocus. That fits a well-followed momentum name more than a hidden one. I found no evidence that TXG is trending on StockTwits or WallStreetBets; a StockTwits page exists but I saw no trending data. The trend is marked unknown because I could not measure mentions."
+   },
+   "analysts": "Argus started coverage at Buy with a $110 target on Sep 28, 2026, citing Atera demand. RBC started coverage Sep 1, 2026 with a $70 target. The MarketBeat-style consensus target is $60.62 as of Oct 2, raised 13.66%; Timothy Sykes cites a Street average of about $58.80. A Sep 19 MarketBeat consensus t",
+   "key_levels": {
+    "breakout_or_pivot": 95.16,
+    "support": 82.76,
+    "invalidation": 78,
+    "rationale": "Pivot: $95.16 is the 52-week and all-time-recent high. A close above it on heavy volume would continue the trend, but it would be a breakout from a stock already about 47% above its 50-day, not from a tight base. Support: about $82.76, the late-September 52-week-high level from an Investing.com alert. That is roughly where the Sep 24 news / Argus leg started; the Oct 1 close of $88.76 is the first minor support. Invalidation: a close below about $78. That is the approximate base of the 5-day, +19.5% run, implied from the producer's figure since I did not verify the Sep 25 close. Losing it would erase the whole Argus-driven leg. The 50-day ($63.37) is about 32% below the price, so it is not a practical stop. A pullback toward the low $80s, or a tight multi-week base under $95, would give a far better entry than chasing here."
+   },
+   "risks": [
+    "Extremely extended: about 47.5% above the 50-day ($63.37), about 2.3x the 200-day ($40.53), about +473% YTD, up 8.4x from its $11.16 low, and up 5 straight days into the high. Pullbacks of 20-30% are common in this kind of move.",
+    "Fails the sleeper criteria: market cap is about $12B, above the $10B ceiling, and the stock is already well covered (Argus, RBC, Citi, Barclays and others; MarketBeat consensus) and a widely known former $200 IPO-era name.",
+    "Price is far above consensus targets (about $58.80-$60.62); only Argus at $110 justifies it. Downgrades on valuation are a real risk.",
+    "Insiders are selling into strength (CEO Saxonov 25,000 shares around Sep 26; Suliman 5,723 shares).",
+    "The 'demand exceeds capacity' story comes from management on the Aug 6 call. If Q4 Atera shipments slip, that is a hit to the story at Q3 earnings (about Nov 4, not confirmed).",
+    "Sector headwind: Health Care was the worst sector this week (XLV -2.65%) because of pharma tariffs and CMS drug-pricing pressure, and rising 5%+ 10-year yields hurt long-duration growth names.",
+    "Steady share dilution from stock-based pay (shares up about 4% a year)."
+   ],
+   "scores": {
+    "momentum": 10,
+    "technical": 4,
+    "social_buzz": 4,
+    "under_radar": 2,
+    "catalyst": 7,
+    "risk": 8
+   },
+   "best_slot": "momentum",
+   "verdict": "TXG FAILS as a sleeper and should not fill that slot. Use a fallback (PARR or MTRN) instead. Three checks fail. (1) Market cap is about $12B (StockAnalysis/HeyGoTrade $12.19B), above the $10B ceiling. (2) It is very extended: $93.50 is about 47.5% above the 50-day ($63.37, Sep 30) and about 2.3x the 200-day, after +473% YTD and an 8x run off the $11.16 low. (3) It is not under the radar: multiple analysts, MarketBeat/Trefis/Sykes coverage, a well-known name, and probably one of 2026's best YTD performers. The Atera 'demand above capacity' claim is real but comes from management on the Aug 6 Q2 call (Q2 orders beat the 40-unit 2026 target; deliveries are capacity-limited, mostly in Q4), which",
+   "data_confidence": "medium"
+  }
+ ],
+ "low_confidence_extras": [
+  {
+   "ticker": "HPE",
+   "company": "Hewlett Packard Enterprise Co.",
+   "sector": "Technology",
+   "industry": "IT hardware: servers, storage and networking equipment",
+   "market_cap": "About $92.0B at the Oct 2, 2026 close (stockanalysis, per scout, unverified). Trefis put it at $85.4B on Sep 30.",
+   "business_one_liner": "Sells IT infrastructure to businesses: servers (including AI rack systems), storage, networking (Aruba and Juniper) and hybrid-cloud and financing services.",
+   "price": {
+    "value": 69.33,
+    "date": "2026-10-02"
+   },
+   "performance_pct": {
+    "week": 10,
+    "month": 22.6,
+    "three_month": null,
+    "six_month": null,
+    "ytd": 189,
+    "one_year": null,
+    "notes": "NONE OF THESE COULD BE VERIFIED THIS SESSION. The web search budget was used up before any search ran, and WebFetch was blocked (gurufocus). Week: Yahoo Finance (Oct 2) said HPE was 'pacing for a ~10% weekly gain' and was the S&P 500's biggest gainer of the week. That was an intraday estimate, not a final number. Month: +22.6% from the Trefis 52-week-high list dated Sep 30. It was the best 1-month move on that list and does NOT include the Oct 1-2 gains, so the true 1-month figure is probably higher. YTD: +189% from Yahoo Finance (Oct 2). 3-month, 6-month and 1-year figures were not found."
+   },
+   "range": {
+    "high_52w": 70.29,
+    "low_52w": null,
+    "pct_below_52w_high": 1.4,
+    "all_time_high_recently": true,
+    "date": "2026-10-02"
+   },
+   "moving_averages": {
+    "sma50": 55.38,
+    "sma200": null,
+    "above_50": true,
+    "above_200": true,
+    "pct_above_50": 25.2,
+    "date": "2026-09-30 (50-day value); % above computed against the Oct 2 close of $69.33"
+   },
+   "catalysts": [
+    {
+     "date": "2026-09-30",
+     "headline": "Networking Investor Day raised the FY27 networking growth outlook",
+     "detail": "FY27 networking revenue growth was raised to high-teens to low-20s%. Networking operating margin was guided to the mid-to-high 20s%. Data center networking revenue is projected to grow at a CAGR around 50% through FY2029. TradingKey frames it as networking growth of high-teens to low-20% through FY2029. Unverified scout evidence."
+    },
+    {
+     "date": "2026-10-02 (reported; exact announcement date not verified)",
+     "headline": "$1.2B order from Vultr for AMD-powered Helios AI racks",
+     "detail": "A large AI infrastructure order from the cloud provider Vultr. It was cited as a driver of the Oct 2 rally. Unverified scout evidence."
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Daiwa upgraded HPE to Outperform with a $75 price target",
+     "detail": "Part of the 'wave of upgrades' the scout cited. The other upgrades could not be identified or verified this session."
+    },
+    {
+     "date": "2026-09-30 to 2026-10-02",
+     "headline": "Back-to-back record highs; biggest S&P 500 gainer of the week",
+     "detail": "Record highs on Wed Sep 30 and Thu Oct 1, then a further gain of about 7.4% to an all-time high on Fri Oct 2."
+    },
+    {
+     "date": "Prior quarter, FQ3 FY26 (report date not verified)",
+     "headline": "Beat on the last quarter: adjusted EPS $1.11 vs $0.93 estimate; revenue $12.21B, up 33.7% YoY",
+     "detail": "Cited in the MarketBeat Sep 30 alert. Background fundamental support, not a new catalyst this week."
+    }
+   ],
+   "negative_news": [
+    {
+     "date": "n/a",
+     "headline": "NOT SEARCHED. No negative-news search (offerings, downgrades, lawsuits, insider selling, guidance cuts) could be run this session because the web search budget was used up. An empty list here would NOT mean there is no negative news. Check this before airing."
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Valuation flag (derived, not news): the Oct 2 close of about $69.33 is already within about 4% of the $71.88 consensus target. That leaves little analyst-implied upside and raises the risk of valuation downgrades."
+    }
+   ],
+   "next_earnings": {
+    "date": null,
+    "confirmed": false,
+    "source": "Not found this session. HPE's fiscal year ends Oct 31, and it has usually reported fiscal Q4 results in late November or early December. Earnings therefore almo"
+   },
+   "social": {
+    "level": "low",
+    "trend": "unknown",
+    "notes": "Not measured: no WallStreetBets, StockTwits or Reddit search could be run this session. Mainstream financial media coverage was clearly heavy this week (for example Yahoo Finance's 'week for the books' piece and TradingKey's market-movers coverage). Retail social trending status is unknown. The 'low' level is a conservative placeholder, not a measurement.",
+    "sources": []
+   },
+   "analysts": "The consensus price target is $71.88 (MarketBeat, Sep 30, unverified). Daiwa upgraded the stock to Outperform with a $75 target on Oct 2 (TradingKey, unverified). The scout mentions a 'wave of upgrades', but the other firms, ratings and targets could not be identified. The number of analysts coverin",
+   "key_levels": {
+    "breakout_or_pivot": 70.29,
+    "support": 64.58,
+    "invalidation": 62,
+    "rationale": "Pivot $70.29: the all-time intraday high on Oct 2 (stockanalysis via scout; another source shows an intraday high of $69.85). A push through about $70.30 on strong volume would be continuation. Given how extended the stock is, a better entry may be a tight consolidation or flag that forms just under this level over the next 1-2 weeks. Support $64.58: the Oct 1 close implied by the reported +$4.75 move to $69.33. That is where Friday's gap started, so a gap fill would test it. The Sep 30 breakout high of $67.10 is a first, shallower support inside the gap. Invalidation about $62: a rough estimate of the Sep 25 close, backed out from the ~10% weekly gain. A close below it would erase the whole catalyst week (Investor Day, Vultr order, upgrades) and break the breakout. This level is approximate and derived, not sourced. For position traders, the 50-day MA (about $55-56) is the deeper trend line, but it sits about 20% below the price, too far to work as a practical stop."
+   },
+   "risks": [
+    "Extended: about 25% above the 50-day MA ($55.38 as of Sep 30), +189% YTD, and a 7%+ gap up to a record on Friday. That is beyond the 15-20% 'not stretched' guide, so a pullback or gap fill toward $64.6-67 is a real possibility early in the week.",
+    "Already near the analyst consensus target ($71.88), which limits upside and invites valuation downgrades.",
+    "Large AI rack orders (for example the $1.2B Vultr deal) can be lumpy and low-margin. They depend on neocloud customers and their funding, so timing and gross margin can disappoint.",
+    "AI-hardware sentiment risk: HPE now trades as an AI-infrastructure momentum name, so a sector-wide de-rating would hit it hard.",
+    "Data risk: every number here comes from unverified scout evidence. This session could not run any web searches (budget exhausted) and WebFetch was blocked. Negative news, RSI, the 200-day MA, short interest and the earnings date were not checked."
+   ],
+   "scores": {
+    "momentum": 9,
+    "technical": 5,
+    "social_buzz": 4,
+    "under_radar": 1,
+    "catalyst": 9,
+    "risk": 6
+   },
+   "best_slot": "momentum",
+   "verdict": "On the story, HPE is a strong momentum-slot candidate: the S&P 500's biggest gainer of the week, back-to-back record highs, about +189% YTD, and three fresh, concrete catalysts (the Sep 30 networking Investor Day raise, a $1.2B Vultr Helios AI-rack order, and a Daiwa upgrade to $75). The setup is extended, though: roughly 25% above its 50-day after a 7%+ gap up, and almost at the $71.88 consensus target. Frame it as 'watch for a tight hold above about $64.6-67, or a volume breakout over $70.29', not a chase. Also note that this session could not independently verify any figure; all numbers come from scout evidence, so confirm the close, the moving averages and any negative news before airing",
+   "data_confidence": "low (scout data only, never verified by search)"
+  },
+  {
+   "ticker": "LITE",
+   "company": "Lumentum Holdings Inc.",
+   "sector": "Technology",
+   "industry": "Communication equipment / optical components",
+   "market_cap": "$97.36B as of the Oct 2, 2026 close, per GuruFocus. This comes from the scout and I could not check it this session.",
+   "business_one_liner": "Lumentum makes optical and photonic components, such as lasers and transceivers, that move data through AI data centers and telecom networks.",
+   "price": {
+    "value": 1085.42,
+    "date": "2026-10-02"
+   },
+   "performance_pct": {
+    "week": 15.27,
+    "month": null,
+    "three_month": null,
+    "six_month": null,
+    "ytd": null,
+    "one_year": 560.31,
+    "notes": "Week +15.27% (week ending Oct 2) per GuruFocus. 1-year +560.31% per Investing.com's Oct 2 all-time-high note. Both come from the scout and I could not re-check them: the session's 200-search budget ran out before this task started, and WebFetch to financefeeds.com was blocked, so I made no more fetch attempts. Daily moves reported: +7.7% on Oct 1 (MarketBeat) and +3.79% on Oct 2 (GuruFocus). The FXLeaders headline dated Oct 2 says the stock surged about 8%, which probably describes the Oct 1 move; the sources disagree slightly. Prices worked out from those figures: Oct 1 close about $1,045.8, Sep 30 close about $971, prior-week close (Sep 25) about $941.6. These are my arithmetic, not quoted values. 1-month, 3-month, 6-month and YTD figures were not available."
+   },
+   "range": {
+    "high_52w": 1085.75,
+    "low_52w": null,
+    "pct_below_52w_high": 0.03,
+    "all_time_high_recently": true,
+    "date": "2026-10-02"
+   },
+   "moving_averages": {
+    "sma50": null,
+    "sma200": null,
+    "above_50": null,
+    "above_200": null,
+    "pct_above_50": null,
+    "date": "2026-10-02"
+   },
+   "catalysts": [
+    {
+     "date": "2026-10-02",
+     "headline": "Bernstein starts coverage at Outperform with a $1,220 price target",
+     "detail": "Per FinanceFeeds, via the scout. The same piece cites revenue up 109.3% year over year and fiscal Q1 2027 EPS guidance of $4.05-$4.35. Its URL mentions a $1,400 bull case and a $920 bear case. The initiation date is approximate and I could not check it."
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Closes at an all-time high; +15.27% for the week, the Nasdaq-100's biggest weekly gain",
+     "detail": "Closed at $1,085.42 (+3.79%) on Oct 2 after an intraday all-time high of $1,085.75."
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Investing.com: stock hits all-time high of $1,085.75; 1-year change +560.31%",
+     "detail": null
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Shares climb 7.7%",
+     "detail": null
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Stock surges about 8% on AI optics demand, record revenue and strong 2027 guidance",
+     "detail": null
+    }
+   ],
+   "negative_news": [
+    {
+     "date": "n/a",
+     "headline": "NOT CHECKED: no negative-news search could be run (session search budget used up). Offerings, insider selling, downgrades and lawsuits are all unchecked. This is not a clean result."
+    }
+   ],
+   "next_earnings": {
+    "date": null,
+    "confirmed": false,
+    "source": "Not found this session (search budget used up). The fiscal Q1 FY2027 quarter has just ended; check the report date before air. I found no sign of an earnings da"
+   },
+   "social": {
+    "level": "moderate",
+    "trend": "unknown",
+    "notes": "Not measured: I could not search WallStreetBets, StockTwits or ApeWisdom this session. The 'moderate' level is only a guess based on heavy media coverage in the week ending Oct 2 (GuruFocus, MarketBeat, FXLeaders, FinanceFeeds, Investing.com) and its spot as the Nasdaq-100's top weekly gainer. Treat social buzz as unknown.",
+    "sources": [
+     "https://www.gurufocus.com/news/9108040/nasdaq-gains-over-1-as-lumentum-holdings-lite-surges-1527-amid-payroll-data",
+     "https://www.marketbeat.com/instant-alerts/price-lumentum-nasdaq-lite-shares-climb-77-time-to-buy-2026-10-01/"
+    ]
+   },
+   "analysts": "The only analyst action I have is Bernstein starting coverage at Outperform with a $1,220 target, around Oct 2, 2026 (FinanceFeeds, via the scout, unchecked). That target is about 12% above the Oct 2 close. FinanceFeeds also cites a $1,400 bull case and a $920 bear case. Number of analysts, consensu",
+   "key_levels": {
+    "breakout_or_pivot": 1085.75,
+    "support": 1045,
+    "invalidation": 940,
+    "rationale": "Pivot: the Oct 2 intraday all-time high of $1,085.75 (Investing.com). A close above it with volume continues the breakout. Support: about $1,045, the Oct 1 close I worked out from the Oct 2 close of $1,085.42 and its +3.79% gain. Below that is about $971, the Sep 30 close before the +7.7% Oct 1 jump, which is the gap a trader would want to see hold. Invalidation: about $940, the prior-week close I worked out from the +15.27% weekly gain. Losing it would erase the whole breakout week and puts the stock near FinanceFeeds' $920 bear case. All levels are arithmetic on scout figures I could not check, and none is tied to the 50-day average, which I could not find. Recompute from real chart data before air."
+   },
+   "risks": [
+    "Extended: +15% in one week and about +560% in a year. A new watcher would be buying after a near-vertical run, and pullbacks of 10-20% are common after such weeks.",
+    "Distance above the 50-day average and RSI are unknown; both are probably high, which weakens the technical setup.",
+    "Crowded AI-optics / AI-infrastructure trade: any sign of slower hyperscaler capex or AI sentiment could hit hard at about $97B market cap.",
+    "Negative news (offerings, insider selling, downgrades) and short interest were not checked this session.",
+    "Next earnings date not confirmed. A report in the next few weeks would add a big event risk.",
+    "The US-scrutiny-of-Chinese-transceivers story has no source and depends on policy."
+   ],
+   "scores": {
+    "momentum": 9,
+    "technical": 6,
+    "social_buzz": 5,
+    "under_radar": 1,
+    "catalyst": 7,
+    "risk": 7
+   },
+   "best_slot": "momentum",
+   "verdict": "On the scout's figures, LITE is a top momentum leader: an all-time-high close of $1,085.42 on Oct 2, the Nasdaq-100's biggest weekly gain (+15.27%), about +560% over a year, and a fresh Bernstein Outperform at $1,220. It fits the momentum slot well. However, I could not check any of it this session (search budget used up, WebFetch blocked). It is also very extended after the week's run, so present it as a watch for consolidation or a pullback toward about $1,045-971 rather than a chase, and confirm the price, moving averages and earnings date before air.",
+   "data_confidence": "low (scout data only, never verified by search)"
+  },
+  {
+   "ticker": "NTAP",
+   "company": "NetApp, Inc.",
+   "sector": "Technology",
+   "industry": "Computer storage hardware and data-management software",
+   "market_cap": "About $41.6B as of Sep 29, 2026 (Trefis 52-week-high list). Probably higher after the Oct 1-2 gains, but not re-checked this session.",
+   "business_one_liner": "NetApp sells enterprise data-storage systems and data-management software (on-premises flash arrays plus cloud storage services), now pitched as infrastructure for AI workloads.",
+   "price": {
+    "value": 227.31,
+    "date": "2026-10-02"
+   },
+   "performance_pct": {
+    "week": 8.4,
+    "month": 11.8,
+    "three_month": null,
+    "six_month": null,
+    "ytd": null,
+    "one_year": 77.5,
+    "notes": "The week, month and one-year figures are as of Sep 29, 2026, from the Trefis large-cap 52-week-high list (scout evidence, not checked). They leave out the further gains on Oct 1-2: an all-time-high alert at $217.10 on Oct 1, then +5.70% to $227.31 on Oct 2. Up to Oct 2, the one-week and one-month gains are therefore larger than shown. No 3-month, 6-month or YTD figures were found."
+   },
+   "range": {
+    "high_52w": 231.9,
+    "low_52w": null,
+    "pct_below_52w_high": 2,
+    "all_time_high_recently": true,
+    "date": "2026-10-02"
+   },
+   "moving_averages": {
+    "sma50": null,
+    "sma200": null,
+    "above_50": true,
+    "above_200": true,
+    "pct_above_50": null,
+    "date": "2026-10-02"
+   },
+   "catalysts": [
+    {
+     "date": "2026-09-30",
+     "headline": "NetApp launches Novus AI storage architecture at INSIGHT 2026",
+     "detail": "The company says Novus delivers more than 100 TB/s of combined throughput. It also announced partnerships with SAP, Oracle and Supermicro. The stock rose after the launch."
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "NTAP sets an all-time high at $217.10",
+     "detail": "Investing.com all-time-high alert."
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Stock jumps about 5.7% to an all-time high; BofA raises target to $220 from $200 (still Neutral)",
+     "detail": "Up 6.2% intraday to $228.33, with an intraday all-time high of $231.90. Closed at $227.31 (+$12.25, +5.70%), per scout evidence."
+    },
+    {
+     "date": "Fiscal Q1 2027 report (exact date not found; likely late Aug 2026)",
+     "headline": "Record fiscal Q1 2027: non-GAAP EPS $2.58 (+~66% YoY), revenue ~$2.03B",
+     "detail": "Cited in the Oct 2 Investing.com article. The earnings release itself was not found this session."
+    }
+   ],
+   "negative_news": [
+    {
+     "date": "2026-10-02",
+     "headline": "BofA keeps a Neutral rating; its new $220 target is below the ~$227 share price, so the analyst sees the stock as fully valued after the run"
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Sector risk: according to the scout notes, Seagate and Western Digital fell 10%+ that day on Toshiba capacity news. NTAP held up, but storage stocks are volatile. No source for this was found this session."
+    }
+   ],
+   "next_earnings": {
+    "date": null,
+    "confirmed": false,
+    "source": "Not found this session. NetApp usually reports fiscal Q2 in late November, but no date was checked. No earnings report appears to fall in the next two weeks."
+   },
+   "social": {
+    "level": "low",
+    "trend": "unknown",
+    "notes": "Not measured: no WallStreetBets, StockTwits or ApeWisdom data could be checked this session. NetApp is a $40B+ enterprise IT name that rarely appears on retail trending lists, so 'low' is an assumption. The INSIGHT conference and the all-time high may have lifted chatter, but none was observed.",
+    "sources": []
+   },
+   "analysts": "BofA raised its target to $220 from $200 on Oct 2, 2026 and kept a Neutral rating (Investing.com, via scout evidence). The number of covering analysts, the consensus rating and other recent rating or target changes were not found.",
+   "key_levels": {
+    "breakout_or_pivot": 231.9,
+    "support": 215,
+    "invalidation": 205,
+    "rationale": "Pivot: the $231.90 intraday all-time high from Oct 2. A close above it, ideally on heavy volume, would extend the breakout. Support: the $215-217 zone, made up of the Oct 1 close (implied ~$215.06) and the Oct 1 all-time-high alert at $217.10. That is the level the stock broke out from, and a pullback that holds there is the cleaner entry. Invalidation: a close below about $205. That would undo the Oct 1-2 breakout and most of the INSIGHT move, and put the stock about 12% below its high. This is my judgment call: the 50-day average and the Sep 29 price were not available. Check the 50-day before using these levels. If it sits near $200-205, it confirms the invalidation level."
+   },
+   "risks": [
+    "Extended: up ~11.8% in the month to Sep 29, then roughly another 9% by Oct 2. The stock is probably well above its 50-day average, and RSI is likely high (neither was measured).",
+    "Trading above BofA's raised $220 target, and BofA still rates it Neutral, which limits upside from the analyst side.",
+    "Storage stocks are volatile. The HDD sell-off on Toshiba capacity news shows how quickly the AI-storage trade can turn.",
+    "A gap-up all-time high on conference news can give back gains if follow-through fades.",
+    "All data here is unverified scout evidence; nothing was checked this session."
+   ],
+   "scores": {
+    "momentum": 8,
+    "technical": 6,
+    "social_buzz": 2,
+    "under_radar": 2,
+    "catalyst": 8,
+    "risk": 5
+   },
+   "best_slot": "momentum",
+   "verdict": "On the scout evidence, NTAP is a credible momentum pick. It hit an all-time high ($231.90 intraday, $227.31 close on Oct 2) after the INSIGHT/Novus launch, the SAP/Oracle/Supermicro partnerships and a record quarter (EPS +66%), and it is up ~77% over a year. It also looks extended after a roughly 20% one-month run and trades above BofA's $220 Neutral target. For the watchlist, wait for a hold of the $215-217 breakout zone or a tight base under $232 rather than chasing. Confidence is low because none of these numbers could be checked this session.",
+   "data_confidence": "low (scout data only, never verified by search)"
+  },
+  {
+   "ticker": "CRWD",
+   "company": "CrowdStrike Holdings, Inc.",
+   "sector": "Technology",
+   "industry": "Software - Infrastructure (Cybersecurity)",
+   "market_cap": "~$271.3B as of Oct 1, 2026 (Trefis, scout-supplied, not re-checked this session)",
+   "business_one_liner": "CrowdStrike sells cloud-delivered cybersecurity software, built around its Falcon platform for endpoint, identity, cloud and threat-intelligence protection, on a subscription basis.",
+   "price": {
+    "value": 270.04,
+    "date": "2026-10-02"
+   },
+   "performance_pct": {
+    "week": null,
+    "month": 23.7,
+    "three_month": null,
+    "six_month": null,
+    "ytd": null,
+    "one_year": 117,
+    "notes": "The 1M (+23.7%) and 1Y (+117.0%) figures are from the Trefis large-cap 52-week-high list for Thu Oct 1, 2026. The scout supplied them and I could not re-check them. The Oct 2 day move was +1.48% (open $269.50, close $270.04) per heygotrade, also scout-supplied. I could not get week, 3M, 6M or YTD returns. Prices are post 4-for-1 split (split-adjusted trading began Jul 2, 2026)."
+   },
+   "range": {
+    "high_52w": 273.54,
+    "low_52w": null,
+    "all_time_high_recently": true,
+    "date": "2026-10-02",
+    "pct_below_52w_high": 1.28
+   },
+   "moving_averages": {
+    "sma50": null,
+    "sma200": null,
+    "above_50": null,
+    "above_200": null,
+    "pct_above_50": null,
+    "date": "2026-10-02"
+   },
+   "catalysts": [
+    {
+     "date": "2026-10-02",
+     "headline": "New all-time high: intraday $273.54, close $270.04 (+1.48%)",
+     "detail": "Per the scout. CNBC's live blog also reportedly names CrowdStrike, Palo Alto Networks and AMD as closing at all-time highs. Not re-checked this session."
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Largest name (~$271.3B) on the Trefis large-cap 52-week-high list, 1M +23.7%, 1Y +117%",
+     "detail": "Scout-supplied, not re-checked."
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Earlier all-time-high alert at $264.31",
+     "detail": "Scout-supplied, not re-checked. This now marks the breakout area under the Oct 2 high."
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Shares reportedly jumped 14.9% in one session",
+     "detail": "Scout note only. I have no source URL, and the cause of the jump is unknown. Needs checking before it goes on air."
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Q2 earnings reaction reportedly the stock's best day ever",
+     "detail": "Scout note only, no URL. The percentage move and the guidance details were not checked."
+    }
+   ],
+   "negative_news": [
+    {
+     "date": "n/a (not searched)",
+     "headline": "NOT CHECKED: the negative-news search (offerings, downgrades, lawsuits, insider selling, guidance) could not be run. The session's search budget (200/200) was used up and every page fetch was blocked. An empty result here does not mean no negative news exists."
+    }
+   ],
+   "next_earnings": {
+    "date": null,
+    "confirmed": false,
+    "source": "Not retrieved. The most recent report was Aug 27, 2026 (scout note, no URL). The next report (fiscal Q3) would normally come about a quarter later, around late "
+   },
+   "social": {
+    "level": "low",
+    "trend": "unknown",
+    "notes": "NOT MEASURED. No WallStreetBets, StockTwits or ApeWisdom data could be retrieved, so the 'low' level is a stand-in, not a finding. Chatter about a ~$270B name making new highs is probably moderate, but that is a guess and is not scored as fact.",
+    "sources": []
+   },
+   "analysts": "Not retrieved this session. Coverage count, consensus rating, and recent upgrades, downgrades and target changes are unknown. A follow-up check before taping is needed.",
+   "key_levels": {
+    "breakout_or_pivot": 273.54,
+    "support": 264.31,
+    "invalidation": 251.66,
+    "rationale": "Pivot: $273.54 is the Oct 2 intraday all-time high (scout-supplied). A close above it on strong volume would continue the breakout. Support: $264.31 is the Sep 30 all-time-high alert price, the breakout area the stock cleared this week. A healthy pullback should hold near it, about 2.1% below the Oct 2 close of $270.04. Invalidation: $251.66 is a rule of thumb, 8% below the pivot, not a chart level. I could not get the 50-day average or the recent low of the consolidation, which would be the better anchor. Before taping, replace it with the 50-day SMA, or the low of the Sep 14 gap-up day, whichever is higher. A close back below about $264 within days of the breakout would already be an early warning that the move is failing."
+   },
+   "risks": [
+    "Extended: a ~24% gain in one month and +117% in a year after a 14.9% one-day jump (Sep 14) and a best-ever earnings day (Aug 27). The stock is probably well above its 50-day average (not checked), so it is prone to sharp pullbacks.",
+    "Crowded trade: as the scout notes put it, cybersecurity has become the 'AI-risk hedge' theme. If that story turns or money rotates out, the group (CRWD, PANW) could reverse together.",
+    "Valuation: a ~$271B software company after doubling in a year. Even small hits to annual recurring revenue (ARR) or guidance could cause large drawdowns.",
+    "Data risk: none of the supporting figures could be checked independently this session. Moving averages, RSI, volume, analyst actions, short interest and negative news are all unknown.",
+    "Earnings timing not confirmed. Probably late Nov or early Dec, outside the episode week, but unconfirmed."
+   ],
+   "scores": {
+    "momentum": 9,
+    "technical": 6,
+    "social_buzz": 3,
+    "under_radar": 0,
+    "catalyst": 5,
+    "risk": 5
+   },
+   "best_slot": "momentum",
+   "verdict": "On paper CRWD is a textbook momentum leader: the largest name on the large-cap 52-week-high lists, a fresh all-time high of $273.54 on Oct 2, a close about 1.3% below it at $270.04, +23.7% in a month and +117% in a year. That makes it a reasonable pick for the momentum slot. Two caveats: after a 24% month it is likely stretched above its 50-day average, so the better entry is a tight hold above the ~$264 breakout area or a volume-backed close above $273.54. Also, I could not check any figure this session (search budget used up, fetches blocked), so price, moving averages, analyst actions and negative news must be confirmed before it goes on air.",
+   "data_confidence": "low (scout data only, never verified by search)"
+  }
+ ]
+}
