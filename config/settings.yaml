@@ -91,7 +91,10 @@ llm:
   target_words: [900, 1400]   # ~6-9 minutes spoken: brief and to the point
 
 tts:
-  provider: edge          # "edge" (free), "elevenlabs" (clone your own voice), or "none"
+  provider: kokoro        # "kokoro" (free, offline), "edge" (free, Microsoft), "elevenlabs" (your cloned voice), or "none"
+  kokoro_voice: am_michael
+  kokoro_speed: 1.05
+  kokoro_model_dir: data/cache/tts
   edge_voice: en-US-AndrewNeural
   edge_rate: "+5%"
   elevenlabs_model: eleven_multilingual_v2

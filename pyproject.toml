@@ -18,6 +18,8 @@ dependencies = [
     "yfinance>=0.2.50",
     "anthropic>=1.0",
     "edge-tts>=6.1",
+    "kokoro-onnx>=0.4",
+    "soundfile>=0.12",
 ]
 
 [project.optional-dependencies]

@@ -135,3 +135,11 @@ def test_markdown_to_html():
     html = feed.markdown_to_html("# Title\n\nHello **world**\n- one\n- two\n\n_not advice_")
     assert "<h1>Title</h1>" in html and "<strong>world</strong>" in html
     assert html.count("<li>") == 2 and "<em>not advice</em>" in html
+
+
+def test_speech_normalizer():
+    from watchlist.episode.tts import normalize_for_speech
+
+    out = normalize_for_speech("ticker N-V-D-A near $142.50, up 12% in 2026. Russell 2000. Follow @scottiewick")
+    assert "N V D A" in out and "142.50 dollars" in out and "12 percent" in out
+    assert "twenty twenty-six" in out and "Russell 2000" in out and "Scottie Wick" in out
