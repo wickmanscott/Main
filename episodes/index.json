@@ -1,5 +1,24 @@
 [
  {
+  "date": "2026-10-05",
+  "title": "Week of October 5th, 2026. $LITE $AMN $FORM $NBIS $VREX",
+  "guid": "stock-watchlist-2026-10-05",
+  "pub_date": "Mon, 05 Oct 2026 00:18:11 +0000",
+  "summary": "5 stocks for your watchlist: LITE, AMN, FORM, NBIS, VREX. Not financial advice.",
+  "notes_html": "<h1>Week of October 5th, 2026. $LITE $AMN $FORM $NBIS $VREX</h1>\n<p>5 stocks to add to your watchlist every week. Brief and to the point.</p>\n<ul>\n<li><strong>$LITE</strong> (momentum): Trending on StockTwits. Watching 1078.04 / invalidation 930.02.</li>\n<li><strong>$AMN</strong> (momentum): Relative strength rating 93 (beating 93% of the market). Watching 36.4 / invalidation 34.23.</li>\n<li><strong>$FORM</strong> (momentum): Relative strength rating 97 (beating 97% of the market). Watching 150.65 / invalidation 132.02.</li>\n<li><strong>$NBIS</strong> (social): Reddit buzz: 8 mentions in 24h (+140% vs the prior day). Watching 254.74 / invalidation 218.85.</li>\n<li><strong>$VREX</strong> (sleeper): Strong setup with low attention: lighter trading volume and little social chatter. Watching 18.54 / invalidation 18.35.</li>\n</ul>\n<p><em>I&#x27;m not a financial advisor and this isn&#x27;t financial advice. Always do your own DD before putting money into any stock.</em></p>",
+  "tickers": [
+   "LITE",
+   "AMN",
+   "FORM",
+   "NBIS",
+   "VREX"
+  ],
+  "script_source": "template",
+  "audio_url": null,
+  "audio_bytes": null,
+  "duration_sec": null
+ },
+ {
   "date": "2026-10-04",
   "title": "Week of October 5th, 2026. $MPC $MTRN $TWLO $NVDA $CHEF",
   "guid": "stock-watchlist-2026-10-04",

@@ -1,0 +1,367 @@
+{
+ "show": {
+  "title": "The (Stock) Watchlist",
+  "host": "Scott Wickman",
+  "handle": "@scottiewick",
+  "tagline": "5 stocks to add to your watchlist every week. Brief and to the point."
+ },
+ "data_as_of": "2026-10-02",
+ "week_of": "2026-10-05",
+ "title": "Week of October 5th, 2026. $LITE $AMN $FORM $NBIS $VREX",
+ "market_pulse": {
+  "SPY": {
+   "close": 769.64,
+   "ret_1w": -0.0022,
+   "ret_1m": 0.0084,
+   "above_50d": true,
+   "above_200d": true
+  },
+  "QQQ": {
+   "close": 749.58,
+   "ret_1w": 0.0068,
+   "ret_1m": 0.058,
+   "above_50d": true,
+   "above_200d": true
+  },
+  "IWM": {
+   "close": 281.52,
+   "ret_1w": -0.0016,
+   "ret_1m": -0.04,
+   "above_50d": false,
+   "above_200d": true
+  },
+  "breadth": {
+   "universe_size": 2926,
+   "pct_above_50d": 0.275,
+   "pct_stage2_uptrend": 0.39,
+   "pct_within_5pct_of_52w_high": 0.08
+  }
+ },
+ "last_week_scorecard": {
+  "episode_date": "2026-10-04",
+  "benchmark": "SPY",
+  "picks": [
+   {
+    "ticker": "MPC",
+    "slot": "momentum",
+    "ret": null
+   },
+   {
+    "ticker": "MTRN",
+    "slot": "momentum",
+    "ret": null
+   },
+   {
+    "ticker": "TWLO",
+    "slot": "momentum",
+    "ret": null
+   },
+   {
+    "ticker": "CHEF",
+    "slot": "sleeper",
+    "ret": null
+   },
+   {
+    "ticker": "NVDA",
+    "slot": "social",
+    "ret": null
+   }
+  ]
+ },
+ "live_track_record": null,
+ "model_backtest": null,
+ "picks": [
+  {
+   "ticker": "LITE",
+   "ticker_spoken": "L-I-T-E",
+   "slot": "momentum",
+   "weeks_on_list": 1,
+   "name": "LITE",
+   "sector": null,
+   "industry": null,
+   "market_cap": null,
+   "business_summary": null,
+   "reasons": [
+    "Trending on StockTwits",
+    "Reddit buzz: 1 mentions in 24h (-40% vs the prior day)",
+    "Relative strength rating 98 (beating 98% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 0.6% below its 52-week high"
+   ],
+   "scores": {
+    "composite": 0.898,
+    "composite_rank": 1,
+    "rs_rating": 98.0,
+    "sleeper": null,
+    "social": 0.6
+   },
+   "performance": {
+    "ret_1w": 0.153,
+    "ret_1m": 0.247,
+    "ret_3m": 0.484,
+    "ret_6m": 0.313
+   },
+   "technicals": {
+    "trend_checks_passed": 8,
+    "rsi": 66.7,
+    "volume_vs_50d_avg": 1.11,
+    "up_down_volume_ratio": 1.43,
+    "pct_below_52w_high": 0.006,
+    "rs_line_at_high": true,
+    "recent_breakout": true
+   },
+   "levels": {
+    "price": 1085.42,
+    "pivot_20d_high": 1078.04,
+    "above_pivot": true,
+    "sma20": 941.73,
+    "sma50": 879.03,
+    "high_52w": 1091.61,
+    "support_10d_low": 881.23,
+    "invalidation": 930.02,
+    "avg_daily_range_pct": 0.057
+   },
+   "social": {
+    "reddit_mentions_24h": 1.0,
+    "reddit_mentions_prior_24h": 3.0,
+    "mention_change": -0.4,
+    "reddit_rank": 222.0,
+    "stocktwits_trending": true
+   },
+   "next_earnings": null,
+   "news": [],
+   "risk_flags": [
+    "Extended: 15% above its 20-day average, pullbacks are common from here"
+   ]
+  },
+  {
+   "ticker": "AMN",
+   "ticker_spoken": "A-M-N",
+   "slot": "momentum",
+   "weeks_on_list": 1,
+   "name": "AMN",
+   "sector": null,
+   "industry": null,
+   "market_cap": null,
+   "business_summary": null,
+   "reasons": [
+    "Relative strength rating 93 (beating 93% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 1.6% below its 52-week high"
+   ],
+   "scores": {
+    "composite": 0.857,
+    "composite_rank": 2,
+    "rs_rating": 93.0,
+    "sleeper": 0.857,
+    "social": 0.0
+   },
+   "performance": {
+    "ret_1w": 0.06,
+    "ret_1m": 0.097,
+    "ret_3m": 0.024,
+    "ret_6m": 1.013
+   },
+   "technicals": {
+    "trend_checks_passed": 8,
+    "rsi": 65.4,
+    "volume_vs_50d_avg": 1.1,
+    "up_down_volume_ratio": 1.04,
+    "pct_below_52w_high": 0.016,
+    "rs_line_at_high": true,
+    "recent_breakout": true
+   },
+   "levels": {
+    "price": 36.63,
+    "pivot_20d_high": 36.4,
+    "above_pivot": true,
+    "sma20": 34.49,
+    "sma50": 34.23,
+    "high_52w": 37.22,
+    "support_10d_low": 33.41,
+    "invalidation": 34.23,
+    "avg_daily_range_pct": 0.029
+   },
+   "social": null,
+   "next_earnings": null,
+   "news": [],
+   "risk_flags": [
+    "General market risk: momentum names fall hardest when the market turns"
+   ]
+  },
+  {
+   "ticker": "FORM",
+   "ticker_spoken": "F-O-R-M",
+   "slot": "momentum",
+   "weeks_on_list": 1,
+   "name": "FORM",
+   "sector": null,
+   "industry": null,
+   "market_cap": null,
+   "business_summary": null,
+   "reasons": [
+    "Relative strength rating 97 (beating 97% of the market)",
+    "Trading 6.9% below its 52-week high",
+    "Passes 7/8 stage-2 uptrend checks"
+   ],
+   "scores": {
+    "composite": 0.837,
+    "composite_rank": 3,
+    "rs_rating": 97.0,
+    "sleeper": null,
+    "social": 0.0
+   },
+   "performance": {
+    "ret_1w": 0.15,
+    "ret_1m": 0.544,
+    "ret_3m": 0.257,
+    "ret_6m": 0.446
+   },
+   "technicals": {
+    "trend_checks_passed": 7,
+    "rsi": 72.8,
+    "volume_vs_50d_avg": 1.28,
+    "up_down_volume_ratio": 1.6,
+    "pct_below_52w_high": 0.069,
+    "rs_line_at_high": false,
+    "recent_breakout": true
+   },
+   "levels": {
+    "price": 149.15,
+    "pivot_20d_high": 150.65,
+    "above_pivot": false,
+    "sma20": 122.19,
+    "sma50": 115.28,
+    "high_52w": 160.27,
+    "support_10d_low": 116.52,
+    "invalidation": 132.02,
+    "avg_daily_range_pct": 0.046
+   },
+   "social": null,
+   "next_earnings": null,
+   "news": [],
+   "risk_flags": [
+    "Extended: 22% above its 20-day average, pullbacks are common from here"
+   ]
+  },
+  {
+   "ticker": "NBIS",
+   "ticker_spoken": "N-B-I-S",
+   "slot": "social",
+   "weeks_on_list": 1,
+   "name": "NBIS",
+   "sector": null,
+   "industry": null,
+   "market_cap": null,
+   "business_summary": null,
+   "reasons": [
+    "Reddit buzz: 8 mentions in 24h (+140% vs the prior day)",
+    "Relative strength rating 96 (beating 96% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "+77% over the past year, excluding the last month"
+   ],
+   "scores": {
+    "composite": 0.738,
+    "composite_rank": 125,
+    "rs_rating": 96.0,
+    "sleeper": null,
+    "social": 0.982
+   },
+   "performance": {
+    "ret_1w": 0.023,
+    "ret_1m": 0.19,
+    "ret_3m": 0.14,
+    "ret_6m": 1.231
+   },
+   "technicals": {
+    "trend_checks_passed": 8,
+    "rsi": 57.1,
+    "volume_vs_50d_avg": 0.63,
+    "up_down_volume_ratio": 0.92,
+    "pct_below_52w_high": 0.19,
+    "rs_line_at_high": false,
+    "recent_breakout": false
+   },
+   "levels": {
+    "price": 242.81,
+    "pivot_20d_high": 254.74,
+    "above_pivot": false,
+    "sma20": 229.51,
+    "sma50": 218.85,
+    "high_52w": 299.86,
+    "support_10d_low": 221.3,
+    "invalidation": 218.85,
+    "avg_daily_range_pct": 0.062
+   },
+   "social": {
+    "reddit_mentions_24h": 8.0,
+    "reddit_mentions_prior_24h": 1.0,
+    "mention_change": 1.4,
+    "reddit_rank": 19.0
+   },
+   "next_earnings": null,
+   "news": [],
+   "risk_flags": [
+    "Volatile: average daily range about 6%",
+    "Heavy social hype: crowded trades can reverse hard"
+   ]
+  },
+  {
+   "ticker": "VREX",
+   "ticker_spoken": "V-R-E-X",
+   "slot": "sleeper",
+   "weeks_on_list": 1,
+   "name": "VREX",
+   "sector": null,
+   "industry": null,
+   "market_cap": null,
+   "business_summary": null,
+   "reasons": [
+    "Strong setup with low attention: lighter trading volume and little social chatter",
+    "Relative strength rating 93 (beating 93% of the market)",
+    "Trading 0.9% below its 52-week high",
+    "Passes 7/8 stage-2 uptrend checks"
+   ],
+   "scores": {
+    "composite": 0.741,
+    "composite_rank": 115,
+    "rs_rating": 93.0,
+    "sleeper": 0.86,
+    "social": 0.0
+   },
+   "performance": {
+    "ret_1w": 0.001,
+    "ret_1m": -0.001,
+    "ret_3m": 0.719,
+    "ret_6m": 0.758
+   },
+   "technicals": {
+    "trend_checks_passed": 7,
+    "rsi": 75.7,
+    "volume_vs_50d_avg": 0.5,
+    "up_down_volume_ratio": 2.4,
+    "pct_below_52w_high": 0.009,
+    "rs_line_at_high": false,
+    "recent_breakout": false
+   },
+   "levels": {
+    "price": 18.46,
+    "pivot_20d_high": 18.54,
+    "above_pivot": false,
+    "sma20": 18.48,
+    "sma50": 16.97,
+    "high_52w": 18.63,
+    "support_10d_low": 18.42,
+    "invalidation": 18.35,
+    "avg_daily_range_pct": 0.002
+   },
+   "social": null,
+   "next_earnings": null,
+   "news": [],
+   "risk_flags": [
+    "Overbought: RSI 76"
+   ]
+  }
+ ],
+ "disclaimer": "I'm not a financial advisor and this isn't financial advice. Always do your own DD before putting money into any stock."
+}
