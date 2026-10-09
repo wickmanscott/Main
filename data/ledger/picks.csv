@@ -4,3 +4,8 @@ episode_date,ticker,slot,ref_close,composite,composite_rank
 2026-10-04,TWLO,momentum,301.27,0.8,3
 2026-10-04,CHEF,sleeper,117.94,0.667,5
 2026-10-04,NVDA,social,233.95,0.767,4
+2026-10-05,LITE,momentum,1085.42,0.8975,1
+2026-10-05,AMN,momentum,36.63,0.8573,2
+2026-10-05,FORM,momentum,149.15,0.8367,3
+2026-10-05,VREX,sleeper,18.46,0.741,115
+2026-10-05,NBIS,social,242.81,0.7376,125

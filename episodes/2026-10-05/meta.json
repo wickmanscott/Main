@@ -1,0 +1,85 @@
+{
+ "title": "Week of October 5th, 2026. $LITE $AMN $FORM $NBIS $VREX",
+ "script_source": "template",
+ "words": 479,
+ "validation_issues": [
+  "too short: 479 words (target 900-1400)"
+ ],
+ "weights_source": "settings.yaml",
+ "picks": [
+  {
+   "ticker": "LITE",
+   "slot": "momentum",
+   "composite": 0.8975070727785476,
+   "composite_rank": 1,
+   "sleeper": null,
+   "social_score": 0.6,
+   "reasons": [
+    "Trending on StockTwits",
+    "Reddit buzz: 1 mentions in 24h (-40% vs the prior day)",
+    "Relative strength rating 98 (beating 98% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 0.6% below its 52-week high"
+   ],
+   "weeks_on_list": 1
+  },
+  {
+   "ticker": "AMN",
+   "slot": "momentum",
+   "composite": 0.8572784418234798,
+   "composite_rank": 2,
+   "sleeper": 0.8568915136990591,
+   "social_score": 0.0,
+   "reasons": [
+    "Relative strength rating 93 (beating 93% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 1.6% below its 52-week high"
+   ],
+   "weeks_on_list": 1
+  },
+  {
+   "ticker": "FORM",
+   "slot": "momentum",
+   "composite": 0.8366737956726102,
+   "composite_rank": 3,
+   "sleeper": null,
+   "social_score": 0.0,
+   "reasons": [
+    "Relative strength rating 97 (beating 97% of the market)",
+    "Trading 6.9% below its 52-week high",
+    "Passes 7/8 stage-2 uptrend checks"
+   ],
+   "weeks_on_list": 1
+  },
+  {
+   "ticker": "NBIS",
+   "slot": "social",
+   "composite": 0.7376173204846664,
+   "composite_rank": 125,
+   "sleeper": null,
+   "social_score": 0.9816727286086925,
+   "reasons": [
+    "Reddit buzz: 8 mentions in 24h (+140% vs the prior day)",
+    "Relative strength rating 96 (beating 96% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "+77% over the past year, excluding the last month"
+   ],
+   "weeks_on_list": 1
+  },
+  {
+   "ticker": "VREX",
+   "slot": "sleeper",
+   "composite": 0.7410368457950544,
+   "composite_rank": 115,
+   "sleeper": 0.8595688169559579,
+   "social_score": 0.0,
+   "reasons": [
+    "Strong setup with low attention: lighter trading volume and little social chatter",
+    "Relative strength rating 93 (beating 93% of the market)",
+    "Trading 0.9% below its 52-week high",
+    "Passes 7/8 stage-2 uptrend checks"
+   ],
+   "weeks_on_list": 1
+  }
+ ]
+}
