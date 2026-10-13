@@ -5,7 +5,7 @@
     <link>https://wickmanscott.github.io/Main</link>
     <description>Every week Scott Wickman gives you 5 stocks to add to your watchlist — momentum leaders, social-buzz names, and one under-the-radar setup — picked by a backtested scoring model and explained in under 10 minutes. Not financial advice. Always do your own DD.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 00:56:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 12:07:05 +0000</lastBuildDate>
     <atom:link href="https://wickmanscott.github.io/Main/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Scott Wickman</itunes:author>
     <itunes:summary>Every week Scott Wickman gives you 5 stocks to add to your watchlist — momentum leaders, social-buzz names, and one under-the-radar setup — picked by a backtested scoring model and explained in under 10 minutes. Not financial advice. Always do your own DD.</itunes:summary>
@@ -17,6 +17,50 @@
     <itunes:category text="Business">
       <itunes:category text="Investing" />
     </itunes:category>
+    <item>
+      <title>Week of October 12th, 2026. $DELL $XMTR $MPC $TSLA $CON</title>
+      <guid isPermaLink="false">stock-watchlist-2026-10-12</guid>
+      <pubDate>Tue, 13 Oct 2026 12:07:05 +0000</pubDate>
+      <link>https://wickmanscott.github.io/Main/#2026-10-12</link>
+      <description>5 stocks for your watchlist: DELL, XMTR, MPC, TSLA, CON. Not financial advice.</description>
+      <content:encoded>&lt;h1&gt;Week of October 12th, 2026. $DELL $XMTR $MPC $TSLA $CON&lt;/h1&gt;
+&lt;p&gt;Last week&amp;#x27;s list trailed the S&amp;amp;P 500, so here&amp;#x27;s what we changed plus five names to watch for the rest of the week: two momentum leaders, a refiner repeat, the Tesla buzz and a quiet occupational-health sleeper.&lt;/p&gt;
+&lt;h2&gt;Last week&amp;#x27;s scorecard (Episode 1, Oct 2 to Oct 9 close)&lt;/h2&gt;
+&lt;p&gt;| Ticker | Reference | Oct 9 close | Return | Note |&lt;/p&gt;
+&lt;p&gt;|---|---|---|---|---|&lt;/p&gt;
+&lt;p&gt;| $MPC | $420.15 | $455.03 | +8.3% | Broke its $431 trigger and set a $470 52-week high on Oct 9 |&lt;/p&gt;
+&lt;p&gt;| $NVDA | $233.95 | $229.28 | -2.0% | Broke its $238 trigger (record close Oct 6), then faded |&lt;/p&gt;
+&lt;p&gt;| $TWLO | $301.27 | $289.47 | -3.9% | Dipped under the $280 invalidation intraday Oct 12, closed above it |&lt;/p&gt;
+&lt;p&gt;| $CHEF | $117.94 | $114.32 | -3.1% | Single source for the Oct 9 close |&lt;/p&gt;
+&lt;p&gt;| $MTRN | $312.16 | $277.11* | -11.2%* | *Oct 8 close; Oct 9 close not confirmed. Below its $285 invalidation |&lt;/p&gt;
+&lt;p&gt;| &lt;strong&gt;Picks average (all 5)&lt;/strong&gt; | | | &lt;strong&gt;about -2.4%&lt;/strong&gt; | |&lt;/p&gt;
+&lt;p&gt;| &lt;strong&gt;S&amp;amp;P 500&lt;/strong&gt; | 7,722.72 | 7,811.54 | &lt;strong&gt;+1.15%&lt;/strong&gt; | |&lt;/p&gt;
+&lt;p&gt;We trailed the S&amp;amp;P 500 by about 3.5 points, and MPC carried the list. MTRN is counted at its Oct 8 close because its Oct 9 close couldn&amp;#x27;t be confirmed. What changed: we now cap how far above the 50-day a pick can be, skip stocks right after big no-news pops, skip index-add weeks and earnings weeks, and limit picks per theme.&lt;/p&gt;
+&lt;h2&gt;Market pulse&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The S&amp;amp;P 500 rose a little over 1% in the week to Oct 9 (+1.15% per Investrade, +1.21% per LPL) and set a record intraday high of 7,844.52.&lt;/li&gt;
+&lt;li&gt;Thursday, Oct 8: a report that OpenAI&amp;#x27;s revenue was lower than earlier figures hit chip and AI stocks. The Nasdaq fell 1.25%, its worst day since mid-August.&lt;/li&gt;
+&lt;li&gt;The 10-year Treasury yield was near 24-year highs (about 5.24% on Oct 9), and Brent crude stayed above $100.&lt;/li&gt;
+&lt;li&gt;The Russell 2000 was the only major index down on the week (-0.76%, per LPL).&lt;/li&gt;
+&lt;li&gt;Monday, Oct 12: Dow +0.38%, S&amp;amp;P 500 -0.06%, Nasdaq -0.44%. Energy led.&lt;/li&gt;
+&lt;li&gt;Rest of the week: bank earnings, September CPI (Wed), PPI and retail sales (Thu), TSMC earnings (Thu) and a speech by Fed Chair Warsh.&lt;/li&gt;
+&lt;li&gt;Takeaway: gains are narrow, so be picky.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;The picks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;$DELL (momentum):&lt;/strong&gt; Record AI-server backlog of about $95B and a raised full-year outlook of about $192B. Levels: pivot about $596 (52-week high), support $565, invalidation on a close below about $523.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;$XMTR (momentum):&lt;/strong&gt; Digital-manufacturing marketplace with relative strength of 95 and Q2 revenue up 41%. Levels: pivot about $113 (record high), support about $107, invalidation about $96.50.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;$MPC (momentum, repeat):&lt;/strong&gt; Refining margins near records, the refiner group moving together, and Barclays raised its target to $488 on Monday. Levels: pivot $470, support about $455, invalidation on a close below $440.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;$TSLA (social):&lt;/strong&gt; Reddit and StockTwits buzz on the Q3 deliveries beat and a reported school-zone robotaxi probe; a repair chart below its 200-day near $392, with earnings Wed Oct 21 after the close. Levels: watch $400, support about $371, invalidation on a close below about $348.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;$CON (sleeper):&lt;/strong&gt; Largest US occupational-health provider, making orderly new 52-week highs after raising guidance. Levels: pivot about $36.80, support about $34.70 (50-day), invalidation on a close below about $34.25.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;*I&amp;#x27;m not a financial advisor, this isn&amp;#x27;t financial advice, always do your own DD before putting money into any stock. Follow me on Twitter [@scottiewick](https://twitter.com/scottiewick).*&lt;/p&gt;</content:encoded>
+      <enclosure url="https://github.com/wickmanscott/Main/releases/download/episode-2026-10-12/watchlist-2026-10-12.mp3" length="7272045" type="audio/mpeg" />
+      <itunes:duration>605</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Week of October 5th, 2026. $MPC $MTRN $TWLO $NVDA $CHEF</title>
       <guid isPermaLink="false">stock-watchlist-2026-10-04</guid>

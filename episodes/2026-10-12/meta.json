@@ -1,84 +1,58 @@
 {
- "title": "Week of October 12th, 2026. $DELL $XMTR $OPRT $GOOG $IBTA",
- "script_source": "template",
- "words": 516,
- "validation_issues": [
-  "too short: 516 words (target 900-1400)"
- ],
- "weights_source": "settings.yaml",
+ "title": "Week of October 12th, 2026. $DELL $XMTR $MPC $TSLA $CON",
+ "script_source": "claude-session",
+ "words": 1459,
+ "validation_issues": [],
+ "weights_source": "research rubric (episode 1, no quant scan)",
+ "audio": {
+  "path": "/home/user/Main/episodes/2026-10-12/watchlist-2026-10-12.mp3",
+  "bytes": 7272045,
+  "duration_sec": 605,
+  "provider": "kokoro",
+  "file": "watchlist-2026-10-12.mp3",
+  "tag": "episode-2026-10-12",
+  "url": "https://github.com/wickmanscott/Main/releases/download/episode-2026-10-12/watchlist-2026-10-12.mp3"
+ },
  "picks": [
   {
    "ticker": "DELL",
    "slot": "momentum",
-   "composite": 0.834140232601515,
-   "composite_rank": 1,
-   "sleeper": 0.724719561927313,
-   "social_score": 0.5100072670554245,
-   "reasons": [
-    "Reddit buzz: 1 mentions in 24h (+0% vs the prior day)",
-    "Relative strength rating 98 (beating 98% of the market)",
-    "Passes 8/8 stage-2 uptrend checks",
-    "Trading 1.6% below its 52-week high"
-   ],
-   "weeks_on_list": 1
+   "price": {
+    "value": 576.76,
+    "date": "2026-10-12 (regular-session close; Monday after-hours about $566)"
+   }
   },
   {
    "ticker": "XMTR",
    "slot": "momentum",
-   "composite": 0.8306831046633909,
-   "composite_rank": 2,
-   "sleeper": 0.7577866909532256,
-   "social_score": 0.0,
-   "reasons": [
-    "Relative strength rating 95 (beating 95% of the market)",
-    "Passes 8/8 stage-2 uptrend checks",
-    "Trading 1.7% below its 52-week high"
-   ],
-   "weeks_on_list": 1
+   "price": {
+    "value": 107.96,
+    "date": "2026-10-12 (unofficial session close per Robinhood and the producer; not independently confirmed. Recheck the official close before recording.)"
+   }
   },
   {
-   "ticker": "OPRT",
+   "ticker": "MPC",
    "slot": "momentum",
-   "composite": 0.8285362220009365,
-   "composite_rank": 3,
-   "sleeper": 0.8779276882668055,
-   "social_score": 0.0,
-   "reasons": [
-    "Relative strength rating 93 (beating 93% of the market)",
-    "Passes 8/8 stage-2 uptrend checks",
-    "Trading 1.7% below its 52-week high"
-   ],
-   "weeks_on_list": 1
+   "price": {
+    "value": 458.81,
+    "date": "2026-10-12"
+   }
   },
   {
-   "ticker": "GOOG",
+   "ticker": "TSLA",
    "slot": "social",
-   "composite": 0.6546938407837853,
-   "composite_rank": 434,
-   "sleeper": null,
-   "social_score": 0.9641574646838831,
-   "reasons": [
-    "Reddit buzz: 10 mentions in 24h (+160% vs the prior day)",
-    "Relative strength rating 65 (beating 65% of the market)",
-    "Passes 7/8 stage-2 uptrend checks",
-    "Trading 13.9% below its 52-week high"
-   ],
-   "weeks_on_list": 1
+   "price": {
+    "value": 378.03,
+    "date": "2026-10-12"
+   }
   },
   {
-   "ticker": "IBTA",
+   "ticker": "CON",
    "slot": "sleeper",
-   "composite": 0.7633373625757623,
-   "composite_rank": 61,
-   "sleeper": 0.8835510770459291,
-   "social_score": 0.0,
-   "reasons": [
-    "Strong setup with low attention: lighter trading volume and little social chatter",
-    "Relative strength rating 90 (beating 90% of the market)",
-    "Passes 8/8 stage-2 uptrend checks",
-    "Trading 1.8% below its 52-week high"
-   ],
-   "weeks_on_list": 1
+   "price": {
+    "value": 37.15,
+    "date": "2026-10-09, 3:03 PM ET delayed quote (CNN), not an official close. Intraday high of $37.68 on Oct 12 (MarketBeat). Official Oct 9 and Oct 12 closes are unconfirmed."
+   }
   }
  ]
 }

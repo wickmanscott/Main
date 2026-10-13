@@ -5,384 +5,484 @@
   "handle": "@scottiewick",
   "tagline": "5 stocks to add to your watchlist every week. Brief and to the point."
  },
- "data_as_of": "2026-10-09",
+ "data_as_of": "2026-10-12",
  "week_of": "2026-10-12",
- "title": "Week of October 12th, 2026. $DELL $XMTR $OPRT $GOOG $IBTA",
+ "title": "Week of October 12th, 2026. $DELL $XMTR $MPC $TSLA $CON",
  "market_pulse": {
-  "SPY": {
-   "close": 778.57,
-   "ret_1w": 0.0116,
-   "ret_1m": 0.0299,
-   "above_50d": true,
-   "above_200d": true
-  },
-  "QQQ": {
-   "close": 751.27,
-   "ret_1w": 0.0023,
-   "ret_1m": 0.0612,
-   "above_50d": true,
-   "above_200d": true
-  },
-  "IWM": {
-   "close": 278.94,
-   "ret_1w": -0.0092,
-   "ret_1m": -0.0279,
-   "above_50d": false,
-   "above_200d": true
-  },
-  "breadth": {
-   "universe_size": 2926,
-   "pct_above_50d": 0.301,
-   "pct_stage2_uptrend": 0.388,
-   "pct_within_5pct_of_52w_high": 0.079
-  }
+  "headline": "Indexes shrugged off an AI scare to post a positive week, then started earnings week flat to lower. In the week to Fri Oct 9 the S&P 500 rose about 1.2% after hitting a record 7,844.52 intraday, even though Thursday's report that OpenAI's revenue was lower than earlier figures hit chip and AI stocks. Treasury yields were near 24-year highs and Brent crude stayed above $100. On Columbus Day Monday (Oct 12) the Dow rose 0.38%, the S&P 500 slipped 0.06% and the Nasdaq fell 0.44%, with energy leading. Next up: Q3 bank earnings (Tue/Wed), September CPI (Wed Oct 14), PPI and retail sales (Thu Oct 15), TSMC (Thu) and a speech by Fed Chair Warsh.",
+  "indexes": "FRIDAY OCT 9 CLOSE (Investrade 'October 9, 2026' https://investrade.com/?p=1610; LPL 'Weekly Market Performance - October 9, 2026'):\n- S&P 500: 7,811.54, up 0.59% on the day. Weekly change was +1.15% per Investrade and +1.21% per LPL. It set a record intraday high of 7,844.52 during the week, then eased as yields rose.\n- Nasdaq Composite: 27,366.17, up 0.64% on the day. Weekly change was +0.64% per Investrade and +0.72% per LPL.\n- Dow: 51,655, up 0.83% on the day. Weekly change was about +0.93%, its best week since the week ended Aug 7.\n- Russell 2000: about 2,806, up 0.46% on the day (Investrade). Weekly change was -0.76% per LPL, making it the only major index down on the week. That weekly figure comes from LPL alone and could not be cross-checked.\n- Path through the week: on Mon Oct 5 the S&P closed at 7,773.95 (+0.7%) and the Nasdaq at 27,477.31 (+1.1%) (AP/La Nacion, Oct 5). On Thu Oct 8 the Nasdaq fell 1.25% to 27,193.34, its second straight drop and worst day since mid-August, while the S&P fell 0.47% to 7,765.36 and the Dow rose 0.1% to 51,231.64 (Mitrade/TradingKey/Wealth Professional, Oct 8-9). Stocks rebounded on Friday.\n\nMONDAY OCT 12, Columbus Day (equities open, bond market closed; light volume) (Investrade 'Market Review: October 12, 2026'; Yahoo Finance live blog Oct 12; TheStreet Oct 12):\n- Dow: 51,850.55, +195.60 (+0.38%)\n- S&P 500: 7,807.24 (-0.06%)\n- Nasdaq Composite: 27,245.90 (-0.44%)\n- Russell 2000: 2,794.48 (-0.45%)\n- Trading stayed in a tight range all day. Nine of 11 S&P sectors rose, led by Energy. Micron fell 3.9% on rising competition from China's CXMT.",
+  "drivers": [
+   "OPENAI REVENUE SHOCK / AI SELLOFF (Thu Oct 8): The FT reported that OpenAI's annualized revenue was about $50B at the end of September. Earlier reports had put it at about $68-70B; a person familiar told CNBC the higher figure included gross revenue from partners. Chip stocks fell about 3.4%: Intel -5%+, Broadcom -4%+, Oracle -5%+, Nvidia about -3%, CoreWeave -7.8%, AAOI -13.6%. The Nasdaq fell 1.25%. Futures recovered Friday after reports that OpenAI expects to reach or exceed a $70B run-rate by year-end on enterprise growth. (political.org Oct 8; Mitrade/TradingKey Oct 9; TMGM Oct 9; Wealth Professional)",
+   "YIELDS AT 24-YEAR HIGHS: The 10-year Treasury yield hit about 5.35-5.36% on Oct 7, a 24-year high, then eased after a solid auction. Closes were 5.22% on Oct 8 (Fed H.15) and about 5.24% on Oct 9 (Streetstats/Investing.com). The 10-year is up about 60bp since end-July. Higher yields capped the S&P's run to a record. Bond markets were closed Monday Oct 12. (CNBC Oct 7; Fed H.15 Oct 9)",
+   "FOMC MINUTES (released Wed Oct 7): Officials expect to raise rates further but gave no timing, citing inflation and energy prices. The next FOMC meeting is Oct 27-28; markets put the odds of an October hike below 20% as of Oct 9. (CNBC Oct 7; Nasdaq Chartstopper Oct 9)",
+   "JOBS DATA AFTERMATH: The September payrolls report (released Fri Oct 2) was weak: +29K vs about 88K expected, with unemployment up to 4.2% (Yahoo Finance Oct 2). Odds of an October hike fell from about 64% to about 17% (CME FedWatch) and about 18% (Kalshi), but traders still price a hike by December (CNBC Oct 2).",
+   "OIL / MIDDLE EAST: Brent settled about $104.72 on Oct 9 (+0.42%, Yahoo Finance BZ=F; Forbes showed $102.78). Brent jumped about 4% on Oct 8 (Mitrade). US crude held just above $90 for the week, and a hurricane threatened US supply. Trump ruled out a strike on Iran before the midterms (Nasdaq Chartstopper Oct 9). US crude has risen about 20% since end-July (CNBC Oct 7). Energy led again Monday Oct 12; a pre-close snapshot showed crude futures up about 2% (Yahoo, unconfirmed settle).",
+   "NEW MONDAY OCT 12: Thin holiday session as investors positioned for bank earnings and Wednesday's CPI. The Dow and value/energy names held up while tech and small caps slipped; Micron fell 3.9% on concern about competition from China's CXMT. Early Tuesday (Oct 13): EUR/USD hit a 17-month low as a hawkish Fed and oil lifted the dollar (Vantage Markets Oct 13). JPMorgan reported Q3 EPS of $5.57 vs $5.90 expected, a rare miss; Wells Fargo reported $1.87 vs $1.85 (CNBC live blog Oct 13)."
+  ],
+  "sectors": "Leading: Energy, which led Monday Oct 12 on Brent above $100 and Middle East and hurricane risk (Investrade Oct 12). The Dow and other defensive and value groups were also leading: the Dow had its best week since early August and was the only gainer on both Thursday Oct 8 and Monday Oct 12. Lagging: semiconductors, AI infrastructure and AI cloud (Intel, Broadcom, Nvidia, Oracle, CoreWeave, AAOI, and Micron -3.9% Monday), plus small caps (Russell 2000 -0.76% on the week per LPL and -0.45% Monday). Rate-sensitive groups face pressure from a 10-year yield above 5.2%. No source with a full weekly sector ranking for Oct 5-9 was found (null).",
+  "breadth_sentiment": "The mix is a cautious record-high market, not euphoria. The S&P 500 is within about 0.5% of its 7,844.52 record, but the Nasdaq-100 and the 10-year yield were roughly flat for Oct 5-9 (Nasdaq Chartstopper Oct 9), and the Russell 2000 lagged (-0.76% on the week, LPL). That points to narrow, megacap- and Dow-led gains. Monday's breadth was positive by sector (9 of 11 S&P sectors up) even though the Nasdaq and Russell fell. Main sentiment risks are doubts about AI monetization after the OpenAI report, yields at 24-year highs, and the Fed's hiking bias. VIX, AAII and put/call readings were not found in dated sources (null).",
+  "rates_oil_gold_btc": "- 10-year Treasury: about 5.24% at the Oct 9 close (Streetstats; Investing.com historical 5.244), 5.22% on Oct 8 (Fed H.15), and a 24-year high of about 5.35-5.36% on Oct 7 (CNBC Oct 7). No cash Treasury trading on Mon Oct 12 because of Columbus Day.\n- Oil: Brent about $104.72 at the Oct 9 settle (Yahoo BZ=F, +0.42%); Forbes showed $102.78 for Oct 9. US WTI was just above $90 for the week (Nasdaq Chartstopper Oct 9). Crude futures were up about 2% intraday Monday Oct 12 (pre-close Yahoo snapshot; no settle confirmed).\n- Gold: null, no dated Oct 9-12 price found. One undated late-summer reference put it near $4,540/oz; do not use it.\n- Bitcoin: null, no dated Oct 9-12 price found. One undated reference put it at $78.5K-$80.8K, likely from late August; do not use it.\n- Dollar: EUR/USD hit a 17-month low on Oct 13 (Vantage Markets).",
+  "week_ahead": [
+   "Tue Oct 13: Q3 bank earnings kick off before the open with JPMorgan (EPS $5.57 vs $5.90 est., a rare miss, per CNBC live blog Oct 13), Wells Fargo ($1.87 vs $1.85 est.), Goldman Sachs (est. about $13.04) and Citigroup (est. about $2.65 EPS on about $23.7B revenue). Fed Gov. Waller is on a Bloomberg New Economy Forum AI panel (3:45am ET). Boston Fed's Collins spoke Monday night (8pm ET).",
+   "Wed Oct 14: September CPI at 8:30am ET, the week's key print. Headline is expected at about 3.6% y/y vs 3.4% prior, about 0.6% m/m vs 0.4% (TradingView/Stocktwits and FXEmpire previews; consensus varies by source). Bank of America and Morgan Stanley report. ASML reports, a read on AI capex. Fed Gov. Bowman speaks at the IMF meetings in Bangkok.",
+   "Thu Oct 15: PPI and retail sales at 8:30am ET (one calendar has core retail sales at +0.5% m/m vs +1.4% prior). TSMC Q3 earnings are a key AI and semiconductor test after the OpenAI scare. Fed Chair Kevin Warsh holds a fireside chat with IMF MD Kristalina Georgieva at the IMF Annual Meetings in Bangkok; Investing.com and ZeroHedge date it Thu Oct 15, while KuCoin says Fri Oct 16, so confirm on the Fed calendar.",
+   "Fri Oct 16: Possible Warsh date per KuCoin. The Fed's pre-FOMC blackout is expected to start Oct 17, ahead of the Oct 27-28 meeting (hike odds were below 20% as of Oct 9). Other reporters named in week-ahead previews include Delta (iTiger 'What to Watch This Week'). Netflix's date was not confirmed (null)."
+  ],
+  "sources": [
+   "https://investrade.com/?p=1610 (Investrade, 'October 9, 2026' - Friday closes and weekly %)",
+   "https://www.lpl.com/research/blog/weekly-market-performance-october-9-2026.html (LPL, Weekly Market Performance Oct 9, 2026)",
+   "https://investrade.com/market-review-october-12-2026/ (Investrade, Market Review Oct 12, 2026)",
+   "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html (Yahoo Finance live, Oct 12, 2026)",
+   "https://www.thestreet.com/stock-market-today/stock-market-today-oct-12-2026-dow-futures-climb-as-wall-street-gears-up-for-busy-week (TheStreet, Oct 12, 2026)",
+   "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-monday-1052026-nid05102026/ (AP via La Nacion, Oct 5, 2026)",
+   "https://political.org/2026/10/08/wall-street-slides-for-second-straight-day-as-openai-revenue-report-rattles-ai-stocks-treasury-yields-stay-elevated/ (Oct 8, 2026)",
+   "https://www.mitrade.com/insights/news/live-news/article-8-2149347-20261009 (Mitrade market recap, Oct 9, 2026)",
+   "https://www.wealthprofessional.ca/investments/equity-markets/ai-selloff-drags-nasdaq-down-125-as-tsx-holds-its-ground/393743 (Wealth Professional, Oct 8-9, 2026)",
+   "https://www.tmgm.com/es/analysis/market-news/article/dow-jones-futures-rebound-as-openai-sales-outlook-calms-tech-selloff-202610090754 (TMGM, Oct 9, 2026)",
+   "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html (CNBC, Oct 7, 2026 - yields and FOMC minutes)",
+   "https://www.federalreserve.gov/releases/h15/ (Fed H.15, Oct 9, 2026 release)",
+   "https://streetstats.finance/rates/treasuries (10-yr 5.24%, Oct 9)",
+   "https://finance.yahoo.com/quote/BZ=F/history/ (Brent history, Oct 9 settle)",
+   "https://www.forbes.com/advisor/investing/oil-prices-today/ (Forbes, Oct 9, 2026)",
+   "https://www.nasdaq.com/economic-institute/chartstopper-100926 (Nasdaq Chartstopper, Oct 9, 2026)",
+   "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html (CNBC, Oct 2, 2026)",
+   "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html (Yahoo Finance, Oct 2, 2026)",
+   "https://www.cnbc.com/2026/10/13/bank-earnings-live-updates.html (CNBC bank earnings live, Oct 13, 2026)",
+   "https://www.tradingview.com/news/stocktwits:919372b0b094b:0-what-to-expect-in-markets-this-week-jpm-gs-c-bank-earnings-cpi-report-kevin-warsh-s-speech-and-more/ (Stocktwits week ahead)",
+   "https://www.fxempire.com/forecasts/article/the-week-ahead-jpmorgan-goldman-sachs-earnings-and-cpi-test-stock-market-strength-1637135 (FXEmpire week ahead)",
+   "https://www.itiger.com/news/2602557267 (Tiger, What to Watch This Week: TSMC, JPM, WFC, Delta, CPI)",
+   "https://zerohedge.com/economics/key-events-week-cpi-ppi-earnings-start-and-warsh-speaks (ZeroHedge key events this week)",
+   "https://www.federalreserve.gov/newsevents/2026-october.htm (Fed calendar, October 2026)",
+   "https://www.kucoin.com/news/insight/BTC/6accd7b4f25df50007499e94 (KuCoin, Warsh timing)",
+   "https://vantagemarkets.com/market-analysis/why-euro-dollar-hit-17-month-low-hawkish-fed-eurusd-october-13-2026 (Vantage, Oct 13, 2026)"
+  ]
  },
  "last_week_scorecard": {
-  "episode_date": "2026-10-05",
-  "benchmark": "SPY",
-  "picks": [
+  "rows": [
    {
-    "ticker": "LITE",
-    "slot": "momentum",
-    "ret": 0.0032,
-    "benchmark_ret": 0.0005,
-    "beat_benchmark": true
+    "ticker": "MPC",
+    "ref_price": 420.15,
+    "close_oct9": 455.03,
+    "close_oct12": 458.81,
+    "ret_pct": 8.3,
+    "source": "Oct 9: heygotrade.com/en/us-stock/mpc ('Oct 9 Close $455.03', -1.79% on day); MarketBeat showed 453.84 at 3:59pm. Oct 12: Morningstar quote page and StockTitan (458.81, +0.83%).",
+    "note": "Hit the trigger. The 431 trigger was broken: MPC closed at 455.03 on Oct 9 and set a 52-week high of 470.00 that day, per a search summary. It was nowhere near the 380 invalidation. The first date it closed above 431 was not confirmed. Oct 9 was a -1.79% day after the high. Oct 12 rose about 0.8% to 458.81, about +9.2% from the reference."
    },
    {
-    "ticker": "AMN",
-    "slot": "momentum",
-    "ret": -0.0135,
-    "benchmark_ret": 0.0005,
-    "beat_benchmark": false
+    "ticker": "MTRN",
+    "ref_price": 312.16,
+    "close_oct9": null,
+    "close_oct12": null,
+    "ret_pct": null,
+    "source": "No Oct 9 or Oct 12 close found. Only data point: GuruFocus, Oct 7, 2026, 'Materion shares fall 6.9%', trading at $290.72 intraday.",
+    "note": "No data. On Oct 7, MTRN fell 6.9% intraday to about 290.72, below the 314 trigger but above the 285 invalidation as of that print. Whether it later broke 285, or ever broke 314, is not confirmed. Its Oct 9 close needs a manual lookup."
    },
    {
-    "ticker": "FORM",
-    "slot": "momentum",
-    "ret": -0.0583,
-    "benchmark_ret": 0.0005,
-    "beat_benchmark": false
+    "ticker": "TWLO",
+    "ref_price": 301.27,
+    "close_oct9": 289.47,
+    "close_oct12": 282.66,
+    "ret_pct": -3.92,
+    "source": "Oct 9: Macrotrends TWLO price history (289.47), matched by stockanalysis.com prior close. Oct 12: stockanalysis.com official close 282.66 (-2.35%), matched by Zacks/Yahoo Finance recap.",
+    "note": "The 306 trigger was not confirmed broken in this period. The 280 invalidation was tested on Oct 12: intraday prints were about 278.15 (Finviz, mid-afternoon) and 278.66 (Seeking Alpha, 3:32pm), but it closed at 282.66, above 280. So it broke 280 intraday, not on a closing basis. Oct 12 is -6.2% from the reference."
    },
    {
-    "ticker": "VREX",
-    "slot": "sleeper",
-    "ret": -0.0011,
-    "benchmark_ret": 0.0005,
-    "beat_benchmark": false
+    "ticker": "NVDA",
+    "ref_price": 233.95,
+    "close_oct9": 229.28,
+    "close_oct12": 226.32,
+    "ret_pct": -2,
+    "source": "Oct 9: StockInvest.us 'Red day on Friday for NVIDIA' 2026-10-09 (230.48 to 229.28, -0.52%), matched by Macrotrends. Oct 12: stockanalysis.com and Yahoo Finance (226.32).",
+    "note": "Hit the trigger, then faded. The 238 trigger was broken: Macrotrends lists an all-time closing high of 239.24 on Oct 6, 2026 and a 52-week high of 243.37. NVDA then fell three straight days to 229.28 on Oct 9 (intraday range 229.11-233.92) and to 226.32 on Oct 12. The 218 invalidation was not broken. Oct 12 is -3.3% from the reference."
    },
    {
-    "ticker": "NBIS",
-    "slot": "social",
-    "ret": -0.0681,
-    "benchmark_ret": 0.0005,
-    "beat_benchmark": false
+    "ticker": "CHEF",
+    "ref_price": 117.94,
+    "close_oct9": 114.32,
+    "close_oct12": null,
+    "ret_pct": -3.07,
+    "source": "Oct 9: Tallac Options historical data (114.32, +2.62% on day), consistent with Yahoo Finance's Oct 8 close of 111.40. Only one source for the Oct 9 figure. No Oct 12 close found.",
+    "note": "The 118.5 trigger was not confirmed broken (no intraweek highs found). The 105 invalidation was not broken: the lowest known close was 111.40 on Oct 8. CHEF bounced 2.6% on Oct 9."
+   },
+   {
+    "ticker": "SPX",
+    "ref_price": 7722.72,
+    "close_oct9": 7811.54,
+    "close_oct12": null,
+    "ret_pct": 1.15,
+    "source": "AP market recap via La Nacion, 'How major US stock indexes fared Friday 10/9/2026': S&P 500 +46.18 (+0.6%) to 7,811.54. Single source.",
+    "note": "Benchmark. The S&P 500 was near its all-time high, set Oct 6. The same recap gives the Dow at 51,654.95 and the Nasdaq at 27,366.17. No Oct 12 index close found."
    }
   ],
-  "avg_ret": -0.0276,
-  "benchmark_ret": 0.0005,
-  "winners": 1,
-  "beat_benchmark": 1,
-  "best": "LITE",
-  "worst": "NBIS"
+  "summary": "Episode 1 scorecard, from reference prices to the Friday Oct 9, 2026 close. The search budget is used up (8 of 8).\n\nThe S&P 500 was +1.15% (7,722.72 to 7,811.54, from an AP recap via La Nacion).\n\nPicks:\n- MPC: +8.30% (420.15 to 455.03). Clear winner; broke its 431 trigger and hit a 52-week high of 470 on Oct 9. Closed at 458.81 on Oct 12.\n- NVDA: -2.00% (233.95 to 229.28). Broke its 238 trigger with a record close of 239.24 on Oct 6, then fell three straight days. Closed at 226.32 on Oct 12. The 218 invalidation is intact.\n- TWLO: -3.92% (301.27 to 289.47). Weakest of the four with data. Closed at 282.66 on Oct 12, after trading as low as about 278 that afternoon. That broke the 280 invalidation intraday, but it closed above it.\n- CHEF: -3.07% (117.94 to 114.32). Only one source for this figure. No Oct 12 close found. Neither 118.5 nor 105 was confirmed broken.\n- MTRN: no Oct 9 or Oct 12 close found. The only data point is a 6.9% intraday drop to about 290.72 on Oct 7, which was below the 314 trigger and above the 285 invalidation. It needs a manual price lookup before air.\n\nThe four picks with data averaged about -0.17% equal-weight, against +1.15% for the S&P 500, so they trailed the index by about 1.3 points. MPC carried the group. Two picks hit their triggers (MPC held it, NVDA gave it back), and TWLO dipped below its 280 invalidation intraday on Oct 12 without closing below it. Other gaps are the S&P 500's Oct 12 close and CHEF's Oct 12 close. The sources disagree slightly on MPC's Oct 9 close (MarketBeat had 453.84 at 3:59pm against 455.03)."
  },
- "live_track_record": {
-  "episodes": 2,
-  "picks_scored": 5,
-  "hold_sessions": 5,
-  "hit_rate": 0.2,
-  "beat_benchmark_rate": 0.2,
-  "avg_ret": -0.0183,
-  "avg_excess": -0.0299
- },
+ "live_track_record": null,
  "model_backtest": null,
  "picks": [
   {
    "ticker": "DELL",
-   "ticker_spoken": "D-E-L-L",
+   "company": "Dell Technologies Inc.",
+   "ticker_spoken": "Dell, ticker D-E-L-L",
    "slot": "momentum",
-   "weeks_on_list": 1,
-   "name": "DELL",
-   "sector": null,
-   "industry": null,
-   "market_cap": null,
-   "business_summary": null,
-   "reasons": [
-    "Reddit buzz: 1 mentions in 24h (+0% vs the prior day)",
-    "Relative strength rating 98 (beating 98% of the market)",
-    "Passes 8/8 stage-2 uptrend checks",
-    "Trading 1.6% below its 52-week high"
+   "angle": "This is the strongest momentum name on the board and the only AI-infrastructure pick in the lineup. It ranked number one on the quant composite (relative strength 98, all 8 trend checks passed), and it was the one name all three ballots picked. News backs the move: a record AI-server backlog of about $95 billion, full-year guidance raised to about $192 billion, Mizuho's $650 target on Oct 6, and the wider AI-capex cycle. Frame it as a stock to hold above $565 while waiting for a breakout over $595.51, not one to chase. Make the caveats clear on air: volume is light, Silver Lake keeps selling around the current price, and the Street's targets are mixed. Fresh check: Tuesday's Oct 13 close was not available. If DELL closes below $565, reframe it as a pullback watch rather than a momentum leader.",
+   "business_one_liner": "Dell sells PCs, storage and data-center servers. AI servers built on Nvidia chips are now its main growth engine.",
+   "price": {
+    "value": 576.76,
+    "date": "2026-10-12 (regular-session close; Monday after-hours about $566)"
+   },
+   "price_date": "2026-10-12 (regular-session close; Monday after-hours about $566)",
+   "facts": [
+    "Dell closed Monday at about $577, down about one and a half percent.",
+    "At Monday's low it was down about three and a half percent, at $565.",
+    "It slipped again after hours, to about $566.",
+    "Friday it closed at about $586, up two percent.",
+    "The 52-week high is about $596, and Monday's close was about three percent below it.",
+    "Dell is worth about $366 billion.",
+    "Dell has a record AI-server backlog of about $95 billion.",
+    "The stock jumped about nine percent on its early-September earnings report.",
+    "Dell raised its full-year revenue outlook to about $192 billion.",
+    "For this quarter, Dell guided to about $49 billion in revenue, up about 81 percent from a year ago.",
+    "On October 6, Mizuho raised its target to $650 from $600 and kept an Outperform rating.",
+    "The stock rose almost four percent that day.",
+    "Over the past six months the stock is up about 230 percent.",
+    "Over the past month it is up about 16 percent.",
+    "It sits about 14 percent above its 50-day average, which is near $506.",
+    "Monday's volume was about five million shares, roughly 0.63 times normal.",
+    "That light volume cuts both ways: the selling was light, and so was the buying on the way up.",
+    "On October 6, Silver Lake-linked insiders sold about 127,000 shares, roughly $73 million worth, at about $575 to $581.",
+    "They also sold heavily in September at about $580 to $584, so that supply sits right at today's price.",
+    "The Street's price targets are mixed.",
+    "MarketBeat's consensus is about $571, below the stock.",
+    "Chartmill's average is about $592, only a little above the stock.",
+    "Outside of bulls like Mizuho, the Street sees limited upside.",
+    "Monday's selloff hit memory and chip stocks, and Micron fell about four percent.",
+    "That goes to Dell's main bear case: rising memory costs squeezing AI-server margins.",
+    "Dell's gross margin already slipped from about 21 percent to about 18 percent in an earlier quarter on memory costs.",
+    "Weaker global PC shipments were also flagged Monday as a near-term concern for Dell's PC business.",
+    "The stock can drop hard.",
+    "It fell 14 percent in a day in July on a UBS downgrade, and about three percent on September 10 when an AI-server rally unwound.",
+    "ASML reports Wednesday, October 14, and TSMC reports Thursday, October 15.",
+    "Both are read-throughs on AI hardware demand that could move Dell in either direction.",
+    "Third-party trackers expect Dell's next earnings around November 24, outside this week.",
+    "No index change affects Dell this week."
    ],
-   "scores": {
-    "composite": 0.834,
-    "composite_rank": 1,
-    "rs_rating": 98.0,
-    "sleeper": 0.725,
-    "social": 0.51
-   },
-   "performance": {
-    "ret_1w": 0.042,
-    "ret_1m": 0.157,
-    "ret_3m": 0.374,
-    "ret_6m": 2.312
-   },
-   "technicals": {
-    "trend_checks_passed": 8,
-    "rsi": 61.7,
-    "volume_vs_50d_avg": 0.63,
-    "up_down_volume_ratio": 1.63,
-    "pct_below_52w_high": 0.016,
-    "rs_line_at_high": false,
-    "recent_breakout": false
-   },
    "levels": {
-    "price": 586.06,
-    "pivot_20d_high": 595.51,
-    "above_pivot": false,
-    "sma20": 558.08,
-    "sma50": 505.65,
-    "high_52w": 595.51,
-    "support_10d_low": 520.18,
-    "invalidation": 522.88,
-    "avg_daily_range_pct": 0.043
+    "how_to_say": "The pivot is the 52-week high of about $596. We want a close above it on at least about one and a half times normal volume before calling it the next leg. Mizuho's $650 is the upside marker. Near-term support is $565, Monday's low, and it traded about there after hours. Hold $565 and wait for $596. Don't chase it. Invalidation is a close below about $523, roughly nine percent under Monday's close. That's a wide stop for a mega-cap, so size down. Deeper support is the 50-day average, near $506.",
+    "pivot": 595.51,
+    "support": 565,
+    "invalidation": 522.88
    },
-   "social": {
-    "reddit_mentions_24h": 1.0,
-    "reddit_mentions_prior_24h": 1.0,
-    "mention_change": 0.0,
-    "reddit_rank": 251.0
-   },
-   "next_earnings": null,
-   "news": [],
-   "risk_flags": [
-    "General market risk: momentum names fall hardest when the market turns"
-   ]
+   "upcoming": [
+    "Tue Oct 13: check the close against $565 support. The last print was Monday after-hours at about $566. A close below $565 means reframing DELL as a pullback watch.",
+    "Wed Oct 14: ASML earnings, an AI-hardware read-through.",
+    "Thu Oct 15: TSMC earnings, an AI-capex read-through.",
+    "Tue Oct 20: $0.63 dividend ex-date and record date, outside this week and not material.",
+    "About Nov 24: expected Q3 FY27 earnings, per TradingKey and Public.com. Dell has not confirmed the date."
+   ],
+   "risk": "This is a crowded, high-beta AI-hardware trade with soft confirmation. Volume is running at about 0.63x average. Silver Lake keeps selling right at the current price ($575-584). Consensus targets cluster near or just above the price. Monday's memory/semi selloff and the after-hours drift to about $566 put the $565 support at risk of breaking early in the week. A soft AI-capex comment from ASML (Oct 14) or TSMC (Oct 15) would hit DELL in sympathy. Invalidation sits about 9.3% below the close (about 7.6% below the after-hours price), so size the position down.",
+   "do_not_say": [
+    "Any Tuesday Oct 13 open, intraday or closing price. None was available, so check before recording.",
+    "Any year-to-date gain figure. The 24/7 Wall St. articles conflict with each other (241-312%).",
+    "That the consensus target is below the price as a blanket claim. MarketBeat's $571 is below it, but Chartmill's mean of $592 and median of $612 are above it, so call the targets mixed.",
+    "Monday's move as -3% (TradingKey's -3.02%). The close was -1.6%. Only the intraday low was about -3.6%.",
+    "The Nov 24 earnings date as confirmed by Dell. It comes from third-party trackers only.",
+    "Any specific Q3 PC shipment numbers (IDC/Gartner). They were not found or verified.",
+    "Details of the Form 4 filings around Oct 12 (share counts or prices). Only the Oct 6 sale (~127k shares, ~$73M, $575-581) and the September sales were checked.",
+    "Investing.com's '50-day MA' of $556 or $546. It is likely a different timeframe, so use about $506.",
+    "The Morgan Stanley Underweight/$110 target as a recent action. It dates from late 2025 or early 2026 and is old context only.",
+    "That the stock is at an 'all-time high'. Only the 52-week high of $595.51 is confirmed.",
+    "The dividend as a catalyst. The ex-date is Oct 20 and the yield is negligible.",
+    "That ASML or TSMC will be positive. They are two-sided risks.",
+    "The 15.9% stretch figure without its date. That is as of the Oct 9 close; as of Oct 12 it is about 14%."
+   ],
+   "rule_violation": "",
+   "name": "Dell Technologies Inc.",
+   "reasons": [
+    "Dell closed Monday at about $577, down about one and a half percent.",
+    "At Monday's low it was down about three and a half percent, at $565.",
+    "It slipped again after hours, to about $566."
+   ],
+   "overall_score": 0.0
   },
   {
    "ticker": "XMTR",
-   "ticker_spoken": "X-M-T-R",
+   "company": "Xometry, Inc.",
+   "ticker_spoken": "Xometry, ticker X-M-T-R",
    "slot": "momentum",
-   "weeks_on_list": 1,
-   "name": "XMTR",
-   "sector": null,
-   "industry": null,
-   "market_cap": null,
-   "business_summary": null,
-   "reasons": [
-    "Relative strength rating 95 (beating 95% of the market)",
-    "Passes 8/8 stage-2 uptrend checks",
-    "Trading 1.7% below its 52-week high"
+   "angle": "A lesser-known leader. A digital-manufacturing marketplace riding the reshoring and industrial-tech theme. Relative strength is 95, the RS line is at a new high, and it just broke out to a record. The move is backed by fundamentals: Q2 revenue up 41%, and three firms set $120 targets in September. It does not sell AI hardware, so it sits outside DELL's AI-infrastructure bucket.",
+   "business_one_liner": "Xometry runs an online marketplace for custom parts. Buyers get an instant quote for machining, molding, sheet metal or 3D printing, and Xometry routes the job to a network of independent factories.",
+   "price": {
+    "value": 107.96,
+    "date": "2026-10-12 (unofficial session close per Robinhood and the producer; not independently confirmed. Recheck the official close before recording.)"
+   },
+   "price_date": "2026-10-12 (unofficial session close per Robinhood and the producer; not independently confirmed. Recheck the official close before recording.)",
+   "facts": [
+    "Xometry closed Monday around 108 dollars.",
+    "That was down about 3 percent on the day.",
+    "It hit a record high of about 113 dollars on October 6th.",
+    "The stock is up about 30 percent in the past month.",
+    "It is up roughly 175 percent over six months.",
+    "It is up about 80 percent this year.",
+    "Its relative strength rating is 95 out of 99.",
+    "Its RS line, which compares it with the market, is at a new high.",
+    "Up-volume has run almost double down-volume.",
+    "It trades about 14 percent above its 50-day moving average.",
+    "Second-quarter revenue rose 41 percent to about 229 million dollars.",
+    "Marketplace revenue grew even faster, up 45 percent.",
+    "Both revenue and adjusted earnings beat estimates.",
+    "In late September, Rosenblatt, Raymond James and JPMorgan all had 120-dollar price targets.",
+    "The market value is about 6 billion dollars.",
+    "Monday was a reversal: it opened near 110, hit about 112, and closed near the day's low.",
+    "The stock is already within about 5 percent of the average analyst target of roughly 113.",
+    "Not every analyst is bullish. Goldman Sachs rates it Neutral with a 104-dollar target, which is below the current price.",
+    "Company guidance points to slower growth next quarter, about 30 percent instead of 41.",
+    "Small caps are weak right now. The Russell 2000 ETF is below its 50-day average.",
+    "The stock's beta is about 2.4, so it moves more than twice as much as the market.",
+    "The company still loses money on a GAAP basis.",
+    "Insiders, including the CEO, the CFO and a director, have been making small, routine sales under pre-set trading plans."
    ],
-   "scores": {
-    "composite": 0.831,
-    "composite_rank": 2,
-    "rs_rating": 95.0,
-    "sleeper": 0.758,
-    "social": 0.0
-   },
-   "performance": {
-    "ret_1w": 0.083,
-    "ret_1m": 0.309,
-    "ret_3m": 0.149,
-    "ret_6m": 1.749
-   },
-   "technicals": {
-    "trend_checks_passed": 8,
-    "rsi": 65.0,
-    "volume_vs_50d_avg": 1.06,
-    "up_down_volume_ratio": 1.84,
-    "pct_below_52w_high": 0.017,
-    "rs_line_at_high": true,
-    "recent_breakout": true
-   },
    "levels": {
-    "price": 111.07,
-    "pivot_20d_high": 112.94,
-    "above_pivot": false,
-    "sma20": 101.33,
-    "sma50": 94.35,
-    "high_52w": 112.94,
-    "support_10d_low": 98.22,
+    "pivot": 112.94,
+    "support": 107.11,
     "invalidation": 96.5,
-    "avg_daily_range_pct": 0.052
+    "how_to_say": "The level to watch is about 113, the record high. A close above it on strong volume restarts the breakout. Support is around 107, which is the early-October breakout area and Monday's low. The full invalidation is around 96 and a half, just under the 10-day low. That is a wide stop, about 11 percent below Monday's close, so a tighter trading stop goes just under 107. If it closes below 107, the breakout is in trouble. The setup: buy a reclaim of 113, or a pullback that holds 107."
    },
-   "social": null,
-   "next_earnings": null,
-   "news": [],
-   "risk_flags": [
-    "General market risk: momentum names fall hardest when the market turns"
-   ]
+   "upcoming": [
+    "Third-quarter earnings are expected around Wednesday, November 4, before the open. Xometry has not confirmed this date.",
+    "The company will likely announce the official earnings date around October 20.",
+    "Q3 guidance calls for revenue of $234-236M, only about 2-3% above Q2, and adjusted EBITDA of $16-17M. The report needs a beat and raise.",
+    "No earnings report or index event falls in the Oct 13-19 window.",
+    "Recheck on recording day: if it closes above about $113.2, it will be more than 20% above its 50-day average."
+   ],
+   "risk": "Stretched, high-beta small/mid-cap. Up about 175% in six months, with a beta of about 2.4 and big single-day drops this year (-9% in July, -6% in August). Oct 12 reversed off $111.59 and closed near the $107.11 low, which could mean the push at the $112.94 high has failed for now. It trades within about 5% of the ~$113 consensus target, Goldman is Neutral at $104, and Q3 guidance slows growth to about 30%. Small caps are weak (IWM is below its 50-day, and only 30% of the scan universe is above its 50-day). The company loses money on a GAAP basis. The CEO, CFO and a director keep making small 10b5-1/RSU sales. The full invalidation at $96.50 is about 10.6% below the close, so use a tactical stop under $107.",
+   "do_not_say": [
+    "Do not call $107.96 the official or confirmed Oct 12 close. It is an unofficial session figure. Say 'around 108' or recheck before recording.",
+    "Do not state Nov 4 as a confirmed earnings date. Say 'expected early November'.",
+    "Do not mention a CEO sale on Oct 3 (1,112 shares). It is unverified.",
+    "Do not call Xometry an AI stock or AI infrastructure play. It is digital manufacturing / industrial tech that uses AI in its quoting software.",
+    "Do not imply Wall Street is unanimously bullish. Goldman is Neutral at $104, and the consensus rating was Hold as recently as August.",
+    "Do not say $107.96 was the Oct 5 intraday high. That day traded up to about $108.55.",
+    "Do not say there was no news Oct 10-13. Limited searches simply found none.",
+    "Do not present the old Goldman downgrade to Neutral ($49 target) as new.",
+    "Do not cite the Wedbush $126 initiation or exact Street-high targets as current without a recheck.",
+    "Do not quote the exact 50-day average ($94.35) as current. It is from Oct 9 and has risen since.",
+    "Do not describe the insider selling as a red flag or as large. The sales are small and made under pre-set plans or tied to RSUs."
+   ],
+   "rule_violation": "",
+   "name": "Xometry, Inc.",
+   "reasons": [
+    "Xometry closed Monday around 108 dollars.",
+    "That was down about 3 percent on the day.",
+    "It hit a record high of about 113 dollars on October 6th."
+   ],
+   "overall_score": 0.0
   },
   {
-   "ticker": "OPRT",
-   "ticker_spoken": "O-P-R-T",
+   "ticker": "MPC",
+   "company": "Marathon Petroleum Corporation",
+   "ticker_spoken": "Marathon Petroleum, M-P-C",
    "slot": "momentum",
-   "weeks_on_list": 1,
-   "name": "OPRT",
-   "sector": null,
-   "industry": null,
-   "market_cap": null,
-   "business_summary": null,
-   "reasons": [
-    "Relative strength rating 93 (beating 93% of the market)",
-    "Passes 8/8 stage-2 uptrend checks",
-    "Trading 1.7% below its 52-week high"
+   "angle": "This is the non-AI leader that best fits Rule 7, because it has both news and the whole industry behind it. Refining margins are near records, the refiner group is moving together, and there has been a wave of analyst target raises, ending with Barclays at $488 on Monday. It also moves the lineup's factor exposure away from growth and AI. Present it as the leader of a group that is already moving, not as a fresh breakout. The preferred entry is a hold of $455, not chasing a move through the $470 record.",
+   "business_one_liner": "Marathon Petroleum is the largest independent oil refiner in the US. It makes gasoline, diesel and jet fuel, and it owns a pipeline arm through MPLX. It makes its money on the gap between what crude costs and what refined fuel sells for, which is called the crack spread.",
+   "price": {
+    "value": 458.81,
+    "date": "2026-10-12"
+   },
+   "price_date": "2026-10-12",
+   "facts": [
+    "Marathon Petroleum closed Monday at about $459, up almost 1% on the day.",
+    "Early Monday it traded up to about $467, then gave some back. It closed below its record intraday high of $470, which was set last week.",
+    "Its record close is about $463, set last Thursday.",
+    "The stock is up about 6% in the past week.",
+    "It has gone from about $300 in early August to about $459 now, a gain of more than 50% in roughly two months.",
+    "It sits about 21% above its 50-day moving average. That is extended, but still inside our 25% limit.",
+    "On Monday, Barclays raised its price target to $488 from $321 and kept an Overweight rating.",
+    "That came on top of a wave of target raises in early October, including TD Cowen and BMO.",
+    "Not everyone is chasing it. Mizuho is at Neutral with a $457 target, which is about where the stock trades now.",
+    "Jefferies raised its target only to $433, which is below the current price.",
+    "The average Wall Street target is about $400, well below the stock. The stock has run ahead of most analysts.",
+    "The key refining margin, the 3-2-1 crack spread, was about $65 a barrel on October 6. That is near the widest since records began in 1986.",
+    "That margin has eased a bit from its late-September peak, so it is near the record but no longer climbing.",
+    "US diesel margins set records above $100 a barrel in September.",
+    "Diesel supply is tight. New York diesel inventories are at a four-year low.",
+    "Diesel flows out of the Persian Gulf are reported to be down about 80% from a year ago.",
+    "This is a group move, not just one stock. Valero and Phillips 66 have rallied too, and four refiners logged six straight weekly gains in September.",
+    "Analysts expect windfall third-quarter profits for the refiners.",
+    "Marathon reports third-quarter results on Tuesday, November 3, which is after our window.",
+    "Headlines can hit this group fast. Last Thursday, President Trump said Russia would supply diesel to world markets. Diesel futures fell 4% and Marathon fell about 2%.",
+    "This pick is energy, not AI. It gives the lineup a different kind of exposure."
    ],
-   "scores": {
-    "composite": 0.829,
-    "composite_rank": 3,
-    "rs_rating": 93.0,
-    "sleeper": 0.878,
-    "social": 0.0
-   },
-   "performance": {
-    "ret_1w": 0.068,
-    "ret_1m": 0.164,
-    "ret_3m": 0.562,
-    "ret_6m": 0.817
-   },
-   "technicals": {
-    "trend_checks_passed": 8,
-    "rsi": 69.7,
-    "volume_vs_50d_avg": 1.3,
-    "up_down_volume_ratio": 1.78,
-    "pct_below_52w_high": 0.017,
-    "rs_line_at_high": true,
-    "recent_breakout": true
-   },
    "levels": {
-    "price": 8.92,
-    "pivot_20d_high": 8.66,
-    "above_pivot": true,
-    "sma20": 8.29,
-    "sma50": 7.73,
-    "high_52w": 9.07,
-    "support_10d_low": 7.99,
-    "invalidation": 8.06,
-    "avg_daily_range_pct": 0.039
+    "pivot": 470,
+    "support": 455,
+    "invalidation": 440,
+    "how_to_say": "The level to watch is $470, the record intraday high. A close above it would confirm the breakout. Support is about $455, last Friday's close. We'd rather see it hold there than chase a breakout. The idea is wrong on a close below $440. The deeper line is about $433, the early-October close where this breakout started. One note: if it breaks out above $470, recheck how stretched it is above the 50-day that day. The 50-day is rising about $3 a day, so a breakout later in the week likely stays inside our 25% limit, but confirm it."
    },
-   "social": null,
-   "next_earnings": null,
-   "news": [],
-   "risk_flags": [
-    "Low-priced stock: bigger percentage swings"
-   ]
+   "upcoming": [
+    "Wednesday, Oct 14: CPI. A hot reading driven by energy prices could bring political pressure on fuel prices.",
+    "All week: headlines on Iran, the Strait of Hormuz and Russian diesel. De-escalation could squeeze crack spreads, and so could more supply remarks like the Oct 9 one.",
+    "Any day it closes above $470: recheck the stretch above the 50-day before calling it a buy.",
+    "Tuesday, Nov 3: third-quarter earnings, with the call at 11 a.m. ET. This is outside the Oct 13-19 window."
+   ],
+   "risk": "This sector moves on headlines. Refining margins are inflated by war-driven diesel shortages tied to Hormuz and Russia. A ceasefire, Hormuz reopening, or another remark like last Thursday's Trump comment on Russian diesel (which cost Marathon about 2%) could compress crack spreads quickly. One CNBC analysis argues that the end of hostilities would not crash margins quickly. The stock is also stretched about 21% above its 50-day, with the average analyst target near $400 and Mizuho's at $457, so it is priced ahead of most of the Street. The crack spread has already eased off its late-September peak. Monday faded from about $467 to $459, and Wednesday's CPI is a macro wildcard. A close below $440 voids the idea.",
+   "do_not_say": [
+    "Do not say Monday hit $470 and was rejected there. That is not confirmed. The $470 record intraday high appears to have been set last week, and Monday's confirmed early print was about $467.",
+    "Do not call $102.20 the all-time diesel crack record. Sources differ, and one shows about $118 on Sep 16. Say only 'records above $100 a barrel in September.'",
+    "Do not say crack spreads are still rising. The 3-2-1 spread was down about $2 from Sep 29 to Oct 6.",
+    "Do not quote a year-to-date gain. Sources conflict between about +120% and +185%, and both are undated.",
+    "Do not quote volume for Monday or for the breakout run. It is unverified.",
+    "Do not quote a market cap. It is not verified this session.",
+    "Do not say Mizuho cut DK, PARR or PSX on valuation. It is unverified.",
+    "Do not claim DINO, VLO and PSX are all at record highs today. That was not checked this session. Say only that the refiner group has rallied together.",
+    "Do not name UBS, Goldman, Morgan Stanley, Raymond James or BofA as specific raises, or say UBS and Morgan Stanley called for new highs. These were not re-confirmed this session. TD Cowen, BMO, Barclays, Mizuho and Jefferies are confirmed.",
+    "Do not use the TD Cowen/BMO '7.3% one-day jump' with a date. The date is unknown.",
+    "Do not call $466.69 the close. It was a 9:38 a.m. print.",
+    "Do not state definitively that there is no index change. Say only that none was found.",
+    "Do not state Monday's daily high or low. Neither is verified."
+   ],
+   "rule_violation": "",
+   "name": "Marathon Petroleum Corporation",
+   "reasons": [
+    "Marathon Petroleum closed Monday at about $459, up almost 1% on the day.",
+    "Early Monday it traded up to about $467, then gave some back. It closed below its record intraday high of $470, which was set last week.",
+    "Its record close is about $463, set last Thursday."
+   ],
+   "overall_score": 0.0
   },
   {
-   "ticker": "GOOG",
-   "ticker_spoken": "G-O-O-G",
+   "ticker": "TSLA",
+   "company": "Tesla, Inc.",
+   "ticker_spoken": "Tesla, ticker T-S-L-A",
    "slot": "social",
-   "weeks_on_list": 1,
-   "name": "GOOG",
-   "sector": null,
-   "industry": null,
-   "market_cap": null,
-   "business_summary": null,
-   "reasons": [
-    "Reddit buzz: 10 mentions in 24h (+160% vs the prior day)",
-    "Relative strength rating 65 (beating 65% of the market)",
-    "Passes 7/8 stage-2 uptrend checks",
-    "Trading 13.9% below its 52-week high"
+   "angle": "The one everybody's watching, not a buy signal. Tesla has the strongest cross-platform retail buzz this week: Reddit mentions jumped from 7 to 19 (rank 19 to rank 7) and it is trending on StockTwits. The chatter is driven by a reported NHTSA school-zone robotaxi probe, the Q3 deliveries beat, Jefferies' $400 target (still a Hold) and the run-up to Oct 21 earnings. The chart is a repair chart, not a leader. It holds above a rising 50-day but sits below its 200-day and well off its high, and $400 is the line everyone is watching.",
+   "business_one_liner": "Tesla makes electric vehicles and sells energy storage. It is also pushing into self-driving and robotaxis with FSD and Cybercab, and it is building Optimus humanoid robots.",
+   "price": {
+    "value": 378.03,
+    "date": "2026-10-12"
+   },
+   "price_date": "2026-10-12",
+   "facts": [
+    "Tesla closed around $378 on Monday, October 12, down about 1 percent on the day.",
+    "On Reddit, Tesla mentions jumped from 7 to 19 in a day, and its rank rose from 19th to 7th.",
+    "It's also on the StockTwits trending list, so the buzz is on more than one platform.",
+    "Third-quarter deliveries came in around 486,500, ahead of the roughly 462,000 Wall Street expected.",
+    "The stock jumped about 5 percent on that deliveries beat.",
+    "Deliveries were still down about 2 percent from a year ago, so the sales slide hasn't fully turned.",
+    "Jefferies raised its price target to $400 from $350 on Monday, but it kept a Hold rating.",
+    "Benzinga and GuruFocus reported on Monday that federal safety regulators are looking at Tesla robotaxis speeding in school zones.",
+    "That report covers about 1,000 vehicles and four incidents, with no crashes or injuries.",
+    "The stock is up about 27 percent from its late-July low.",
+    "It's sitting roughly 4 to 8 percent above a rising 50-day average.",
+    "It's still below its 200-day average, which is around $392.",
+    "It's still about 24 percent below its 52-week high near $499.",
+    "As of early October, it was down about 22 percent for the year.",
+    "Third-quarter earnings come out Wednesday, October 21, after the close. Tesla confirmed that date in an SEC filing.",
+    "That's two trading days after this week's window ends."
    ],
-   "scores": {
-    "composite": 0.655,
-    "composite_rank": 434,
-    "rs_rating": 65.0,
-    "sleeper": null,
-    "social": 0.964
-   },
-   "performance": {
-    "ret_1w": 0.022,
-    "ret_1m": 0.053,
-    "ret_3m": -0.007,
-    "ret_6m": 0.103
-   },
-   "technicals": {
-    "trend_checks_passed": 7,
-    "rsi": 56.0,
-    "volume_vs_50d_avg": 0.75,
-    "up_down_volume_ratio": 1.14,
-    "pct_below_52w_high": 0.139,
-    "rs_line_at_high": false,
-    "recent_breakout": false
-   },
    "levels": {
-    "price": 347.86,
-    "pivot_20d_high": 359.98,
-    "above_pivot": false,
-    "sma20": 342.45,
-    "sma50": 343.28,
-    "high_52w": 403.96,
-    "support_10d_low": 332.65,
-    "invalidation": 343.28,
-    "avg_daily_range_pct": 0.024
+    "pivot": 400,
+    "support": 371,
+    "invalidation": 348,
+    "how_to_say": "Four hundred dollars is the line chart watchers are watching, with the 200-day average just below it around $392. Getting back above both would turn this from a repair chart into a breakout attempt. On the downside, the area right after the deliveries pop, around $371, is the first support. A close below roughly $348, where the 50-day average sits, would undo the deliveries gap and break the uptrend from the July low. Be upfront: this is a repair chart, below its 200-day and about 24 percent under its high. It is not a Stage-2 leader, and the buzz is not a buy signal."
    },
-   "social": {
-    "reddit_mentions_24h": 10.0,
-    "reddit_mentions_prior_24h": 2.0,
-    "mention_change": 1.6,
-    "reddit_rank": 17.0
-   },
-   "next_earnings": null,
-   "news": [],
-   "risk_flags": [
-    "Heavy social hype: crowded trades can reverse hard"
-   ]
+   "upcoming": [
+    "Mon Oct 19: last session of the Oct 13-19 window.",
+    "Wed Oct 21, after the close: Q3 earnings, with the webcast at 5:30pm ET (confirmed in Tesla's 8-K and its Oct 2 press release). It lands 2 sessions after the window, so expect pre-earnings run-up and volatility, rising implied volatility, and gap risk for anyone holding into the print.",
+    "Watch for any follow-up from NHTSA on the reported school-zone robotaxi probe."
+   ],
+   "risk": "Earnings hit on Oct 21, just 2 sessions after the window. Expect implied volatility to build and big swings into the print, and anyone still holding takes the gap risk. The cushion above the 50-day is thin and recent: before the deliveries beat, around Oct 1, the stock traded near $349, right at the invalidation level. A reversal of the deliveries pop could reach $348 quickly. The headline risk is the reported NHTSA school-zone robotaxi probe, which our check could not corroborate beyond Benzinga and GuruFocus. Overhead resistance sits at $392 to $400 (the 200-day and the $400 level). Hold ratings are at a multi-year high, and insiders have sold with no buys in the past year. High-beta name. Data caveat: the Oct 12 close and the current 50-day come from the dossier only and were not independently re-verified. Confirm them on a quote screen before recording.",
+   "do_not_say": [
+    "Don't announce a Roadster reveal on Oct 15 or any other date this week. It is unconfirmed: sources conflict, the Oct 1 date already slipped, and it has been delayed repeatedly.",
+    "Don't call this a buy signal or a breakout. It is below the 200-day, and $400 has not been reclaimed.",
+    "Don't call it a Stage-2 leader or a clean uptrend.",
+    "Don't say NHTSA formally opened an investigation, and don't present the probe as independently confirmed. Say 'reported by Benzinga and GuruFocus.'",
+    "Don't mix up the Tesla school-zone report with the separate Waymo school-zone and school-bus probes.",
+    "Don't give the market cap of about $1.2 trillion as a sourced figure. It is an unsourced estimate.",
+    "Don't quote an exact Oct 12 50-day value such as $348.90 as current. Sources range from about $349 to $364, and none was re-verified.",
+    "Don't give a year-to-date figure as of today. The only dated figure is about -22% as of early October.",
+    "Don't use the Oct 22 (Earnings Whispers) or Oct 28 (Plus500) earnings dates. The company's 8-K says Oct 21.",
+    "Don't cite the undated 4-5% jump on a Musk 'big' Japan investment announcement.",
+    "Don't cite the analyst consensus of 'Buy' with an average target around $398. It is undated aggregator data.",
+    "Don't claim insider selling in October. No October Form 4 was found."
+   ],
+   "rule_violation": "",
+   "name": "Tesla, Inc.",
+   "reasons": [
+    "Tesla closed around $378 on Monday, October 12, down about 1 percent on the day.",
+    "On Reddit, Tesla mentions jumped from 7 to 19 in a day, and its rank rose from 19th to 7th.",
+    "It's also on the StockTwits trending list, so the buzz is on more than one platform."
+   ],
+   "overall_score": 0.0
   },
   {
-   "ticker": "IBTA",
-   "ticker_spoken": "I-B-T-A",
+   "ticker": "CON",
+   "company": "Concentra Group Holdings Parent, Inc.",
+   "ticker_spoken": "Concentra, ticker C-O-N",
    "slot": "sleeper",
-   "weeks_on_list": 1,
-   "name": "IBTA",
-   "sector": null,
-   "industry": null,
-   "market_cap": null,
-   "business_summary": null,
-   "reasons": [
-    "Strong setup with low attention: lighter trading volume and little social chatter",
-    "Relative strength rating 90 (beating 90% of the market)",
-    "Passes 8/8 stage-2 uptrend checks",
-    "Trading 1.8% below its 52-week high"
+   "angle": "This is the cleanest and least-stretched sleeper, and 2 of the 3 ballots picked it. It is a quiet, defensive occupational-health name worth about $4.7B. It is making orderly new highs, with an intraday high of about $37.70 on Oct 12. It trades only 7-9% above a rising 50-day near $34.70, and its 200-day is also rising, a clean Stage-2 uptrend. The news backs it: Q2 revenue was about $606M and guidance was raised. Since then the targets have gone up: JPMorgan to $43, Argus to $38, and the Street average is now about $39.40, above the price. The company is paying down debt and pays a dividend. No other name in the lineup has this theme.",
+   "business_one_liner": "Concentra is the largest US provider of occupational health care: workers' comp injury care, employer physicals and drug testing. It runs a national network of medical centers plus onsite clinics, and it was spun out of Select Medical.",
+   "price": {
+    "value": 37.15,
+    "date": "2026-10-09, 3:03 PM ET delayed quote (CNN), not an official close. Intraday high of $37.68 on Oct 12 (MarketBeat). Official Oct 9 and Oct 12 closes are unconfirmed."
+   },
+   "price_date": "2026-10-09, 3:03 PM ET delayed quote (CNN), not an official close. Intraday high of $37.68 on Oct 12 (MarketBeat). Official Oct 9 and Oct 12 closes are unconfirmed.",
+   "facts": [
+    "Concentra is the biggest occupational health provider in the US.",
+    "It treats injured workers and does employer physicals and drug tests.",
+    "It was spun out of Select Medical.",
+    "The stock is around 37 dollars and keeps setting new 52-week highs.",
+    "It hit about 37.70 intraday on October 12.",
+    "That is roughly double its 52-week low of about 18.50.",
+    "It sits about 7 to 9 percent above its 50-day average, which is near 34.70.",
+    "Both the 50-day and the 200-day averages are rising.",
+    "The market value is roughly 4.7 billion dollars.",
+    "Second-quarter revenue was about 606 million dollars, and net income was about 65 million.",
+    "Management raised its full-year guidance.",
+    "The stock jumped about 7 and a half percent on that report.",
+    "JPMorgan raised its target to 43 dollars in September.",
+    "Argus raised its target to 38 dollars.",
+    "The Street's average target is about 39.40, a bit above the current price.",
+    "The company is paying down debt and pays a small dividend of about 6 cents a quarter.",
+    "It trades around 23 times earnings, so it is not cheap anymore.",
+    "Retail traders are not talking about it. It is not trending on Reddit or StockTwits.",
+    "It usually trades about 650 to 850 thousand shares a day, around 24 million dollars' worth.",
+    "Earnings are November 5th after the close, well outside this week."
    ],
-   "scores": {
-    "composite": 0.763,
-    "composite_rank": 61,
-    "rs_rating": 90.0,
-    "sleeper": 0.884,
-    "social": 0.0
-   },
-   "performance": {
-    "ret_1w": 0.035,
-    "ret_1m": 0.072,
-    "ret_3m": 0.392,
-    "ret_6m": 0.351
-   },
-   "technicals": {
-    "trend_checks_passed": 8,
-    "rsi": 64.3,
-    "volume_vs_50d_avg": 1.01,
-    "up_down_volume_ratio": 1.58,
-    "pct_below_52w_high": 0.018,
-    "rs_line_at_high": true,
-    "recent_breakout": false
-   },
    "levels": {
-    "price": 43.07,
-    "pivot_20d_high": 43.43,
-    "above_pivot": false,
-    "sma20": 41.28,
-    "sma50": 38.54,
-    "high_52w": 43.85,
-    "support_10d_low": 38.0,
-    "invalidation": 38.74,
-    "avg_daily_range_pct": 0.04
+    "pivot": 36.83,
+    "support": 34.66,
+    "invalidation": 34.25,
+    "how_to_say": "The breakout level is about 36.80, the early-October high. Staying above it keeps the new-high run intact. The first real support is the 50-day average near 34.70. I'm wrong on this one if it closes below about 34.25, roughly 8 percent under where it trades now."
    },
-   "social": null,
-   "next_earnings": null,
-   "news": [],
-   "risk_flags": [
-    "General market risk: momentum names fall hardest when the market turns"
-   ]
+   "upcoming": [
+    "Nov 1, 2026: CEO handover. President and CFO Matt DiCanio becomes CEO, and Keith Newton moves to Executive Chairman. A new CFO was named Sep 8, so both top jobs change hands.",
+    "Nov 5, 2026: Q3 results after the close (confirmed by company IR), with the call Nov 6 at 9:00 AM ET.",
+    "Director Robert Ortenzio has sold 130K shares a month under a 10b5-1 plan (May through Aug). More sales near the start of each month are possible."
+   ],
+   "risk": "The CEO and CFO seats both change hands right before the Nov 5 earnings report. The succession is orderly and internal (DiCanio is being promoted), but the timing adds messaging and execution risk. The business depends on employment: a softer labor market means fewer injury visits and fewer pre-employment exams. A director has been selling steadily, 130K shares a month under a 10b5-1 plan, which adds supply. At about 23x earnings the valuation is no longer cheap. Attention and day-to-day volume are low, so the stock can gap on news, but average dollar volume (about $24M a day) is tradeable. A close below about $34.25 ends the 50-day uptrend.",
+   "do_not_say": [
+    "Do not say the Street's average target is below the price, and do not cite a $31.40 consensus. That figure is stale; the current MarketBeat average is about $39.40, above the price.",
+    "Do not say Argus is the only target above the price. JPMorgan is at $43.",
+    "Do not call the CEO change an outside hire or a surprise departure. It is an internal promotion (DiCanio), and Newton becomes Executive Chairman.",
+    "Do not call the stock illiquid or say it trades only about 28K shares a day. The 27,854 figure was a mid-session count; the normal average is about 640-880K shares.",
+    "Do not cite an official Oct 9 or Oct 12 closing price. Neither is confirmed; say 'about 37 dollars'.",
+    "Do not cite an exact 2-day, 1-week, 1-month or YTD percentage move. None were confirmed; the 2-day move was at most about 3 percent.",
+    "Do not present the market cap as an October-verified figure. It is derived from a Sep 13 figure scaled to the current price.",
+    "Do not claim an October insider sale. October Form 4s were not checked.",
+    "Do not cite a short-interest figure. None was found.",
+    "Do not give an exact date for the Argus target raise. 'Around Oct 7' came only from a search summary.",
+    "Do not cite an exact center count (for example 'about 600 centers'). It was not independently re-verified."
+   ],
+   "rule_violation": "",
+   "name": "Concentra Group Holdings Parent, Inc.",
+   "reasons": [
+    "Concentra is the biggest occupational health provider in the US.",
+    "It treats injured workers and does employer physicals and drug tests.",
+    "It was spun out of Select Medical."
+   ],
+   "overall_score": 0.0
   }
  ],
- "disclaimer": "I'm not a financial advisor and this isn't financial advice. Always do your own DD before putting money into any stock."
+ "disclaimer": "I'm not a financial advisor and this isn't financial advice. Always do your own DD before putting money into any stock.",
+ "research_method": "This episode was researched with live web search by parallel research agents (market pulse, new highs, RS leaders, themes, social buzz, sleepers, catalysts), deep dives per candidate scored on the show's rubric, a selector panel, and adversarial fact-checks. The quantitative scan could not run because the build sandbox blocks market-data downloads; weekly automated episodes use it."
 }

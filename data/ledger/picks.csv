@@ -9,8 +9,8 @@ episode_date,ticker,slot,ref_close,composite,composite_rank
 2026-10-05,FORM,momentum,149.15,0.8367,3
 2026-10-05,VREX,sleeper,18.46,0.741,115
 2026-10-05,NBIS,social,242.81,0.7376,125
-2026-10-12,DELL,momentum,586.06,0.8341,1
-2026-10-12,XMTR,momentum,111.07,0.8307,2
-2026-10-12,OPRT,momentum,8.92,0.8285,3
-2026-10-12,IBTA,sleeper,43.07,0.7633,61
-2026-10-12,GOOG,social,347.86,0.6547,434
+2026-10-12,DELL,momentum,576.76,0.0,1
+2026-10-12,XMTR,momentum,107.96,0.0,2
+2026-10-12,MPC,momentum,458.81,0.0,3
+2026-10-12,CON,sleeper,37.15,0.0,5
+2026-10-12,TSLA,social,378.03,0.0,4
