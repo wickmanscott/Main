@@ -1,5 +1,24 @@
 [
  {
+  "date": "2026-10-18",
+  "title": "Week of October 19th, 2026. $CON $TBBB $PACS $GME $VREX",
+  "guid": "stock-watchlist-2026-10-18",
+  "pub_date": "Sun, 18 Oct 2026 23:46:23 +0000",
+  "summary": "5 stocks for your watchlist: CON, TBBB, PACS, GME, VREX. Not financial advice.",
+  "notes_html": "<h1>Week of October 19th, 2026. $CON $TBBB $PACS $GME $VREX</h1>\n<p>5 stocks to add to your watchlist every week. Brief and to the point.</p>\n<ul>\n<li><strong>$CON</strong> (momentum): Relative strength rating 94 (beating 94% of the market). Watching 39.24 / invalidation 36.03.</li>\n<li><strong>$TBBB</strong> (momentum): Relative strength rating 95 (beating 95% of the market). Watching 57.3 / invalidation 53.54.</li>\n<li><strong>$PACS</strong> (momentum): Relative strength rating 96 (beating 96% of the market). Watching 48.16 / invalidation 43.66.</li>\n<li><strong>$GME</strong> (social): Reddit buzz: 17 mentions in 24h (+183% vs the prior day). Watching 28.3 / invalidation 23.95.</li>\n<li><strong>$VREX</strong> (sleeper): Strong setup with low attention: lighter trading volume and little social chatter. Watching 18.53 / invalidation 18.35.</li>\n</ul>\n<p><em>I&#x27;m not a financial advisor and this isn&#x27;t financial advice. Always do your own DD before putting money into any stock.</em></p>",
+  "tickers": [
+   "CON",
+   "TBBB",
+   "PACS",
+   "GME",
+   "VREX"
+  ],
+  "script_source": "template",
+  "audio_url": null,
+  "audio_bytes": null,
+  "duration_sec": null
+ },
+ {
   "date": "2026-10-12",
   "title": "Week of October 12th, 2026. $DELL $XMTR $MPC $TSLA $CON",
   "guid": "stock-watchlist-2026-10-12",

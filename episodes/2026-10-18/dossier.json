@@ -1,0 +1,382 @@
+{
+ "show": {
+  "title": "The (Stock) Watchlist",
+  "host": "Scott Wickman",
+  "handle": "@scottiewick",
+  "tagline": "5 stocks to add to your watchlist every week. Brief and to the point."
+ },
+ "data_as_of": "2026-10-16",
+ "week_of": "2026-10-19",
+ "title": "Week of October 19th, 2026. $CON $TBBB $PACS $GME $VREX",
+ "market_pulse": {
+  "SPY": {
+   "close": 763.25,
+   "ret_1w": -0.0197,
+   "ret_1m": 0.0033,
+   "above_50d": false,
+   "above_200d": true
+  },
+  "QQQ": {
+   "close": 709.8,
+   "ret_1w": -0.0552,
+   "ret_1m": -0.0089,
+   "above_50d": false,
+   "above_200d": true
+  },
+  "IWM": {
+   "close": 270.44,
+   "ret_1w": -0.0305,
+   "ret_1m": -0.0525,
+   "above_50d": false,
+   "above_200d": false
+  },
+  "breadth": {
+   "universe_size": 2900,
+   "pct_above_50d": 0.315,
+   "pct_stage2_uptrend": 0.377,
+   "pct_within_5pct_of_52w_high": 0.089
+  }
+ },
+ "last_week_scorecard": {
+  "episode_date": "2026-10-12",
+  "benchmark": "SPY",
+  "picks": [
+   {
+    "ticker": "DELL",
+    "slot": "momentum",
+    "ret": -0.1885,
+    "benchmark_ret": -0.0181,
+    "beat_benchmark": false
+   },
+   {
+    "ticker": "XMTR",
+    "slot": "momentum",
+    "ret": -0.1543,
+    "benchmark_ret": -0.0181,
+    "beat_benchmark": false
+   },
+   {
+    "ticker": "MPC",
+    "slot": "momentum",
+    "ret": 0.0303,
+    "benchmark_ret": -0.0181,
+    "beat_benchmark": true
+   },
+   {
+    "ticker": "CON",
+    "slot": "sleeper",
+    "ret": 0.0198,
+    "benchmark_ret": -0.0181,
+    "beat_benchmark": true
+   },
+   {
+    "ticker": "TSLA",
+    "slot": "social",
+    "ret": -0.0473,
+    "benchmark_ret": -0.0181,
+    "beat_benchmark": false
+   }
+  ],
+  "avg_ret": -0.068,
+  "benchmark_ret": -0.0181,
+  "winners": 2,
+  "beat_benchmark": 2,
+  "best": "MPC",
+  "worst": "DELL"
+ },
+ "live_track_record": {
+  "episodes": 3,
+  "picks_scored": 10,
+  "hold_sessions": 5,
+  "hit_rate": 0.1,
+  "beat_benchmark_rate": 0.2,
+  "avg_ret": -0.0443,
+  "avg_excess": -0.05
+ },
+ "model_backtest": null,
+ "picks": [
+  {
+   "ticker": "CON",
+   "ticker_spoken": "C-O-N",
+   "slot": "momentum",
+   "weeks_on_list": 2,
+   "name": "CON",
+   "sector": null,
+   "industry": null,
+   "market_cap": null,
+   "business_summary": null,
+   "reasons": [
+    "Relative strength rating 94 (beating 94% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 2.7% below its 52-week high"
+   ],
+   "scores": {
+    "composite": 0.846,
+    "composite_rank": 1,
+    "rs_rating": 94.0,
+    "sleeper": 0.836,
+    "social": 0.0
+   },
+   "performance": {
+    "ret_1w": 0.036,
+    "ret_1m": 0.085,
+    "ret_3m": 0.233,
+    "ret_6m": 0.693
+   },
+   "technicals": {
+    "trend_checks_passed": 8,
+    "rsi": 70.3,
+    "volume_vs_50d_avg": 1.46,
+    "up_down_volume_ratio": 1.25,
+    "pct_below_52w_high": 0.027,
+    "rs_line_at_high": true,
+    "recent_breakout": true
+   },
+   "levels": {
+    "price": 38.54,
+    "pivot_20d_high": 39.24,
+    "above_pivot": false,
+    "sma20": 36.14,
+    "sma50": 35.28,
+    "high_52w": 39.6,
+    "support_10d_low": 35.48,
+    "invalidation": 36.03,
+    "avg_daily_range_pct": 0.026
+   },
+   "social": null,
+   "next_earnings": null,
+   "news": [],
+   "risk_flags": [
+    "General market risk: momentum names fall hardest when the market turns"
+   ]
+  },
+  {
+   "ticker": "TBBB",
+   "ticker_spoken": "T-B-B-B",
+   "slot": "momentum",
+   "weeks_on_list": 1,
+   "name": "TBBB",
+   "sector": null,
+   "industry": null,
+   "market_cap": null,
+   "business_summary": null,
+   "reasons": [
+    "Relative strength rating 95 (beating 95% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 0.2% below its 52-week high"
+   ],
+   "scores": {
+    "composite": 0.842,
+    "composite_rank": 2,
+    "rs_rating": 95.0,
+    "sleeper": 0.826,
+    "social": 0.0
+   },
+   "performance": {
+    "ret_1w": 0.038,
+    "ret_1m": 0.133,
+    "ret_3m": 0.399,
+    "ret_6m": 0.511
+   },
+   "technicals": {
+    "trend_checks_passed": 8,
+    "rsi": 72.6,
+    "volume_vs_50d_avg": 1.27,
+    "up_down_volume_ratio": 2.11,
+    "pct_below_52w_high": 0.002,
+    "rs_line_at_high": true,
+    "recent_breakout": true
+   },
+   "levels": {
+    "price": 57.68,
+    "pivot_20d_high": 57.3,
+    "above_pivot": true,
+    "sma20": 53.91,
+    "sma50": 50.85,
+    "high_52w": 57.81,
+    "support_10d_low": 52.21,
+    "invalidation": 53.54,
+    "avg_daily_range_pct": 0.029
+   },
+   "social": null,
+   "next_earnings": null,
+   "news": [],
+   "risk_flags": [
+    "General market risk: momentum names fall hardest when the market turns"
+   ]
+  },
+  {
+   "ticker": "PACS",
+   "ticker_spoken": "P-A-C-S",
+   "slot": "momentum",
+   "weeks_on_list": 1,
+   "name": "PACS",
+   "sector": null,
+   "industry": null,
+   "market_cap": null,
+   "business_summary": null,
+   "reasons": [
+    "Relative strength rating 96 (beating 96% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 5.2% below its 52-week high"
+   ],
+   "scores": {
+    "composite": 0.838,
+    "composite_rank": 3,
+    "rs_rating": 96.0,
+    "sleeper": 0.691,
+    "social": 0.0
+   },
+   "performance": {
+    "ret_1w": 0.083,
+    "ret_1m": 0.115,
+    "ret_3m": 0.049,
+    "ret_6m": 0.333
+   },
+   "technicals": {
+    "trend_checks_passed": 8,
+    "rsi": 66.0,
+    "volume_vs_50d_avg": 1.14,
+    "up_down_volume_ratio": 0.87,
+    "pct_below_52w_high": 0.052,
+    "rs_line_at_high": false,
+    "recent_breakout": true
+   },
+   "levels": {
+    "price": 46.91,
+    "pivot_20d_high": 48.16,
+    "above_pivot": false,
+    "sma20": 43.11,
+    "sma50": 43.66,
+    "high_52w": 49.49,
+    "support_10d_low": 42.39,
+    "invalidation": 43.66,
+    "avg_daily_range_pct": 0.032
+   },
+   "social": null,
+   "next_earnings": null,
+   "news": [],
+   "risk_flags": [
+    "General market risk: momentum names fall hardest when the market turns"
+   ]
+  },
+  {
+   "ticker": "GME",
+   "ticker_spoken": "G-M-E",
+   "slot": "social",
+   "weeks_on_list": 1,
+   "name": "GME",
+   "sector": null,
+   "industry": null,
+   "market_cap": null,
+   "business_summary": null,
+   "reasons": [
+    "Reddit buzz: 17 mentions in 24h (+183% vs the prior day)",
+    "Relative strength rating 77 (beating 77% of the market)",
+    "Trading 5.3% below its 52-week high",
+    "Passes 6/8 stage-2 uptrend checks"
+   ],
+   "scores": {
+    "composite": 0.693,
+    "composite_rank": 267,
+    "rs_rating": 77.0,
+    "sleeper": 0.475,
+    "social": 0.95
+   },
+   "performance": {
+    "ret_1w": 0.009,
+    "ret_1m": 0.177,
+    "ret_3m": 0.232,
+    "ret_6m": 0.092
+   },
+   "technicals": {
+    "trend_checks_passed": 6,
+    "rsi": 65.5,
+    "volume_vs_50d_avg": 1.41,
+    "up_down_volume_ratio": 1.72,
+    "pct_below_52w_high": 0.053,
+    "rs_line_at_high": false,
+    "recent_breakout": false
+   },
+   "levels": {
+    "price": 26.81,
+    "pivot_20d_high": 28.3,
+    "above_pivot": false,
+    "sma20": 25.17,
+    "sma50": 21.64,
+    "high_52w": 28.3,
+    "support_10d_low": 24.04,
+    "invalidation": 23.95,
+    "avg_daily_range_pct": 0.043
+   },
+   "social": {
+    "reddit_mentions_24h": 17.0,
+    "reddit_mentions_prior_24h": 6.0,
+    "mention_change": 1.833,
+    "reddit_rank": 24.0
+   },
+   "next_earnings": null,
+   "news": [],
+   "risk_flags": [
+    "Heavy social hype: crowded trades can reverse hard"
+   ]
+  },
+  {
+   "ticker": "VREX",
+   "ticker_spoken": "V-R-E-X",
+   "slot": "sleeper",
+   "weeks_on_list": 1,
+   "name": "VREX",
+   "sector": null,
+   "industry": null,
+   "market_cap": null,
+   "business_summary": null,
+   "reasons": [
+    "Strong setup with low attention: lighter trading volume and little social chatter",
+    "Relative strength rating 94 (beating 94% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 1.2% below its 52-week high"
+   ],
+   "scores": {
+    "composite": 0.776,
+    "composite_rank": 41,
+    "rs_rating": 94.0,
+    "sleeper": 0.969,
+    "social": 0.0
+   },
+   "performance": {
+    "ret_1w": -0.003,
+    "ret_1m": -0.007,
+    "ret_3m": 0.734,
+    "ret_6m": 0.533
+   },
+   "technicals": {
+    "trend_checks_passed": 8,
+    "rsi": 61.0,
+    "volume_vs_50d_avg": 0.54,
+    "up_down_volume_ratio": 2.04,
+    "pct_below_52w_high": 0.012,
+    "rs_line_at_high": true,
+    "recent_breakout": false
+   },
+   "levels": {
+    "price": 18.41,
+    "pivot_20d_high": 18.53,
+    "above_pivot": false,
+    "sma20": 18.46,
+    "sma50": 18.35,
+    "high_52w": 18.63,
+    "support_10d_low": 18.35,
+    "invalidation": 18.35,
+    "avg_daily_range_pct": 0.003
+   },
+   "social": null,
+   "next_earnings": null,
+   "news": [],
+   "risk_flags": [
+    "General market risk: momentum names fall hardest when the market turns"
+   ]
+  }
+ ],
+ "disclaimer": "I'm not a financial advisor and this isn't financial advice. Always do your own DD before putting money into any stock."
+}

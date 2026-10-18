@@ -1,0 +1,83 @@
+{
+ "title": "Week of October 19th, 2026. $CON $TBBB $PACS $GME $VREX",
+ "script_source": "template",
+ "words": 526,
+ "validation_issues": [
+  "too short: 526 words (target 900-1400)"
+ ],
+ "weights_source": "settings.yaml",
+ "picks": [
+  {
+   "ticker": "CON",
+   "slot": "momentum",
+   "composite": 0.846272036468943,
+   "composite_rank": 1,
+   "sleeper": 0.8356371100164204,
+   "social_score": 0.0,
+   "reasons": [
+    "Relative strength rating 94 (beating 94% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 2.7% below its 52-week high"
+   ],
+   "weeks_on_list": 2
+  },
+  {
+   "ticker": "TBBB",
+   "slot": "momentum",
+   "composite": 0.8424449974628722,
+   "composite_rank": 2,
+   "sleeper": 0.8263025868018371,
+   "social_score": 0.0,
+   "reasons": [
+    "Relative strength rating 95 (beating 95% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 0.2% below its 52-week high"
+   ],
+   "weeks_on_list": 1
+  },
+  {
+   "ticker": "PACS",
+   "slot": "momentum",
+   "composite": 0.8379818232447487,
+   "composite_rank": 3,
+   "sleeper": 0.690792222936151,
+   "social_score": 0.0,
+   "reasons": [
+    "Relative strength rating 96 (beating 96% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 5.2% below its 52-week high"
+   ],
+   "weeks_on_list": 1
+  },
+  {
+   "ticker": "GME",
+   "slot": "social",
+   "composite": 0.6928045967992064,
+   "composite_rank": 267,
+   "sleeper": 0.47453088859560516,
+   "social_score": 0.949937556561086,
+   "reasons": [
+    "Reddit buzz: 17 mentions in 24h (+183% vs the prior day)",
+    "Relative strength rating 77 (beating 77% of the market)",
+    "Trading 5.3% below its 52-week high",
+    "Passes 6/8 stage-2 uptrend checks"
+   ],
+   "weeks_on_list": 1
+  },
+  {
+   "ticker": "VREX",
+   "slot": "sleeper",
+   "composite": 0.7756594906601106,
+   "composite_rank": 41,
+   "sleeper": 0.9685166226410603,
+   "social_score": 0.0,
+   "reasons": [
+    "Strong setup with low attention: lighter trading volume and little social chatter",
+    "Relative strength rating 94 (beating 94% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 1.2% below its 52-week high"
+   ],
+   "weeks_on_list": 1
+  }
+ ]
+}
