@@ -19,3 +19,8 @@ episode_date,ticker,slot,ref_close,composite,composite_rank
 2026-10-18,PACS,momentum,46.91,0.838,3
 2026-10-18,VREX,sleeper,18.41,0.7757,41
 2026-10-18,GME,social,26.81,0.6928,267
+2026-10-25,PAGP,momentum,28.61,0.8415,1
+2026-10-25,TBBB,momentum,58.5,0.8409,2
+2026-10-25,HNGE,momentum,111.52,0.8318,3
+2026-10-25,MG,sleeper,21.53,0.7845,39
+2026-10-25,PANW,social,380.55,0.7018,288

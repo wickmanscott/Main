@@ -1,5 +1,24 @@
 [
  {
+  "date": "2026-10-25",
+  "title": "Week of October 26th, 2026. $PAGP $TBBB $HNGE $PANW $MG",
+  "guid": "stock-watchlist-2026-10-25",
+  "pub_date": "Sun, 25 Oct 2026 23:38:45 +0000",
+  "summary": "5 stocks for your watchlist: PAGP, TBBB, HNGE, PANW, MG. Not financial advice.",
+  "notes_html": "<h1>Week of October 26th, 2026. $PAGP $TBBB $HNGE $PANW $MG</h1>\n<p>5 stocks to add to your watchlist every week. Brief and to the point.</p>\n<ul>\n<li><strong>$PAGP</strong> (momentum): Relative strength rating 87 (beating 87% of the market). Watching 28.16 / invalidation 27.42.</li>\n<li><strong>$TBBB</strong> (momentum): Relative strength rating 94 (beating 94% of the market). Watching 59.6 / invalidation 54.05.</li>\n<li><strong>$HNGE</strong> (momentum): Relative strength rating 98 (beating 98% of the market). Watching 113.48 / invalidation 100.03.</li>\n<li><strong>$PANW</strong> (social): Reddit buzz: 4 mentions in 24h (+20% vs the prior day). Watching 432.33 / invalidation 370.35.</li>\n<li><strong>$MG</strong> (sleeper): Strong setup with low attention: lighter trading volume and little social chatter. Watching 21.92 / invalidation 20.51.</li>\n</ul>\n<p><em>I&#x27;m not a financial advisor and this isn&#x27;t financial advice. Always do your own DD before putting money into any stock.</em></p>",
+  "tickers": [
+   "PAGP",
+   "TBBB",
+   "HNGE",
+   "PANW",
+   "MG"
+  ],
+  "script_source": "template",
+  "audio_url": null,
+  "audio_bytes": null,
+  "duration_sec": null
+ },
+ {
   "date": "2026-10-18",
   "title": "Week of October 19th, 2026. $CON $TBBB $PACS $GME $VREX",
   "guid": "stock-watchlist-2026-10-18",
