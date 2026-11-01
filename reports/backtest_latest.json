@@ -1,0 +1,244 @@
+{
+ "generated": "2026-11-01",
+ "results": {
+  "5": {
+   "horizon_days": 5,
+   "periods": 260,
+   "start": "2021-11-05",
+   "end": "2026-10-23",
+   "picks": 1300,
+   "hit_rate": 0.5138461538461538,
+   "beat_benchmark_rate": 0.4876923076923077,
+   "avg_pick_return": 0.004015878823075703,
+   "median_pick_return": 0.0013224117715392456,
+   "avg_excess_vs_benchmark": 0.0015812815661879268,
+   "avg_excess_vs_universe": 0.0012258755699230235,
+   "mean_ic": 0.006057571973068222,
+   "ic_tstat": 0.5609641553134079,
+   "ic_positive_rate": 0.5269230769230769,
+   "top_minus_bottom_quintile": -0.0006209176662869126,
+   "best_pick": {
+    "date": "2026-03-27",
+    "ticker": "ORKA",
+    "ret": 0.26488817599726977
+   },
+   "worst_pick": {
+    "date": "2025-02-14",
+    "ticker": "PRAX",
+    "ret": -0.26614650824509134
+   },
+   "by_slot": {
+    "momentum": {
+     "picks": 1040,
+     "hit_rate": 0.5134615384615384,
+     "avg_excess_vs_benchmark": 0.001959192373407834
+    },
+    "sleeper": {
+     "picks": 260,
+     "hit_rate": 0.5153846153846153,
+     "avg_excess_vs_benchmark": 6.96383373083006e-05
+    }
+   },
+   "equity": {
+    "strategy_total_return": 1.438314416308347,
+    "benchmark_total_return": 0.7695217798692804,
+    "strategy_cagr": 0.18860034171204632,
+    "benchmark_cagr": 0.11698133323787707,
+    "strategy_sharpe": 0.8342575358202317,
+    "benchmark_sharpe": 0.7911694518476129,
+    "strategy_max_drawdown": -0.28517348297390255,
+    "benchmark_max_drawdown": -0.16892387799425057
+   }
+  },
+  "10": {
+   "horizon_days": 10,
+   "periods": 259,
+   "start": "2021-11-05",
+   "end": "2026-10-16",
+   "picks": 1295,
+   "hit_rate": 0.5644787644787644,
+   "beat_benchmark_rate": 0.522007722007722,
+   "avg_pick_return": 0.010097195792161982,
+   "median_pick_return": 0.008442490736623287,
+   "avg_excess_vs_benchmark": 0.005260730022944562,
+   "avg_excess_vs_universe": 0.004434383559669817,
+   "mean_ic": 0.006645687963386556,
+   "ic_tstat": 0.6485375954463138,
+   "ic_positive_rate": 0.5482625482625483,
+   "top_minus_bottom_quintile": -0.0003886748102108829,
+   "best_pick": {
+    "date": "2026-04-24",
+    "ticker": "FLEX",
+    "ret": 0.5434866209184813
+   },
+   "worst_pick": {
+    "date": "2025-02-14",
+    "ticker": "PRAX",
+    "ret": -0.6314252072240399
+   },
+   "by_slot": {
+    "momentum": {
+     "picks": 1036,
+     "hit_rate": 0.5656370656370656,
+     "avg_excess_vs_benchmark": 0.004892085755857178
+    },
+    "sleeper": {
+     "picks": 259,
+     "hit_rate": 0.5598455598455598,
+     "avg_excess_vs_benchmark": 0.006735307091294095
+    }
+   }
+  },
+  "21": {
+   "horizon_days": 21,
+   "periods": 256,
+   "start": "2021-11-05",
+   "end": "2026-09-25",
+   "picks": 1280,
+   "hit_rate": 0.56015625,
+   "beat_benchmark_rate": 0.4984375,
+   "avg_pick_return": 0.022218129276165642,
+   "median_pick_return": 0.01248069518021433,
+   "avg_excess_vs_benchmark": 0.010945629069358987,
+   "avg_excess_vs_universe": 0.00997429846075304,
+   "mean_ic": 0.014133977248747123,
+   "ic_tstat": 1.4445485638325612,
+   "ic_positive_rate": 0.56640625,
+   "top_minus_bottom_quintile": 0.0013618832292337565,
+   "best_pick": {
+    "date": "2026-04-10",
+    "ticker": "FLEX",
+    "ret": 0.9088210778398126
+   },
+   "worst_pick": {
+    "date": "2025-02-14",
+    "ticker": "PRAX",
+    "ret": -0.5954040516640619
+   },
+   "by_slot": {
+    "momentum": {
+     "picks": 1024,
+     "hit_rate": 0.55859375,
+     "avg_excess_vs_benchmark": 0.009782336730975325
+    },
+    "sleeper": {
+     "picks": 256,
+     "hit_rate": 0.56640625,
+     "avg_excess_vs_benchmark": 0.015598798422893625
+    }
+   }
+  }
+ },
+ "walk_forward": {
+  "weights": {
+   "rs": 0.087,
+   "mom_12_1": 0.1175,
+   "prox_52w_high": 0.0846,
+   "accel": 0.0994,
+   "ud_volume": 0.1029,
+   "rel_volume": 0.1639,
+   "tightness": 0.0563,
+   "trend_template": 0.1437,
+   "rsi_sweet": 0.0507,
+   "breakout": 0.0941
+  },
+  "oos_tuned": {
+   "horizon_days": 5,
+   "periods": 156,
+   "start": "2023-11-03",
+   "end": "2026-10-23",
+   "picks": 780,
+   "hit_rate": 0.5166666666666667,
+   "beat_benchmark_rate": 0.49615384615384617,
+   "avg_pick_return": 0.005786620140869756,
+   "median_pick_return": 0.001967324012711048,
+   "avg_excess_vs_benchmark": 0.0023390637727908024,
+   "avg_excess_vs_universe": 0.0017001813276095856,
+   "mean_ic": 0.0019323457477198186,
+   "ic_tstat": 0.1710881280843065,
+   "ic_positive_rate": 0.5,
+   "top_minus_bottom_quintile": -0.0001942219542700716,
+   "best_pick": {
+    "date": "2026-05-15",
+    "ticker": "NVTS",
+    "ret": 0.3506636240753237
+   },
+   "worst_pick": {
+    "date": "2026-05-01",
+    "ticker": "PRIM",
+    "ret": -0.4233348991170258
+   },
+   "by_slot": {
+    "momentum": {
+     "picks": 624,
+     "hit_rate": 0.5160256410256411,
+     "avg_excess_vs_benchmark": 0.0020380283049646866
+    },
+    "sleeper": {
+     "picks": 156,
+     "hit_rate": 0.5192307692307693,
+     "avg_excess_vs_benchmark": 0.003543205644095265
+    }
+   },
+   "equity": {
+    "strategy_total_return": 1.1039771158630867,
+    "benchmark_total_return": 0.658215174985439,
+    "strategy_cagr": 0.271648537532299,
+    "benchmark_cagr": 0.17749996090461706,
+    "strategy_sharpe": 0.9120747580231905,
+    "benchmark_sharpe": 1.2174252911697674,
+    "strategy_max_drawdown": -0.3138917899326297,
+    "benchmark_max_drawdown": -0.16892387799425035
+   }
+  },
+  "oos_default": {
+   "horizon_days": 5,
+   "periods": 156,
+   "start": "2023-11-03",
+   "end": "2026-10-23",
+   "picks": 780,
+   "hit_rate": 0.5525641025641026,
+   "beat_benchmark_rate": 0.5025641025641026,
+   "avg_pick_return": 0.008254083668876441,
+   "median_pick_return": 0.004268513228758764,
+   "avg_excess_vs_benchmark": 0.004806527300797487,
+   "avg_excess_vs_universe": 0.0041676448556162695,
+   "mean_ic": 0.009428249253992323,
+   "ic_tstat": 0.7543975799136716,
+   "ic_positive_rate": 0.5128205128205128,
+   "top_minus_bottom_quintile": -3.808164767345653e-05,
+   "best_pick": {
+    "date": "2026-03-27",
+    "ticker": "ORKA",
+    "ret": 0.26488817599726977
+   },
+   "worst_pick": {
+    "date": "2025-02-14",
+    "ticker": "PRAX",
+    "ret": -0.26614650824509134
+   },
+   "by_slot": {
+    "momentum": {
+     "picks": 624,
+     "hit_rate": 0.5512820512820513,
+     "avg_excess_vs_benchmark": 0.0047478006775798385
+    },
+    "sleeper": {
+     "picks": 156,
+     "hit_rate": 0.5576923076923077,
+     "avg_excess_vs_benchmark": 0.005041433793668085
+    }
+   },
+   "equity": {
+    "strategy_total_return": 2.288569655561803,
+    "benchmark_total_return": 0.658215174985439,
+    "strategy_cagr": 0.46903805210247573,
+    "benchmark_cagr": 0.17749996090461706,
+    "strategy_sharpe": 1.6890254748987454,
+    "benchmark_sharpe": 1.2174252911697674,
+    "strategy_max_drawdown": -0.25321128173294394,
+    "benchmark_max_drawdown": -0.16892387799425035
+   }
+  }
+ }
+}
