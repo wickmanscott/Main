@@ -1,0 +1,395 @@
+{
+ "show": {
+  "title": "The (Stock) Watchlist",
+  "host": "Scott Wickman",
+  "handle": "@scottiewick",
+  "tagline": "5 stocks to add to your watchlist every week. Brief and to the point."
+ },
+ "data_as_of": "2026-10-30",
+ "week_of": "2026-11-02",
+ "title": "Week of November 2nd, 2026. $AMRX $TGTX $RLJ $SAP $KRT",
+ "market_pulse": {
+  "SPY": {
+   "close": 755.72,
+   "ret_1w": -0.0056,
+   "ret_1m": -0.0108,
+   "above_50d": false,
+   "above_200d": true
+  },
+  "QQQ": {
+   "close": 690.49,
+   "ret_1w": -0.0197,
+   "ret_1m": -0.0695,
+   "above_50d": false,
+   "above_200d": true
+  },
+  "IWM": {
+   "close": 279.33,
+   "ret_1w": 0.013,
+   "ret_1m": 0.0011,
+   "above_50d": false,
+   "above_200d": true
+  },
+  "breadth": {
+   "universe_size": 2858,
+   "pct_above_50d": 0.472,
+   "pct_stage2_uptrend": 0.409,
+   "pct_within_5pct_of_52w_high": 0.141
+  }
+ },
+ "last_week_scorecard": {
+  "episode_date": "2026-10-25",
+  "benchmark": "SPY",
+  "picks": [
+   {
+    "ticker": "PAGP",
+    "slot": "momentum",
+    "ret": 0.0147,
+    "benchmark_ret": -0.0086,
+    "beat_benchmark": true
+   },
+   {
+    "ticker": "TBBB",
+    "slot": "momentum",
+    "ret": -0.0282,
+    "benchmark_ret": -0.0086,
+    "beat_benchmark": false
+   },
+   {
+    "ticker": "HNGE",
+    "slot": "momentum",
+    "ret": 0.0235,
+    "benchmark_ret": -0.0086,
+    "beat_benchmark": true
+   },
+   {
+    "ticker": "MG",
+    "slot": "sleeper",
+    "ret": -0.0623,
+    "benchmark_ret": -0.0086,
+    "beat_benchmark": false
+   },
+   {
+    "ticker": "PANW",
+    "slot": "social",
+    "ret": -0.0477,
+    "benchmark_ret": -0.0086,
+    "beat_benchmark": false
+   }
+  ],
+  "avg_ret": -0.02,
+  "benchmark_ret": -0.0086,
+  "winners": 2,
+  "beat_benchmark": 2,
+  "best": "HNGE",
+  "worst": "MG"
+ },
+ "live_track_record": {
+  "episodes": 5,
+  "picks_scored": 25,
+  "hold_sessions": 5,
+  "hit_rate": 0.32,
+  "beat_benchmark_rate": 0.44,
+  "avg_ret": -0.0353,
+  "avg_excess": -0.0312
+ },
+ "model_backtest": {
+  "as_of": "2026-11-01",
+  "out_of_sample": true,
+  "periods": 156,
+  "hit_rate": 0.5166666666666667,
+  "beat_benchmark_rate": 0.49615384615384617,
+  "avg_excess_vs_benchmark": 0.0023390637727908024
+ },
+ "picks": [
+  {
+   "ticker": "AMRX",
+   "ticker_spoken": "A-M-R-X",
+   "slot": "momentum",
+   "weeks_on_list": 1,
+   "name": "Amneal Pharmaceuticals, Inc.",
+   "sector": "Healthcare",
+   "industry": "Drug Manufacturers - Specialty & Generic",
+   "market_cap": 7491847680,
+   "business_summary": "Amneal Pharmaceuticals, Inc., a global biopharmaceutical company, develops, manufactures, markets, and distributes generics, injectables, biosimilars, and specialty branded pharmaceutical products in the United States, India, Ireland, and internationally. The company operates through three segments: Affordable Medicines, Specialty, and AvKARE. The Affordable Medicines segment offers dosage forms and delivery systems, which include immediate and extended-release oral solids, powders, liquids, sterile injectables, nasal sprays, inhalation and respiratory products, biosimilar products, ophthalmic",
+   "reasons": [
+    "Relative strength rating 93 (beating 93% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 0.8% below its 52-week high"
+   ],
+   "scores": {
+    "composite": 0.872,
+    "composite_rank": 1,
+    "rs_rating": 93.0,
+    "sleeper": 0.889,
+    "social": 0.0
+   },
+   "performance": {
+    "ret_1w": 0.055,
+    "ret_1m": 0.072,
+    "ret_3m": 0.141,
+    "ret_6m": 0.677
+   },
+   "technicals": {
+    "trend_checks_passed": 8,
+    "rsi": 67.7,
+    "volume_vs_50d_avg": 1.18,
+    "up_down_volume_ratio": 1.47,
+    "pct_below_52w_high": 0.008,
+    "rs_line_at_high": true,
+    "recent_breakout": true
+   },
+   "levels": {
+    "price": 21.51,
+    "pivot_20d_high": 21.68,
+    "above_pivot": false,
+    "sma20": 20.18,
+    "sma50": 19.12,
+    "high_52w": 21.68,
+    "support_10d_low": 18.95,
+    "invalidation": 19.96,
+    "avg_daily_range_pct": 0.029
+   },
+   "social": null,
+   "next_earnings": "2026-11-03",
+   "news": [],
+   "risk_flags": [
+    "Earnings on 2026-11-03: expect a big move either way"
+   ]
+  },
+  {
+   "ticker": "TGTX",
+   "ticker_spoken": "T-G-T-X",
+   "slot": "momentum",
+   "weeks_on_list": 1,
+   "name": "TG Therapeutics, Inc.",
+   "sector": "Healthcare",
+   "industry": "Biotechnology",
+   "market_cap": 9365653504,
+   "business_summary": "TG Therapeutics, Inc., a commercial stage biopharmaceutical company, focuses on the acquisition, development, and commercialization of novel treatments for B-cell mediated diseases in the United States and internationally. The company provides BRIUMVI, an anti-CD20 monoclonal antibody for the treatment of adult patients with relapsing forms of multiple sclerosis (RMS), including clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease in adults. The company's development pipeline comprises Ublituximab IV, glycoengineered anti-CD20 mAb for the treatmen",
+   "reasons": [
+    "Trending on StockTwits",
+    "Relative strength rating 95 (beating 95% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 0.9% below its 52-week high"
+   ],
+   "scores": {
+    "composite": 0.855,
+    "composite_rank": 2,
+    "rs_rating": 95.0,
+    "sleeper": 0.779,
+    "social": 0.6
+   },
+   "performance": {
+    "ret_1w": 0.129,
+    "ret_1m": 0.141,
+    "ret_3m": 0.325,
+    "ret_6m": 0.807
+   },
+   "technicals": {
+    "trend_checks_passed": 8,
+    "rsi": 69.7,
+    "volume_vs_50d_avg": 0.93,
+    "up_down_volume_ratio": 1.68,
+    "pct_below_52w_high": 0.009,
+    "rs_line_at_high": true,
+    "recent_breakout": true
+   },
+   "levels": {
+    "price": 61.18,
+    "pivot_20d_high": 58.96,
+    "above_pivot": true,
+    "sma20": 54.9,
+    "sma50": 55.33,
+    "high_52w": 61.76,
+    "support_10d_low": 51.83,
+    "invalidation": 55.33,
+    "avg_daily_range_pct": 0.039
+   },
+   "social": {
+    "stocktwits_trending": true
+   },
+   "next_earnings": "2026-11-02",
+   "news": [],
+   "risk_flags": [
+    "Earnings on 2026-11-02: expect a big move either way",
+    "High short interest (28% of float): squeezes cut both ways"
+   ]
+  },
+  {
+   "ticker": "RLJ",
+   "ticker_spoken": "R-L-J",
+   "slot": "momentum",
+   "weeks_on_list": 1,
+   "name": "RLJ Lodging Trust",
+   "sector": "Real Estate",
+   "industry": "REIT - Hotel & Motel",
+   "market_cap": 1931181056,
+   "business_summary": "RLJ Lodging Trust is a self-advised, publicly traded real estate investment trust that owns 91 premium-branded, rooms-oriented, high-margin, focused-service and compact full-service hotels located within the heart of demand locations. We own a geographically diversified portfolio of hotels located in urban markets that exhibit multiple demand generators and attractive long-term growth prospects. RLJ Lodging Trust was established in 2011 and was incorporated in Maryland.",
+   "reasons": [
+    "Relative strength rating 91 (beating 91% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 1.0% below its 52-week high"
+   ],
+   "scores": {
+    "composite": 0.836,
+    "composite_rank": 3,
+    "rs_rating": 91.0,
+    "sleeper": 0.833,
+    "social": 0.0
+   },
+   "performance": {
+    "ret_1w": 0.046,
+    "ret_1m": 0.142,
+    "ret_3m": 0.036,
+    "ret_6m": 0.56
+   },
+   "technicals": {
+    "trend_checks_passed": 8,
+    "rsi": 72.9,
+    "volume_vs_50d_avg": 1.16,
+    "up_down_volume_ratio": 1.55,
+    "pct_below_52w_high": 0.01,
+    "rs_line_at_high": true,
+    "recent_breakout": true
+   },
+   "levels": {
+    "price": 12.61,
+    "pivot_20d_high": 12.74,
+    "above_pivot": false,
+    "sma20": 11.82,
+    "sma50": 11.29,
+    "high_52w": 12.74,
+    "support_10d_low": 11.6,
+    "invalidation": 11.74,
+    "avg_daily_range_pct": 0.028
+   },
+   "social": null,
+   "next_earnings": "2026-11-04",
+   "news": [],
+   "risk_flags": [
+    "Earnings on 2026-11-04: expect a big move either way",
+    "Small cap (about $1,931 million): moves fast both directions"
+   ]
+  },
+  {
+   "ticker": "SAP",
+   "ticker_spoken": "S-A-P",
+   "slot": "social",
+   "weeks_on_list": 1,
+   "name": "SAP SE",
+   "sector": "Technology",
+   "industry": "Software - Application",
+   "market_cap": 271261089792,
+   "business_summary": "SAP SE, together with its subsidiaries, provides enterprise application and business solutions worldwide. It offers SAP Business AI; SAP S/4HANA that provides software capabilities for finance, risk and project management, procurement, manufacturing, supply chain and asset management, and research and development; SAP SuccessFactors solutions for human resources, including HR, time, payroll, talent and employee experience management, and analytics and planning; and spend management solutions that covers direct and indirect spend, travel and expense, and external workforce management. The compa",
+   "reasons": [
+    "Reddit buzz: 3 mentions in 24h (+40% vs the prior day)",
+    "Relative strength rating 76 (beating 76% of the market)",
+    "Passes 6/8 stage-2 uptrend checks",
+    "Trading 10.1% below its 52-week high"
+   ],
+   "scores": {
+    "composite": 0.645,
+    "composite_rank": 580,
+    "rs_rating": 76.0,
+    "sleeper": 0.58,
+    "social": 0.945
+   },
+   "performance": {
+    "ret_1w": -0.013,
+    "ret_1m": 0.115,
+    "ret_3m": 0.239,
+    "ret_6m": 0.4
+   },
+   "technicals": {
+    "trend_checks_passed": 6,
+    "rsi": 66.3,
+    "volume_vs_50d_avg": 0.93,
+    "up_down_volume_ratio": 1.08,
+    "pct_below_52w_high": 0.101,
+    "rs_line_at_high": false,
+    "recent_breakout": false
+   },
+   "levels": {
+    "price": 235.02,
+    "pivot_20d_high": 243.05,
+    "above_pivot": false,
+    "sma20": 225.49,
+    "sma50": 217.89,
+    "high_52w": 261.34,
+    "support_10d_low": 222.31,
+    "invalidation": 221.7,
+    "avg_daily_range_pct": 0.023
+   },
+   "social": {
+    "reddit_mentions_24h": 3.0,
+    "reddit_mentions_prior_24h": 1.0,
+    "mention_change": 0.4,
+    "reddit_rank": 43.0
+   },
+   "next_earnings": "2027-01-28",
+   "news": [],
+   "risk_flags": [
+    "Heavy social hype: crowded trades can reverse hard"
+   ]
+  },
+  {
+   "ticker": "KRT",
+   "ticker_spoken": "K-R-T",
+   "slot": "sleeper",
+   "weeks_on_list": 1,
+   "name": "Karat Packaging Inc.",
+   "sector": "Consumer Cyclical",
+   "industry": "Packaging & Containers",
+   "market_cap": 1075714944,
+   "business_summary": "Karat Packaging Inc., together with its subsidiaries, engages in the manufacture and distribution of single-use disposable products in plastic, paper, biopolymer-based, and other compostable forms used in various restaurant and foodservice settings. It offers food and take-out containers, bags, boxes, tableware, cups, lids, cutlery, straws, specialty beverage ingredients, gloves, utensils, janitorial and warehouse supplies, and other products under the Karat Earth brand. The company also distributes food and beverage items, such as syrups, boba tea, and coffee drinks; and provides new product ",
+   "reasons": [
+    "Strong setup with low attention: lighter trading volume and little social chatter",
+    "Relative strength rating 97 (beating 97% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 3.7% below its 52-week high"
+   ],
+   "scores": {
+    "composite": 0.766,
+    "composite_rank": 64,
+    "rs_rating": 97.0,
+    "sleeper": 0.933,
+    "social": 0.0
+   },
+   "performance": {
+    "ret_1w": 0.018,
+    "ret_1m": 0.011,
+    "ret_3m": 0.337,
+    "ret_6m": 0.913
+   },
+   "technicals": {
+    "trend_checks_passed": 8,
+    "rsi": 55.0,
+    "volume_vs_50d_avg": 0.82,
+    "up_down_volume_ratio": 1.28,
+    "pct_below_52w_high": 0.037,
+    "rs_line_at_high": true,
+    "recent_breakout": false
+   },
+   "levels": {
+    "price": 53.97,
+    "pivot_20d_high": 56.06,
+    "above_pivot": false,
+    "sma20": 53.93,
+    "sma50": 51.55,
+    "high_52w": 56.06,
+    "support_10d_low": 52.65,
+    "invalidation": 51.55,
+    "avg_daily_range_pct": 0.028
+   },
+   "social": null,
+   "next_earnings": "2026-11-05",
+   "news": [],
+   "risk_flags": [
+    "Earnings on 2026-11-05: expect a big move either way",
+    "Small cap (about $1,076 million): moves fast both directions"
+   ]
+  }
+ ],
+ "disclaimer": "I'm not a financial advisor and this isn't financial advice. Always do your own DD before putting money into any stock."
+}

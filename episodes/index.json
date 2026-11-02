@@ -1,5 +1,24 @@
 [
  {
+  "date": "2026-11-02",
+  "title": "Week of November 2nd, 2026. $AMRX $TGTX $RLJ $SAP $KRT",
+  "guid": "stock-watchlist-2026-11-02",
+  "pub_date": "Mon, 02 Nov 2026 01:09:39 +0000",
+  "summary": "5 stocks for your watchlist: AMRX, TGTX, RLJ, SAP, KRT. Not financial advice.",
+  "notes_html": "<h1>Week of November 2nd, 2026. $AMRX $TGTX $RLJ $SAP $KRT</h1>\n<p>5 stocks to add to your watchlist every week. Brief and to the point.</p>\n<ul>\n<li><strong>$AMRX</strong> (momentum): Relative strength rating 93 (beating 93% of the market). Watching 21.68 / invalidation 19.96.</li>\n<li><strong>$TGTX</strong> (momentum): Trending on StockTwits. Watching 58.96 / invalidation 55.33.</li>\n<li><strong>$RLJ</strong> (momentum): Relative strength rating 91 (beating 91% of the market). Watching 12.74 / invalidation 11.74.</li>\n<li><strong>$SAP</strong> (social): Reddit buzz: 3 mentions in 24h (+40% vs the prior day). Watching 243.05 / invalidation 221.7.</li>\n<li><strong>$KRT</strong> (sleeper): Strong setup with low attention: lighter trading volume and little social chatter. Watching 56.06 / invalidation 51.55.</li>\n</ul>\n<p><em>I&#x27;m not a financial advisor and this isn&#x27;t financial advice. Always do your own DD before putting money into any stock.</em></p>",
+  "tickers": [
+   "AMRX",
+   "TGTX",
+   "RLJ",
+   "SAP",
+   "KRT"
+  ],
+  "script_source": "template",
+  "audio_url": null,
+  "audio_bytes": null,
+  "duration_sec": null
+ },
+ {
   "date": "2026-10-25",
   "title": "Week of October 26th, 2026. $PAGP $TBBB $HNGE $PANW $MG",
   "guid": "stock-watchlist-2026-10-25",
