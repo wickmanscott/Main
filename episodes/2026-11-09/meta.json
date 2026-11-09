@@ -1,0 +1,83 @@
+{
+ "title": "Week of November 9th, 2026. $TBBB $BRZE $FOSL $PR $IDT",
+ "script_source": "template",
+ "words": 506,
+ "validation_issues": [
+  "too short: 506 words (target 900-1400)"
+ ],
+ "weights_source": "settings.yaml",
+ "picks": [
+  {
+   "ticker": "TBBB",
+   "slot": "momentum",
+   "composite": 0.8622093019561464,
+   "composite_rank": 1,
+   "sleeper": 0.8663308805949681,
+   "social_score": 0.0,
+   "reasons": [
+    "Relative strength rating 97 (beating 97% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 0.4% below its 52-week high"
+   ],
+   "weeks_on_list": 1
+  },
+  {
+   "ticker": "BRZE",
+   "slot": "momentum",
+   "composite": 0.8463863347575618,
+   "composite_rank": 2,
+   "sleeper": 0.9008010175041294,
+   "social_score": 0.0,
+   "reasons": [
+    "Relative strength rating 98 (beating 98% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 0.9% below its 52-week high"
+   ],
+   "weeks_on_list": 1
+  },
+  {
+   "ticker": "FOSL",
+   "slot": "momentum",
+   "composite": 0.8387302533213689,
+   "composite_rank": 3,
+   "sleeper": 0.8949911708700607,
+   "social_score": 0.0,
+   "reasons": [
+    "Relative strength rating 98 (beating 98% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 3.2% below its 52-week high"
+   ],
+   "weeks_on_list": 1
+  },
+  {
+   "ticker": "PR",
+   "slot": "social",
+   "composite": 0.679026967957759,
+   "composite_rank": 379,
+   "sleeper": null,
+   "social_score": 0.9529240216201424,
+   "reasons": [
+    "Reddit buzz: 8 mentions in 24h (+140% vs the prior day)",
+    "Relative strength rating 86 (beating 86% of the market)",
+    "Passes 7/8 stage-2 uptrend checks",
+    "+95% over the past year, excluding the last month"
+   ],
+   "weeks_on_list": 1
+  },
+  {
+   "ticker": "IDT",
+   "slot": "sleeper",
+   "composite": 0.7701284813873327,
+   "composite_rank": 74,
+   "sleeper": 0.9434997821541136,
+   "social_score": 0.0,
+   "reasons": [
+    "Strong setup with low attention: lighter trading volume and little social chatter",
+    "Relative strength rating 93 (beating 93% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 2.8% below its 52-week high"
+   ],
+   "weeks_on_list": 1
+  }
+ ]
+}

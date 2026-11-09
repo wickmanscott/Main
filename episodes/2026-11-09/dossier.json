@@ -1,0 +1,543 @@
+{
+ "show": {
+  "title": "The (Stock) Watchlist",
+  "host": "Scott Wickman",
+  "handle": "@scottiewick",
+  "tagline": "5 stocks to add to your watchlist every week. Brief and to the point."
+ },
+ "data_as_of": "2026-11-06",
+ "week_of": "2026-11-09",
+ "title": "Week of November 9th, 2026. $TBBB $BRZE $FOSL $PR $IDT",
+ "market_pulse": {
+  "SPY": {
+   "close": 735.29,
+   "ret_1w": -0.027,
+   "ret_1m": -0.0499,
+   "above_50d": false,
+   "above_200d": true
+  },
+  "QQQ": {
+   "close": 656.1,
+   "ret_1w": -0.0498,
+   "ret_1m": -0.1224,
+   "above_50d": false,
+   "above_200d": false
+  },
+  "IWM": {
+   "close": 273.67,
+   "ret_1w": -0.0203,
+   "ret_1m": -0.0141,
+   "above_50d": false,
+   "above_200d": false
+  },
+  "breadth": {
+   "universe_size": 2871,
+   "pct_above_50d": 0.486,
+   "pct_stage2_uptrend": 0.393,
+   "pct_within_5pct_of_52w_high": 0.099
+  }
+ },
+ "last_week_scorecard": {
+  "episode_date": "2026-11-02",
+  "benchmark": "SPY",
+  "picks": [
+   {
+    "ticker": "AMRX",
+    "slot": "momentum",
+    "ret": 0.0105,
+    "benchmark_ret": -0.0232,
+    "beat_benchmark": true
+   },
+   {
+    "ticker": "TGTX",
+    "slot": "momentum",
+    "ret": -0.007,
+    "benchmark_ret": -0.0232,
+    "beat_benchmark": true
+   },
+   {
+    "ticker": "RLJ",
+    "slot": "momentum",
+    "ret": -0.0234,
+    "benchmark_ret": -0.0232,
+    "beat_benchmark": false
+   },
+   {
+    "ticker": "KRT",
+    "slot": "sleeper",
+    "ret": -0.3678,
+    "benchmark_ret": -0.0232,
+    "beat_benchmark": false
+   },
+   {
+    "ticker": "SAP",
+    "slot": "social",
+    "ret": 0.0211,
+    "benchmark_ret": -0.0232,
+    "beat_benchmark": true
+   }
+  ],
+  "avg_ret": -0.0733,
+  "benchmark_ret": -0.0232,
+  "winners": 2,
+  "beat_benchmark": 3,
+  "best": "SAP",
+  "worst": "KRT"
+ },
+ "live_track_record": {
+  "episodes": 6,
+  "picks_scored": 25,
+  "hold_sessions": 5,
+  "hit_rate": 0.32,
+  "beat_benchmark_rate": 0.44,
+  "avg_ret": -0.0353,
+  "avg_excess": -0.0312
+ },
+ "model_backtest": {
+  "as_of": "2026-11-01",
+  "out_of_sample": true,
+  "periods": 156,
+  "hit_rate": 0.5166666666666667,
+  "beat_benchmark_rate": 0.49615384615384617,
+  "avg_excess_vs_benchmark": 0.0023390637727908024
+ },
+ "picks": [
+  {
+   "ticker": "TBBB",
+   "ticker_spoken": "T-B-B-B",
+   "slot": "momentum",
+   "weeks_on_list": 1,
+   "name": "BBB Foods Inc.",
+   "sector": "Consumer Defensive",
+   "industry": "Discount Stores",
+   "market_cap": 7911329792,
+   "business_summary": "BBB Foods Inc., through its subsidiaries, operates a chain of grocery retail stores in Mexico. The company provides spot products comprising food and non-food products, such as clothing, electronics, household goods, and others. It also provides branded and private label products. The company serves low-to-middle income households. BBB Foods Inc. was incorporated in 2004 and is headquartered in Mexico City, Mexico.",
+   "reasons": [
+    "Relative strength rating 97 (beating 97% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 0.4% below its 52-week high"
+   ],
+   "scores": {
+    "composite": 0.862,
+    "composite_rank": 1,
+    "rs_rating": 97.0,
+    "sleeper": 0.866,
+    "social": 0.0
+   },
+   "performance": {
+    "ret_1w": 0.159,
+    "ret_1m": 0.236,
+    "ret_3m": 0.614,
+    "ret_6m": 0.723
+   },
+   "technicals": {
+    "trend_checks_passed": 8,
+    "rsi": 76.5,
+    "volume_vs_50d_avg": 1.86,
+    "up_down_volume_ratio": 1.56,
+    "pct_below_52w_high": 0.004,
+    "rs_line_at_high": true,
+    "recent_breakout": true
+   },
+   "levels": {
+    "price": 65.62,
+    "pivot_20d_high": 65.91,
+    "above_pivot": false,
+    "sma20": 58.67,
+    "sma50": 54.48,
+    "high_52w": 65.91,
+    "support_10d_low": 55.43,
+    "invalidation": 60.57,
+    "avg_daily_range_pct": 0.031
+   },
+   "social": null,
+   "next_earnings": null,
+   "news": [
+    {
+     "title": "BBB Foods Same-Store Sales Jump 20.5%: Rapid Earnings Reaction",
+     "publisher": "Motley Fool",
+     "url": "https://www.fool.com/investing/2026/11/04/bbb-foods-same-store-sales-jump-20-5-rapid-earnings-reaction/",
+     "published": "2026-11-04T18:55:53Z",
+     "summary": "Mexico's fast-growing grocery discounter is getting more out of the stores it already has. Here's what that means for its margins, its thin profit, and its cash."
+    },
+    {
+     "title": "What BBB Foods (TBBB) Said on Its Q3 Earnings Call",
+     "publisher": "MarketBeat",
+     "url": "https://www.marketbeat.com/instant-alerts/transcript-what-bbb-foods-tbbb-said-on-its-q3-earnings-call-2026-11-04/?utm_source=yahoofinance&utm_medium=yahoofinance",
+     "published": "2026-11-04T10:14:14Z",
+     "summary": "BBB Foods (NYSE:TBBB), operator of Tiendas 3B, reported continued growth in the third quarter of 2026, driven by rapid store expansion, same-store sales gains and operating leverage. The company said it opened 141 net new stores during the quarter, bringing its network to 3,765 locations. Over the"
+    },
+    {
+     "title": "BBB Foods: 3 Key Takeaways for Long-Term Investors",
+     "publisher": "Motley Fool",
+     "url": "https://www.fool.com/earnings/takeaways/2026/11/03/bbb-foods-3-key-takeaways-for-long-term-investors/",
+     "published": "2026-11-04T00:25:48Z",
+     "summary": "BBB Foods\u2019 newer stores start stronger and ramp faster than older ones, which could mean quicker payback on every opening."
+    },
+    {
+     "title": "BBB Foods (TBBB) Shares Just Moved, So What Is Going On?",
+     "publisher": "Simply Wall St.",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/bbb-foods-tbbb-shares-just-002049809.html",
+     "published": "2026-11-04T00:20:49Z",
+     "summary": "BBB Foods (TBBB) just delivered third quarter 2026 results that cleared Wall Street\u2019s bar, with revenue up more than 40%, same store sales ahead by 20.5%, and net profit turning positive. BBB Foods has already seen the strong quarter reflected in its trading, with the share price up 50.11% over the "
+    },
+    {
+     "title": "BBB Foods (TBBB) Q3 2026 Earnings Call Transcript",
+     "publisher": "Motley Fool",
+     "url": "https://www.fool.com/earnings/call-transcripts/2026/11/03/bbb-foods-tbbb-q3-2026-earnings-call-transcript/",
+     "published": "2026-11-03T21:19:52Z",
+     "summary": "Management weighed a new Mexican tax law's cash flow impact on expansion."
+    }
+   ],
+   "risk_flags": [
+    "Overbought: RSI 76"
+   ]
+  },
+  {
+   "ticker": "BRZE",
+   "ticker_spoken": "B-R-Z-E",
+   "slot": "momentum",
+   "weeks_on_list": 1,
+   "name": "Braze, Inc.",
+   "sector": "Technology",
+   "industry": "Software - Application",
+   "market_cap": 5201483264,
+   "business_summary": "Braze, Inc. operates a customer engagement platform that provides interactions between consumers and brands worldwide. It offers Braze software development kits that automatically manage data ingestion and deliver mobile and web notifications, in-application/in-browser interstitial messages, and content cards; REST API to import or export data or to trigger workflows between Braze and brands' existing technology stacks; Partner Data Integrations, that allow brands to sync user cohorts from partners; Data Transformation, in which brands can programmatically sync and transform user data; Braze C",
+   "reasons": [
+    "Relative strength rating 98 (beating 98% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 0.9% below its 52-week high"
+   ],
+   "scores": {
+    "composite": 0.846,
+    "composite_rank": 2,
+    "rs_rating": 98.0,
+    "sleeper": 0.901,
+    "social": 0.0
+   },
+   "performance": {
+    "ret_1w": 0.001,
+    "ret_1m": 0.609,
+    "ret_3m": 0.593,
+    "ret_6m": 1.108
+   },
+   "technicals": {
+    "trend_checks_passed": 8,
+    "rsi": 81.4,
+    "volume_vs_50d_avg": 1.38,
+    "up_down_volume_ratio": 1.68,
+    "pct_below_52w_high": 0.009,
+    "rs_line_at_high": true,
+    "recent_breakout": true
+   },
+   "levels": {
+    "price": 45.79,
+    "pivot_20d_high": 46.2,
+    "above_pivot": false,
+    "sma20": 40.85,
+    "sma50": 32.63,
+    "high_52w": 46.2,
+    "support_10d_low": 45.61,
+    "invalidation": 42.48,
+    "avg_daily_range_pct": 0.029
+   },
+   "social": null,
+   "next_earnings": "2026-12-08",
+   "news": [
+    {
+     "title": "Braze (BRZE) Stock May Be 17% Undervalued Following Its Cash Takeover Offer",
+     "publisher": "Simply Wall St.",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/braze-brze-stock-may-17-061108039.html",
+     "published": "2026-11-08T06:11:08Z",
+     "summary": "Braze has delivered a sharp 63.6% return over the past year, and with a cash offer on the table from Salesforce, the real question for you is how well today's share price lines up with the cash the business is expected to generate over time. The 63.6% 1 year gain puts real weight on the question of "
+    },
+    {
+     "title": "Braze (BRZE), What Is Behind The Attention Now?",
+     "publisher": "Simply Wall St.",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/braze-brze-behind-attention-now-201200280.html",
+     "published": "2026-11-07T20:12:00Z",
+     "summary": "Salesforce deal sends Braze into the spotlight Braze (BRZE) has been in focus after Salesforce agreed to buy the company for US$47.50 per share in cash, a move that quickly pushed the stock up about 72% over a month. Recent trading shows how sharply sentiment around Braze has swung. The 30-day share"
+    },
+    {
+     "title": "FIVN Q3 Earnings & Revenues Surpass Estimates, Both Increase Y/Y",
+     "publisher": "Zacks",
+     "url": "https://finance.yahoo.com/news/fivn-q3-earnings-revenues-surpass-153500224.html",
+     "published": "2026-11-06T15:35:00Z",
+     "summary": "Five9 tops Q3 earnings and revenue estimates on 16% subscription growth, but gross margins narrow as it unveils a $325 million AI acquisition plan."
+    },
+    {
+     "title": "Unity Q3 Earnings Beat Estimates on Vector Strength and Margin Gains",
+     "publisher": "Zacks",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/unity-q3-earnings-beat-estimates-152300876.html",
+     "published": "2026-11-06T15:23:00Z",
+     "summary": "U's Q3 adjusted earnings rise 120% as AI-powered Vector revenues surge 126%, margins widen, and the company posts its first GAAP profit since its IPO."
+    },
+    {
+     "title": "Datadog Q3 Earnings & Revenues Surpass Estimates, Both Rise Y/Y",
+     "publisher": "Zacks",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/datadog-q3-earnings-revenues-surpass-162000674.html",
+     "published": "2026-11-05T16:20:00Z",
+     "summary": "DDOG's Q3 EPS rises 47.3% and revenues climb 35.2%, beating estimates as AI adoption widens. Q4 guidance assumes its largest customer's minimum commitment."
+    }
+   ],
+   "risk_flags": [
+    "Overbought: RSI 81"
+   ]
+  },
+  {
+   "ticker": "FOSL",
+   "ticker_spoken": "F-O-S-L",
+   "slot": "momentum",
+   "weeks_on_list": 1,
+   "name": "Fossil Group, Inc.",
+   "sector": "Consumer Cyclical",
+   "industry": "Footwear & Accessories",
+   "market_cap": 461868192,
+   "business_summary": "Fossil Group, Inc., together with its subsidiaries, designs, develops, markets, and distributes consumer fashion accessories in the United States, Europe, Asia, and internationally. The company's products include traditional watches, smartwatches, jewelry, handbags, small leather goods, belts, and sunglasses. It also manufactures and distributes private label brands. The company offers its products under its proprietary brands, such as FOSSIL, SKAGEN, MICHELE, RELIC, and ZODIAC; and under the licensed brands, including ARMANI EXCHANGE, DIESEL, EMPORIO ARMANI, KATE SPADE NEW YORK, MICHAEL KORS,",
+   "reasons": [
+    "Relative strength rating 98 (beating 98% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 3.2% below its 52-week high"
+   ],
+   "scores": {
+    "composite": 0.839,
+    "composite_rank": 3,
+    "rs_rating": 98.0,
+    "sleeper": 0.895,
+    "social": 0.0
+   },
+   "performance": {
+    "ret_1w": 0.176,
+    "ret_1m": 0.116,
+    "ret_3m": 0.457,
+    "ret_6m": 0.763
+   },
+   "technicals": {
+    "trend_checks_passed": 8,
+    "rsi": 70.2,
+    "volume_vs_50d_avg": 1.38,
+    "up_down_volume_ratio": 1.33,
+    "pct_below_52w_high": 0.032,
+    "rs_line_at_high": true,
+    "recent_breakout": true
+   },
+   "levels": {
+    "price": 7.81,
+    "pivot_20d_high": 8.01,
+    "above_pivot": false,
+    "sma20": 6.92,
+    "sma50": 6.26,
+    "high_52w": 8.07,
+    "support_10d_low": 6.33,
+    "invalidation": 6.75,
+    "avg_daily_range_pct": 0.054
+   },
+   "social": null,
+   "next_earnings": "2026-11-10",
+   "news": [
+    {
+     "title": "Fossil Group\u2019s (FOSL) Turnaround Gains Momentum",
+     "publisher": "Insider Monkey",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/fossil-group-fosl-turnaround-gains-170014784.html",
+     "published": "2026-11-04T17:00:14Z",
+     "summary": "Miller Value Partners, an investment management company, released its \u201cDeep Value Select Strategy\u201d third-quarter 2025 investor letter. The letter can be downloaded here. During the third quarter, market leadership has become unusually concentrated in large AI and technology stocks, increasing valuat"
+    }
+   ],
+   "risk_flags": [
+    "Earnings on 2026-11-10: expect a big move either way",
+    "Small cap (about $462 million): moves fast both directions",
+    "Low-priced stock: bigger percentage swings"
+   ]
+  },
+  {
+   "ticker": "PR",
+   "ticker_spoken": "P-R",
+   "slot": "social",
+   "weeks_on_list": 1,
+   "name": "Permian Resources Corporation",
+   "sector": "Energy",
+   "industry": "Oil & Gas E&P",
+   "market_cap": 18242287616,
+   "business_summary": "Permian Resources Corporation, an independent oil and natural gas company, focuses on the development of crude oil and associated liquids-rich natural gas reserves in the United States. The company's assets primarily focus on the Delaware Basin, a sub-basin of the Permian Basin. Its properties consist of acreage blocks in Reeves County in West Texas and Lea County in New Mexico. The company was formerly known as Centennial Resource Development, Inc. and changed its name to Permian Resources Corporation in September 2022. The company was incorporated in 2015 and is headquartered in Midland, Tex",
+   "reasons": [
+    "Reddit buzz: 8 mentions in 24h (+140% vs the prior day)",
+    "Relative strength rating 86 (beating 86% of the market)",
+    "Passes 7/8 stage-2 uptrend checks",
+    "+95% over the past year, excluding the last month"
+   ],
+   "scores": {
+    "composite": 0.679,
+    "composite_rank": 379,
+    "rs_rating": 86.0,
+    "sleeper": null,
+    "social": 0.953
+   },
+   "performance": {
+    "ret_1w": -0.164,
+    "ret_1m": -0.048,
+    "ret_3m": 0.031,
+    "ret_6m": 0.12
+   },
+   "technicals": {
+    "trend_checks_passed": 7,
+    "rsi": 36.4,
+    "volume_vs_50d_avg": 1.54,
+    "up_down_volume_ratio": 1.03,
+    "pct_below_52w_high": 0.166,
+    "rs_line_at_high": false,
+    "recent_breakout": false
+   },
+   "levels": {
+    "price": 21.75,
+    "pivot_20d_high": 26.07,
+    "above_pivot": false,
+    "sma20": 24.34,
+    "sma50": 23.32,
+    "high_52w": 26.07,
+    "support_10d_low": 21.25,
+    "invalidation": 23.32,
+    "avg_daily_range_pct": 0.043
+   },
+   "social": {
+    "reddit_mentions_24h": 8.0,
+    "reddit_mentions_prior_24h": 1.0,
+    "mention_change": 1.4,
+    "reddit_rank": 37.0
+   },
+   "next_earnings": null,
+   "news": [
+    {
+     "title": "The top 5 analyst questions from Permian Resources\u2019s Q3 2026 earnings call",
+     "publisher": "StockStory",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-permian-220536252.html",
+     "published": "2026-11-08T22:05:36Z",
+     "summary": "Permian Resources delivered Q3 results that exceeded Wall Street\u2019s revenue and profit expectations, underpinned by higher production volumes and disciplined cost control. Management cited operational improvements, including expanded workover activity and the deployment of AI-powered artificial lift "
+    },
+    {
+     "title": "Permian Resources Q3 Earnings Call Highlights",
+     "publisher": "MarketBeat",
+     "url": "https://www.marketbeat.com/instant-alerts/transcript-permian-resources-q3-earnings-call-highlights-2026-11-07/?utm_source=yahoofinance&utm_medium=yahoofinance",
+     "published": "2026-11-08T05:14:13Z",
+     "summary": "Permian Resources (NYSE:PR) reported record free cash flow of $0.98 per share in the third quarter of 2026, as higher production, lower operating costs and improved natural gas prices helped offset a decline in oil prices from the prior quarter. The oil and gas producer also raised its full-year oi"
+    },
+    {
+     "title": "Permian Resources Corp (PR) (Q3 2026) Earnings Call Highlights: Record Free Cash Flow, $1. ...",
+     "publisher": "GuruFocus.com",
+     "url": "https://finance.yahoo.com/energy/articles/permian-resources-corp-pr-q3-151241779.html",
+     "published": "2026-11-07T15:12:41Z",
+     "summary": "Permian Resources Corp (PR) posted record free cash flow of $0.98 per share, cut controllable cash costs to an all-time low and lifted its full-year oil production midpoint to 202,000 barrels per day."
+    },
+    {
+     "title": "3 Oil Stocks Trading At Least 43% Below Future Cash Flow Value",
+     "publisher": "Simply Wall St.",
+     "url": "https://finance.yahoo.com/energy/articles/3-oil-stocks-trading-least-091325867.html",
+     "published": "2026-11-07T09:13:25Z",
+     "summary": "Energy markets are jumpy again as the Iran conflict keeps oil supplies in focus and pushes fuel and heating costs higher for households. When everyday bills feel this sensitive to crude prices, investors often start paying closer attention to large oil and gas producers. This article walks through t"
+    },
+    {
+     "title": "Permian Resources (PR) Lifted Guidance, Is It Still Below Fair Value?",
+     "publisher": "Simply Wall St.",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/permian-resources-pr-lifted-guidance-091214734.html",
+     "published": "2026-11-07T09:12:14Z",
+     "summary": "Permian Resources (PR) just put up a busy third quarter, with higher reported oil, gas and NGL volumes, stronger earnings, record free cash flow, and a higher full year production target grabbing investor attention. Recent price action around Permian Resources reflects that tension between strong op"
+    }
+   ],
+   "risk_flags": [
+    "Heavy social hype: crowded trades can reverse hard"
+   ]
+  },
+  {
+   "ticker": "IDT",
+   "ticker_spoken": "I-D-T",
+   "slot": "sleeper",
+   "weeks_on_list": 1,
+   "name": "IDT Corporation",
+   "sector": "Communication Services",
+   "industry": "Telecom Services",
+   "market_cap": 2040994816,
+   "business_summary": "IDT Corporation, together with its subsidiaries, provides fintech and communications solutions in the United States, the United Kingdom, and internationally. It operates in four segments: National Retail Solutions, Fintech, Net2phone, and Traditional Communications. The company operates point of sale, a terminal-based platform which provides independent retailers with store management software, electronic payment processing, and other ancillary merchant services; and marketers with retail media advertising and transaction data. It also offers BOSS Money for international money remittance, and ",
+   "reasons": [
+    "Strong setup with low attention: lighter trading volume and little social chatter",
+    "Relative strength rating 93 (beating 93% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 2.8% below its 52-week high"
+   ],
+   "scores": {
+    "composite": 0.77,
+    "composite_rank": 74,
+    "rs_rating": 93.0,
+    "sleeper": 0.943,
+    "social": 0.0
+   },
+   "performance": {
+    "ret_1w": 0.002,
+    "ret_1m": 0.019,
+    "ret_3m": 0.268,
+    "ret_6m": 0.538
+   },
+   "technicals": {
+    "trend_checks_passed": 8,
+    "rsi": 56.5,
+    "volume_vs_50d_avg": 0.61,
+    "up_down_volume_ratio": 1.79,
+    "pct_below_52w_high": 0.028,
+    "rs_line_at_high": true,
+    "recent_breakout": false
+   },
+   "levels": {
+    "price": 82.17,
+    "pivot_20d_high": 84.56,
+    "above_pivot": false,
+    "sma20": 82.14,
+    "sma50": 76.15,
+    "high_52w": 84.56,
+    "support_10d_low": 80.22,
+    "invalidation": 76.7,
+    "avg_daily_range_pct": 0.027
+   },
+   "social": null,
+   "next_earnings": "2026-12-03",
+   "news": [
+    {
+     "title": "Telus (TU) Misses Q3 Earnings Estimates",
+     "publisher": "Zacks",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/telus-tu-misses-q3-earnings-120002276.html",
+     "published": "2026-11-06T12:00:02Z",
+     "summary": "Telus (TU) delivered earnings and revenue surprises of -15.39% and +0.65%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?"
+    },
+    {
+     "title": "Consolidated Edison (ED) Misses Q3 Earnings Estimates",
+     "publisher": "Zacks",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/consolidated-edison-ed-misses-q3-000018841.html",
+     "published": "2026-11-06T00:00:18Z",
+     "summary": "Con Ed (ED) delivered earnings and revenue surprises of -0.48% and +3.09%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?"
+    },
+    {
+     "title": "3 Quality Small Cap Stocks To Watch In November 2026",
+     "publisher": "Simply Wall St.",
+     "url": "https://finance.yahoo.com/small-business/articles/3-quality-small-cap-stocks-091642681.html",
+     "published": "2026-11-05T09:16:42Z",
+     "summary": "Democrats winning control of Congress on an affordability agenda puts a spotlight on companies that quietly help consumers and businesses do more with less. While political debate focuses on big policy swings, smaller high quality businesses with solid balance sheets and durable business models can "
+    },
+    {
+     "title": "Lumen (LUMN) Reports Q3 Loss, Lags Revenue Estimates",
+     "publisher": "Zacks",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/lumen-lumn-reports-q3-loss-215006154.html",
+     "published": "2026-11-04T21:50:06Z",
+     "summary": "Lumen (LUMN) delivered earnings and revenue surprises of +12.50% and -1.38%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?"
+    },
+    {
+     "title": "Uber, DoorDash Partner Weathers Volatile Market; Stock Offers Entry",
+     "publisher": "Investor's Business Daily",
+     "url": "https://www.investors.com/research/idt-stock-uber-doordash-sp500/?src=A00220&yptr=yahoo",
+     "published": "2026-11-03T19:14:57Z",
+     "summary": "Fintech stock and telecom name IDT is holding gains after a surge of fiscal fourth-quarter earnings."
+    }
+   ],
+   "risk_flags": [
+    "General market risk: momentum names fall hardest when the market turns"
+   ]
+  }
+ ],
+ "disclaimer": "I'm not a financial advisor and this isn't financial advice. Always do your own DD before putting money into any stock."
+}

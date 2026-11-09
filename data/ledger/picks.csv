@@ -29,3 +29,8 @@ episode_date,ticker,slot,ref_close,composite,composite_rank
 2026-11-02,RLJ,momentum,12.61,0.8362,3
 2026-11-02,KRT,sleeper,53.97,0.7656,64
 2026-11-02,SAP,social,235.02,0.6446,580
+2026-11-09,TBBB,momentum,65.62,0.8622,1
+2026-11-09,BRZE,momentum,45.79,0.8464,2
+2026-11-09,FOSL,momentum,7.81,0.8387,3
+2026-11-09,IDT,sleeper,82.17,0.7701,74
+2026-11-09,PR,social,21.75,0.679,379
