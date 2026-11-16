@@ -1,0 +1,83 @@
+{
+ "title": "Week of November 16th, 2026. $TEVA $TBBB $SGRY $RSG $IDT",
+ "script_source": "template",
+ "words": 535,
+ "validation_issues": [
+  "too short: 535 words (target 900-1400)"
+ ],
+ "weights_source": "settings.yaml",
+ "picks": [
+  {
+   "ticker": "TEVA",
+   "slot": "momentum",
+   "composite": 0.8458990942915916,
+   "composite_rank": 1,
+   "sleeper": 0.82140381359444,
+   "social_score": 0.0,
+   "reasons": [
+    "Relative strength rating 89 (beating 89% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 0.2% below its 52-week high"
+   ],
+   "weeks_on_list": 1
+  },
+  {
+   "ticker": "TBBB",
+   "slot": "momentum",
+   "composite": 0.8411594350489477,
+   "composite_rank": 2,
+   "sleeper": 0.8083489840478644,
+   "social_score": 0.0,
+   "reasons": [
+    "Relative strength rating 97 (beating 97% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 0.3% below its 52-week high"
+   ],
+   "weeks_on_list": 2
+  },
+  {
+   "ticker": "SGRY",
+   "slot": "momentum",
+   "composite": 0.8353089419434006,
+   "composite_rank": 3,
+   "sleeper": null,
+   "social_score": 0.0,
+   "reasons": [
+    "Relative strength rating 97 (beating 97% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 1.0% below its 52-week high"
+   ],
+   "weeks_on_list": 1
+  },
+  {
+   "ticker": "RSG",
+   "slot": "social",
+   "composite": 0.7001389950522013,
+   "composite_rank": 254,
+   "sleeper": 0.5616819012360226,
+   "social_score": 0.950575274477365,
+   "reasons": [
+    "Reddit buzz: 7 mentions in 24h (+120% vs the prior day)",
+    "Relative strength rating 76 (beating 76% of the market)",
+    "Trading 0.9% below its 52-week high",
+    "Passes 6/8 stage-2 uptrend checks"
+   ],
+   "weeks_on_list": 1
+  },
+  {
+   "ticker": "IDT",
+   "slot": "sleeper",
+   "composite": 0.7747918429389227,
+   "composite_rank": 48,
+   "sleeper": 0.9512619976478295,
+   "social_score": 0.0,
+   "reasons": [
+    "Strong setup with low attention: lighter trading volume and little social chatter",
+    "Relative strength rating 93 (beating 93% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 1.7% below its 52-week high"
+   ],
+   "weeks_on_list": 2
+  }
+ ]
+}

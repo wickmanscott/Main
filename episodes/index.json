@@ -1,5 +1,24 @@
 [
  {
+  "date": "2026-11-16",
+  "title": "Week of November 16th, 2026. $TEVA $TBBB $SGRY $RSG $IDT",
+  "guid": "stock-watchlist-2026-11-16",
+  "pub_date": "Mon, 16 Nov 2026 01:28:45 +0000",
+  "summary": "5 stocks for your watchlist: TEVA, TBBB, SGRY, RSG, IDT. Not financial advice.",
+  "notes_html": "<h1>Week of November 16th, 2026. $TEVA $TBBB $SGRY $RSG $IDT</h1>\n<p>5 stocks to add to your watchlist every week. Brief and to the point.</p>\n<ul>\n<li><strong>$TEVA</strong> (momentum): Relative strength rating 89 (beating 89% of the market). Watching 44.31 / invalidation 41.21.</li>\n<li><strong>$TBBB</strong> (momentum): Relative strength rating 97 (beating 97% of the market). Watching 68.39 / invalidation 65.13.</li>\n<li><strong>$SGRY</strong> (momentum): Relative strength rating 97 (beating 97% of the market). Watching 27.23 / invalidation 25.78.</li>\n<li><strong>$RSG</strong> (social): Reddit buzz: 7 mentions in 24h (+120% vs the prior day). Watching 254.39 / invalidation 238.77.</li>\n<li><strong>$IDT</strong> (sleeper): Strong setup with low attention: lighter trading volume and little social chatter. Watching 84.56 / invalidation 78.05.</li>\n</ul>\n<p><em>I&#x27;m not a financial advisor and this isn&#x27;t financial advice. Always do your own DD before putting money into any stock.</em></p>",
+  "tickers": [
+   "TEVA",
+   "TBBB",
+   "SGRY",
+   "RSG",
+   "IDT"
+  ],
+  "script_source": "template",
+  "audio_url": null,
+  "audio_bytes": null,
+  "duration_sec": null
+ },
+ {
   "date": "2026-11-09",
   "title": "Week of November 9th, 2026. $TBBB $BRZE $FOSL $PR $IDT",
   "guid": "stock-watchlist-2026-11-09",

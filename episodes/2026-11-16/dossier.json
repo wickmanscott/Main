@@ -1,0 +1,520 @@
+{
+ "show": {
+  "title": "The (Stock) Watchlist",
+  "host": "Scott Wickman",
+  "handle": "@scottiewick",
+  "tagline": "5 stocks to add to your watchlist every week. Brief and to the point."
+ },
+ "data_as_of": "2026-11-13",
+ "week_of": "2026-11-16",
+ "title": "Week of November 16th, 2026. $TEVA $TBBB $SGRY $RSG $IDT",
+ "market_pulse": {
+  "SPY": {
+   "close": 754.37,
+   "ret_1w": 0.0259,
+   "ret_1m": -0.0226,
+   "above_50d": false,
+   "above_200d": true
+  },
+  "QQQ": {
+   "close": 679.89,
+   "ret_1w": 0.0363,
+   "ret_1m": -0.0661,
+   "above_50d": false,
+   "above_200d": false
+  },
+  "IWM": {
+   "close": 277.54,
+   "ret_1w": 0.0141,
+   "ret_1m": 0.0089,
+   "above_50d": false,
+   "above_200d": false
+  },
+  "breadth": {
+   "universe_size": 2848,
+   "pct_above_50d": 0.526,
+   "pct_stage2_uptrend": 0.425,
+   "pct_within_5pct_of_52w_high": 0.132
+  }
+ },
+ "last_week_scorecard": {
+  "episode_date": "2026-11-09",
+  "benchmark": "SPY",
+  "picks": [
+   {
+    "ticker": "TBBB",
+    "slot": "momentum",
+    "ret": 0.0421,
+    "benchmark_ret": 0.0086,
+    "beat_benchmark": true
+   },
+   {
+    "ticker": "BRZE",
+    "slot": "momentum",
+    "ret": 0.0137,
+    "benchmark_ret": 0.0086,
+    "beat_benchmark": true
+   },
+   {
+    "ticker": "FOSL",
+    "slot": "momentum",
+    "ret": 0.0459,
+    "benchmark_ret": 0.0086,
+    "beat_benchmark": true
+   },
+   {
+    "ticker": "IDT",
+    "slot": "sleeper",
+    "ret": 0.0072,
+    "benchmark_ret": 0.0086,
+    "beat_benchmark": false
+   },
+   {
+    "ticker": "PR",
+    "slot": "social",
+    "ret": 0.0873,
+    "benchmark_ret": 0.0086,
+    "beat_benchmark": true
+   }
+  ],
+  "avg_ret": 0.0392,
+  "benchmark_ret": 0.0086,
+  "winners": 5,
+  "beat_benchmark": 4,
+  "best": "PR",
+  "worst": "IDT"
+ },
+ "live_track_record": {
+  "episodes": 7,
+  "picks_scored": 30,
+  "hold_sessions": 5,
+  "hit_rate": 0.4,
+  "beat_benchmark_rate": 0.5,
+  "avg_ret": -0.0344,
+  "avg_excess": -0.031
+ },
+ "model_backtest": {
+  "as_of": "2026-11-01",
+  "out_of_sample": true,
+  "periods": 156,
+  "hit_rate": 0.5166666666666667,
+  "beat_benchmark_rate": 0.49615384615384617,
+  "avg_excess_vs_benchmark": 0.0023390637727908024
+ },
+ "picks": [
+  {
+   "ticker": "TEVA",
+   "ticker_spoken": "T-E-V-A",
+   "slot": "momentum",
+   "weeks_on_list": 1,
+   "name": "Teva Pharmaceutical Industries Limited",
+   "sector": "Healthcare",
+   "industry": "Drug Manufacturers - Specialty & Generic",
+   "market_cap": 51923791872,
+   "business_summary": "Teva Pharmaceutical Industries Limited develops, manufactures, markets, and distributes generic and other medicines, and biopharmaceutical products in the United States, Europe, Israel, and internationally. It offers generic medicines in various dosage forms, such as tablets, capsules, injectables, inhalants, liquids, transdermal patches, ointments, and creams; sterile products, hormones, high-potency drugs, and cytotoxic substances in parenteral and solid dosage forms; and generic products with medical devices and combination products. The company also focuses on the central nervous system (C",
+   "reasons": [
+    "Relative strength rating 89 (beating 89% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 0.2% below its 52-week high"
+   ],
+   "scores": {
+    "composite": 0.846,
+    "composite_rank": 1,
+    "rs_rating": 89.0,
+    "sleeper": 0.821,
+    "social": 0.0
+   },
+   "performance": {
+    "ret_1w": 0.044,
+    "ret_1m": 0.082,
+    "ret_3m": 0.221,
+    "ret_6m": 0.298
+   },
+   "technicals": {
+    "trend_checks_passed": 8,
+    "rsi": 69.2,
+    "volume_vs_50d_avg": 1.16,
+    "up_down_volume_ratio": 1.36,
+    "pct_below_52w_high": 0.002,
+    "rs_line_at_high": true,
+    "recent_breakout": true
+   },
+   "levels": {
+    "price": 44.5,
+    "pivot_20d_high": 44.31,
+    "above_pivot": true,
+    "sma20": 41.59,
+    "sma50": 40.18,
+    "high_52w": 44.57,
+    "support_10d_low": 40.63,
+    "invalidation": 41.21,
+    "avg_daily_range_pct": 0.03
+   },
+   "social": null,
+   "next_earnings": "2027-01-27",
+   "news": [
+    {
+     "title": "Teva Pharmaceutical Industries (TEVA) Holds First R&D Day With New Pipeline Milestones",
+     "publisher": "Simply Wall St.",
+     "url": "https://finance.yahoo.com/healthcare/articles/teva-pharmaceutical-industries-teva-holds-101405555.html",
+     "published": "2026-11-12T10:14:05Z",
+     "summary": "Teva Pharmaceutical Industries (NYSE:TEVA) hosted its first R&D Day at the New York Stock Exchange in November 2026. Management outlined a long term growth plan centered on higher value medicines and a shift in the company\u2019s product mix. The firm highlighted progress in its pipeline, including new f"
+    },
+    {
+     "title": "Teva Pharmaceutical Industries (TEVA) Earnings Put Its Turnaround Valuation Back In Focus",
+     "publisher": "Simply Wall St.",
+     "url": "https://finance.yahoo.com/healthcare/articles/teva-pharmaceutical-industries-teva-earnings-051318202.html",
+     "published": "2026-11-12T05:13:18Z",
+     "summary": "Teva Pharmaceutical Industries (NYSE:TEVA) just delivered third quarter 2026 earnings, reporting sales of US$4.4b and net income of US$233m, along with higher impairment charges and a slightly raised full year revenue outlook. The latest earnings release lands after a strong share price run for Teva"
+    },
+    {
+     "title": "Teva Pharmaceutical Industries Targets Up to $7 Billion in Innovative Drug Revenue by 2030",
+     "publisher": "MarketBeat",
+     "url": "https://www.marketbeat.com/instant-alerts/event-teva-pharmaceutical-industries-targets-up-to-7-billion-in-innovative-drug-revenue-by-2030-2026-11-11/?utm_source=yahoofinance&utm_medium=yahoofinance",
+     "published": "2026-11-11T21:12:25Z",
+     "summary": "Teva Pharmaceutical Industries (NYSE:TEVA) outlined plans to grow its innovative medicines business and advance a pipeline spanning neuroscience, immunology and cancer treatments at its first R&D Day. President and CEO Richard Francis said Teva expects $3.8 billion to $3.92 billion in innovativ"
+    },
+    {
+     "title": "Sector Update: Healthcare Stocks Softer in Afternoon Trading",
+     "publisher": "MT Newswires",
+     "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-softer-afternoon-182929576.html",
+     "published": "2026-11-11T18:29:29Z",
+     "summary": "Healthcare stocks declined Wednesday afternoon, with the NYSE Healthcare Index decreasing 0.6% and t"
+    },
+    {
+     "title": "FDA Decision Watch: Summit\u2019s Lung Cancer Drug, Cytokinetics\u2019 Heart Therapy And Teva\u2019s Igalmi In Spotlight This Week",
+     "publisher": "Stocktwits",
+     "url": "https://stocktwits.com/news-articles/markets/equity/fda-decision-watch-summit-lung-cancer-drug-cytokinetics-heart-therapy-teva-igalmi/cNGr4gyR9eS",
+     "published": "2026-11-09T10:23:04Z",
+     "summary": "The FDA is set to announce its verdict on three closely watched therapies this week, ahead of a busy month which includes a decision on Capricor Therapeutics\u2019 Deramiocel."
+    }
+   ],
+   "risk_flags": [
+    "General market risk: momentum names fall hardest when the market turns"
+   ]
+  },
+  {
+   "ticker": "TBBB",
+   "ticker_spoken": "T-B-B-B",
+   "slot": "momentum",
+   "weeks_on_list": 2,
+   "name": "BBB Foods Inc.",
+   "sector": "Consumer Defensive",
+   "industry": "Discount Stores",
+   "market_cap": 8441805312,
+   "business_summary": "BBB Foods Inc., through its subsidiaries, operates a chain of grocery retail stores in Mexico. The company provides spot products comprising food and non-food products, such as clothing, electronics, household goods, and others. It also provides branded and private label products. The company serves low-to-middle income households. BBB Foods Inc. was incorporated in 2004 and is headquartered in Mexico City, Mexico.",
+   "reasons": [
+    "Relative strength rating 97 (beating 97% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 0.3% below its 52-week high"
+   ],
+   "scores": {
+    "composite": 0.841,
+    "composite_rank": 2,
+    "rs_rating": 97.0,
+    "sleeper": 0.808,
+    "social": 0.0
+   },
+   "performance": {
+    "ret_1w": 0.067,
+    "ret_1m": 0.25,
+    "ret_3m": 0.445,
+    "ret_6m": 0.915
+   },
+   "technicals": {
+    "trend_checks_passed": 8,
+    "rsi": 81.4,
+    "volume_vs_50d_avg": 1.37,
+    "up_down_volume_ratio": 1.77,
+    "pct_below_52w_high": 0.003,
+    "rs_line_at_high": true,
+    "recent_breakout": true
+   },
+   "levels": {
+    "price": 70.02,
+    "pivot_20d_high": 68.39,
+    "above_pivot": true,
+    "sma20": 61.57,
+    "sma50": 56.37,
+    "high_52w": 70.26,
+    "support_10d_low": 56.36,
+    "invalidation": 65.13,
+    "avg_daily_range_pct": 0.028
+   },
+   "social": null,
+   "next_earnings": null,
+   "news": [],
+   "risk_flags": [
+    "Overbought: RSI 81"
+   ]
+  },
+  {
+   "ticker": "SGRY",
+   "ticker_spoken": "S-G-R-Y",
+   "slot": "momentum",
+   "weeks_on_list": 1,
+   "name": "Surgery Partners, Inc.",
+   "sector": "Healthcare",
+   "industry": "Medical Care Facilities",
+   "market_cap": 3527249152,
+   "business_summary": "Surgery Partners, Inc., together with its subsidiaries, owns and operates a network of surgical facilities and ancillary services in the United States. The company provides ambulatory surgery centers and surgical hospitals that offer non-emergency surgical procedures in various specialties, including orthopedics and pain management, ophthalmology, gastroenterology, and general surgery. It offers emergency departments; ancillary services such as physician practices and diagnostic testing; multi-specialty physician practices; urgent care facilities; and anesthesia services. In addition, it offer",
+   "reasons": [
+    "Relative strength rating 97 (beating 97% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 1.0% below its 52-week high"
+   ],
+   "scores": {
+    "composite": 0.835,
+    "composite_rank": 3,
+    "rs_rating": 97.0,
+    "sleeper": null,
+    "social": 0.0
+   },
+   "performance": {
+    "ret_1w": 0.162,
+    "ret_1m": 0.825,
+    "ret_3m": 0.877,
+    "ret_6m": 0.932
+   },
+   "technicals": {
+    "trend_checks_passed": 8,
+    "rsi": 89.8,
+    "volume_vs_50d_avg": 1.57,
+    "up_down_volume_ratio": 3.15,
+    "pct_below_52w_high": 0.01,
+    "rs_line_at_high": true,
+    "recent_breakout": true
+   },
+   "levels": {
+    "price": 26.95,
+    "pivot_20d_high": 27.23,
+    "above_pivot": false,
+    "sma20": 22.13,
+    "sma50": 17.3,
+    "high_52w": 27.23,
+    "support_10d_low": 23.12,
+    "invalidation": 25.78,
+    "avg_daily_range_pct": 0.017
+   },
+   "social": null,
+   "next_earnings": null,
+   "news": [
+    {
+     "title": "The Deal Behind Mizuho\u2019s Downgrade of Surgery Partners (SGRY)",
+     "publisher": "Insider Monkey",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/deal-behind-mizuho-downgrade-surgery-211048170.html",
+     "published": "2026-11-13T21:10:48Z",
+     "summary": "We just published a list of the Sell Alert: 10 Stocks Analysts Downgraded on Wednesday and Surgery Partners (NASDAQ:SGRY) ranked 10th on this list. Wall Street got a sharp reminder this month of how fast sentiment can turn. Last Thursday the S&P 500 lost 4.4%, its worst day since April 2025, after m"
+    },
+    {
+     "title": "What Really Drove HCA Stock Higher?",
+     "publisher": "Trefis",
+     "url": "https://www.trefis.com/stock/hca/articles/624385/what-really-drove-hca-stock-higher/2026-11-11",
+     "published": "2026-11-11T21:23:11Z",
+     "summary": "For questions about this article or underlying research, email help@trefis.com."
+    },
+    {
+     "title": "Surgery Partners (SGRY) Stock Could Be 13% Overvalued On Cash Flow",
+     "publisher": "Simply Wall St.",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/surgery-partners-sgry-stock-could-090855424.html",
+     "published": "2026-11-10T09:08:55Z",
+     "summary": "Surgery Partners has seen a sharp swing in sentiment recently, and the share price now asks a clear question about whether the current market value lines up with the cash the business can generate over time. After a move like this, the focus naturally shifts to what the stock\u2019s recent cash flow trac"
+    },
+    {
+     "title": "Surgery Partners (SGRY) Beats Q3 Earnings Estimates",
+     "publisher": "Zacks",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/surgery-partners-sgry-beats-q3-223508827.html",
+     "published": "2026-11-09T22:35:08Z",
+     "summary": "Surgery Partners (SGRY) delivered earnings and revenue surprises of +128.57% and -0.32%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?"
+    },
+    {
+     "title": "Surgery Partners: Q3 Earnings Snapshot",
+     "publisher": "Associated Press",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/surgery-partners-q3-earnings-snapshot-214847740.html",
+     "published": "2026-11-09T21:48:47Z",
+     "summary": "(SGRY) on Monday reported a loss of $21.The Brentwood, Tennessee-based company said it had a loss of 16 cents per share."
+    }
+   ],
+   "risk_flags": [
+    "Extended: 22% above its 20-day average, pullbacks are common from here",
+    "Overbought: RSI 90"
+   ]
+  },
+  {
+   "ticker": "RSG",
+   "ticker_spoken": "R-S-G",
+   "slot": "social",
+   "weeks_on_list": 1,
+   "name": "Republic Services, Inc.",
+   "sector": "Industrials",
+   "industry": "Waste Management",
+   "market_cap": 77070786560,
+   "business_summary": "Republic Services, Inc., together with its subsidiaries, offers environmental services in the United States and Canada. It is involved in the collection and processing of recyclable, solid waste, and industrial waste materials; transportation and disposal of non-hazardous and hazardous waste streams; and other environmental solutions. Its residential collection services include curbside collection of material for transport to transfer stations, landfills, recycling centers, and organics processing facilities; supply of recycling and waste containers; and renting of compactors. The company also",
+   "reasons": [
+    "Reddit buzz: 7 mentions in 24h (+120% vs the prior day)",
+    "Relative strength rating 76 (beating 76% of the market)",
+    "Trading 0.9% below its 52-week high",
+    "Passes 6/8 stage-2 uptrend checks"
+   ],
+   "scores": {
+    "composite": 0.7,
+    "composite_rank": 254,
+    "rs_rating": 76.0,
+    "sleeper": 0.562,
+    "social": 0.951
+   },
+   "performance": {
+    "ret_1w": 0.025,
+    "ret_1m": 0.102,
+    "ret_3m": 0.179,
+    "ret_6m": 0.222
+   },
+   "technicals": {
+    "trend_checks_passed": 6,
+    "rsi": 71.4,
+    "volume_vs_50d_avg": 0.88,
+    "up_down_volume_ratio": 0.92,
+    "pct_below_52w_high": 0.009,
+    "rs_line_at_high": false,
+    "recent_breakout": false
+   },
+   "levels": {
+    "price": 252.99,
+    "pivot_20d_high": 254.39,
+    "above_pivot": false,
+    "sma20": 242.28,
+    "sma50": 227.37,
+    "high_52w": 255.39,
+    "support_10d_low": 241.14,
+    "invalidation": 238.77,
+    "avg_daily_range_pct": 0.022
+   },
+   "social": {
+    "reddit_mentions_24h": 7.0,
+    "reddit_mentions_prior_24h": 1.0,
+    "mention_change": 1.2,
+    "reddit_rank": 41.0
+   },
+   "next_earnings": null,
+   "news": [
+    {
+     "title": "These 4 Waste and Services Stocks Collect Recurring Revenue",
+     "publisher": "Motley Fool",
+     "url": "https://www.fool.com/investing/2026/11/15/these-4-waste-and-services-stocks-collect-recurrin/",
+     "published": "2026-11-15T13:25:00Z",
+     "summary": "These four companies provide essential services that customers need repeatedly, creating durable revenue streams and opportunities for steady long-term growth."
+    },
+    {
+     "title": "What Is JPMorgan Betting On at Republic Services (RSG)?",
+     "publisher": "Insider Monkey",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-betting-republic-services-rsg-211342976.html",
+     "published": "2026-11-13T21:13:42Z",
+     "summary": "We just published a list of the Buy Alert: 10 Stocks Analysts Upgraded on Wednesday and Republic Services (NYSE:RSG) ranked 8th on this list. October consumer prices rose 0.4%, the third straight monthly gain of at least 0.4%, according to data reported by Reuters. Economists polled by the outlet ha"
+    },
+    {
+     "title": "Major waste companies spent $1.2B on Q3 M&A, driven by GFL",
+     "publisher": "Waste Dive",
+     "url": "https://www.wastedive.com/news/major-waste-companies-spent-12b-on-q3-ma-driven-by-gfl/874380/",
+     "published": "2026-11-11T17:34:00Z",
+     "summary": "WM and Republic Services also reported spending more year over year. Meanwhile, Waste Connections closed a deal for a family hauler in Oregon and Casella closed a deal for a Pennsylvania hauler."
+    },
+    {
+     "title": "Nvidia downgraded, Mercury Systems upgraded: Wall Street's top analyst calls",
+     "publisher": "The Fly",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-downgraded-mercury-systems-upgraded-144530522.html",
+     "published": "2026-11-11T14:45:30Z",
+     "summary": "Nvidia downgraded, Mercury Systems upgraded: Wall Street's top analyst calls"
+    },
+    {
+     "title": "Buy, Sell, or Hold? Wednesday\u2019s Top Upgrades and Downgrades: Akamai Technologies, Apple, BILL Holdings, Corning, Form Factor, Guidewire Software, NVIDIA, Riot Platforms, Toast, and More",
+     "publisher": "24/7 Wall St.",
+     "url": "https://247wallst.com/investing/2026/11/11/buy-sell-or-hold-wednesdays-top-upgrades-and-downgrades-akamai-technologies-apple-bill-holdings-corning-form-factor-guidewire-software-nvidia-riot-platforms-toast-and-more/",
+     "published": "2026-11-11T12:57:12Z",
+     "summary": "Hot inflation data rattled Tuesday's close, and now one chip giant faces a Baird downgrade tied to concerns about its CEO. Which analyst calls, from Apple's upgrade to a steep Akamai cut, deserve your attention before the bell?"
+    }
+   ],
+   "risk_flags": [
+    "Heavy social hype: crowded trades can reverse hard"
+   ]
+  },
+  {
+   "ticker": "IDT",
+   "ticker_spoken": "I-D-T",
+   "slot": "sleeper",
+   "weeks_on_list": 2,
+   "name": "IDT Corporation",
+   "sector": "Communication Services",
+   "industry": "Telecom Services",
+   "market_cap": 2063846272,
+   "business_summary": "IDT Corporation, together with its subsidiaries, provides fintech and communications solutions in the United States, the United Kingdom, and internationally. It operates in four segments: National Retail Solutions, Fintech, Net2phone, and Traditional Communications. The company operates point of sale, a terminal-based platform which provides independent retailers with store management software, electronic payment processing, and other ancillary merchant services; and marketers with retail media advertising and transaction data. It also offers BOSS Money for international money remittance, and ",
+   "reasons": [
+    "Strong setup with low attention: lighter trading volume and little social chatter",
+    "Relative strength rating 93 (beating 93% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 1.7% below its 52-week high"
+   ],
+   "scores": {
+    "composite": 0.775,
+    "composite_rank": 48,
+    "rs_rating": 93.0,
+    "sleeper": 0.951,
+    "social": 0.0
+   },
+   "performance": {
+    "ret_1w": 0.011,
+    "ret_1m": 0.01,
+    "ret_3m": 0.251,
+    "ret_6m": 0.601
+   },
+   "technicals": {
+    "trend_checks_passed": 8,
+    "rsi": 58.7,
+    "volume_vs_50d_avg": 0.55,
+    "up_down_volume_ratio": 1.84,
+    "pct_below_52w_high": 0.017,
+    "rs_line_at_high": true,
+    "recent_breakout": false
+   },
+   "levels": {
+    "price": 83.09,
+    "pivot_20d_high": 84.56,
+    "above_pivot": false,
+    "sma20": 82.47,
+    "sma50": 77.59,
+    "high_52w": 84.56,
+    "support_10d_low": 80.5,
+    "invalidation": 78.05,
+    "avg_daily_range_pct": 0.024
+   },
+   "social": null,
+   "next_earnings": "2026-12-03",
+   "news": [
+    {
+     "title": "Looking For Stocks To Buy In The IBD 50? You May Be Disappointed.",
+     "publisher": "Investor's Business Daily",
+     "url": "https://www.investors.com/stock-lists/ibd-50/ibd-50-stocks-to-buy/?src=A00220&yptr=yahoo",
+     "published": "2026-11-13T13:00:15Z",
+     "summary": "The IBD 50 is short on stocks that are actionable. On Thursday, only one remained in buy range from a base breakout."
+    },
+    {
+     "title": "3 Hidden Gem Stocks With Up To 18% ROE",
+     "publisher": "Simply Wall St.",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/3-hidden-gem-stocks-18-101216259.html",
+     "published": "2026-11-12T10:12:16Z",
+     "summary": "Public funds worldwide are pouring money into artificial intelligence and infrastructure, aiming to own the big long-term shifts shaping the economy. That kind of patient, deep-pocketed capital often overlooks smaller high quality businesses that are still off the institutional radar. This article f"
+    },
+    {
+     "title": "Telus (TU) Misses Q3 Earnings Estimates",
+     "publisher": "Zacks",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/telus-tu-misses-q3-earnings-120002276.html",
+     "published": "2026-11-06T12:00:02Z",
+     "summary": "Telus (TU) delivered earnings and revenue surprises of -15.39% and +0.65%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?"
+    }
+   ],
+   "risk_flags": [
+    "Earnings on 2026-12-03: expect a big move either way"
+   ]
+  }
+ ],
+ "disclaimer": "I'm not a financial advisor and this isn't financial advice. Always do your own DD before putting money into any stock."
+}
