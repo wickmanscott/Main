@@ -39,3 +39,8 @@ episode_date,ticker,slot,ref_close,composite,composite_rank
 2026-11-16,SGRY,momentum,26.95,0.8353,3
 2026-11-16,IDT,sleeper,83.09,0.7748,48
 2026-11-16,RSG,social,252.99,0.7001,254
+2026-11-23,OGN,momentum,13.89,0.8908,1
+2026-11-23,HZO,momentum,52.82,0.8641,2
+2026-11-23,RXO,momentum,28.26,0.8238,3
+2026-11-23,BMBL,sleeper,5.97,0.7733,35
+2026-11-23,COST,social,1102.15,0.8188,6

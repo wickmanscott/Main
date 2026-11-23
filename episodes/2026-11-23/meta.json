@@ -1,0 +1,83 @@
+{
+ "title": "Week of November 23rd, 2026. $OGN $HZO $RXO $COST $BMBL",
+ "script_source": "template",
+ "words": 515,
+ "validation_issues": [
+  "too short: 515 words (target 900-1400)"
+ ],
+ "weights_source": "settings.yaml",
+ "picks": [
+  {
+   "ticker": "OGN",
+   "slot": "momentum",
+   "composite": 0.8908248909443425,
+   "composite_rank": 1,
+   "sleeper": 0.8947895929998622,
+   "social_score": 0.0,
+   "reasons": [
+    "Relative strength rating 91 (beating 91% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 0.4% below its 52-week high"
+   ],
+   "weeks_on_list": 1
+  },
+  {
+   "ticker": "HZO",
+   "slot": "momentum",
+   "composite": 0.8641029137681381,
+   "composite_rank": 2,
+   "sleeper": 0.9403980383332222,
+   "social_score": 0.0,
+   "reasons": [
+    "Relative strength rating 96 (beating 96% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 0.2% below its 52-week high"
+   ],
+   "weeks_on_list": 1
+  },
+  {
+   "ticker": "RXO",
+   "slot": "momentum",
+   "composite": 0.8238110581487254,
+   "composite_rank": 3,
+   "sleeper": 0.9108606208323369,
+   "social_score": 0.0,
+   "reasons": [
+    "Relative strength rating 97 (beating 97% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 5.5% below its 52-week high"
+   ],
+   "weeks_on_list": 1
+  },
+  {
+   "ticker": "COST",
+   "slot": "social",
+   "composite": 0.8188084665444249,
+   "composite_rank": 6,
+   "sleeper": 0.6934431088079308,
+   "social_score": 0.9553599098464574,
+   "reasons": [
+    "Reddit buzz: 12 mentions in 24h (+140% vs the prior day)",
+    "Relative strength rating 79 (beating 79% of the market)",
+    "Trading 1.9% below its 52-week high",
+    "Passes 7/8 stage-2 uptrend checks"
+   ],
+   "weeks_on_list": 1
+  },
+  {
+   "ticker": "BMBL",
+   "slot": "sleeper",
+   "composite": 0.7733047243261071,
+   "composite_rank": 35,
+   "sleeper": 0.9746669126287952,
+   "social_score": 0.0,
+   "reasons": [
+    "Strong setup with low attention: lighter trading volume and little social chatter",
+    "Relative strength rating 98 (beating 98% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 1.2% below its 52-week high"
+   ],
+   "weeks_on_list": 1
+  }
+ ]
+}

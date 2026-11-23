@@ -1,0 +1,493 @@
+{
+ "show": {
+  "title": "The (Stock) Watchlist",
+  "host": "Scott Wickman",
+  "handle": "@scottiewick",
+  "tagline": "5 stocks to add to your watchlist every week. Brief and to the point."
+ },
+ "data_as_of": "2026-11-20",
+ "week_of": "2026-11-23",
+ "title": "Week of November 23rd, 2026. $OGN $HZO $RXO $COST $BMBL",
+ "market_pulse": {
+  "SPY": {
+   "close": 689.81,
+   "ret_1w": -0.0856,
+   "ret_1m": -0.0971,
+   "above_50d": false,
+   "above_200d": false
+  },
+  "QQQ": {
+   "close": 608.45,
+   "ret_1w": -0.1051,
+   "ret_1m": -0.1363,
+   "above_50d": false,
+   "above_200d": false
+  },
+  "IWM": {
+   "close": 256.61,
+   "ret_1w": -0.0754,
+   "ret_1m": -0.0725,
+   "above_50d": false,
+   "above_200d": false
+  },
+  "breadth": {
+   "universe_size": 2854,
+   "pct_above_50d": 0.301,
+   "pct_stage2_uptrend": 0.302,
+   "pct_within_5pct_of_52w_high": 0.043
+  }
+ },
+ "last_week_scorecard": {
+  "episode_date": "2026-11-16",
+  "benchmark": "SPY",
+  "picks": [
+   {
+    "ticker": "TEVA",
+    "slot": "momentum",
+    "ret": -0.0664,
+    "benchmark_ret": -0.0658,
+    "beat_benchmark": false
+   },
+   {
+    "ticker": "TBBB",
+    "slot": "momentum",
+    "ret": -0.0564,
+    "benchmark_ret": -0.0658,
+    "beat_benchmark": true
+   },
+   {
+    "ticker": "SGRY",
+    "slot": "momentum",
+    "ret": 0.0037,
+    "benchmark_ret": -0.0658,
+    "beat_benchmark": true
+   },
+   {
+    "ticker": "IDT",
+    "slot": "sleeper",
+    "ret": -0.0841,
+    "benchmark_ret": -0.0658,
+    "beat_benchmark": false
+   },
+   {
+    "ticker": "RSG",
+    "slot": "social",
+    "ret": -0.0242,
+    "benchmark_ret": -0.0658,
+    "beat_benchmark": true
+   }
+  ],
+  "avg_ret": -0.0455,
+  "benchmark_ret": -0.0658,
+  "winners": 1,
+  "beat_benchmark": 3,
+  "best": "SGRY",
+  "worst": "IDT"
+ },
+ "live_track_record": {
+  "episodes": 8,
+  "picks_scored": 35,
+  "hold_sessions": 5,
+  "hit_rate": 0.457,
+  "beat_benchmark_rate": 0.543,
+  "avg_ret": -0.0269,
+  "avg_excess": -0.0224
+ },
+ "model_backtest": {
+  "as_of": "2026-11-01",
+  "out_of_sample": true,
+  "periods": 156,
+  "hit_rate": 0.5166666666666667,
+  "beat_benchmark_rate": 0.49615384615384617,
+  "avg_excess_vs_benchmark": 0.0023390637727908024
+ },
+ "picks": [
+  {
+   "ticker": "OGN",
+   "ticker_spoken": "O-G-N",
+   "slot": "momentum",
+   "weeks_on_list": 1,
+   "name": "Organon & Co.",
+   "sector": "Healthcare",
+   "industry": "Drug Manufacturers - General",
+   "market_cap": 3647813888,
+   "business_summary": "Organon & Co. develops and delivers women health solutions through prescription therapies and medical devices in the United States, Europe, Canada, Japan, rest of the Asia Pacific, China, Latin America, the Middle East, Russia, Africa, and internationally. The company's women's health portfolio comprises contraception and fertility brands, such as Nexplanon, a long-acting reversible contraceptive; NuvaRing, a monthly vaginal contraceptive ring; Cerazette, Marvelon, and Mercilon to prevent pregnancy; Follistim AQ, which is used to promote development of ovarian follicles; Elonva, a follicle sti",
+   "reasons": [
+    "Relative strength rating 91 (beating 91% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 0.4% below its 52-week high"
+   ],
+   "scores": {
+    "composite": 0.891,
+    "composite_rank": 1,
+    "rs_rating": 91.0,
+    "sleeper": 0.895,
+    "social": 0.0
+   },
+   "performance": {
+    "ret_1w": -0.001,
+    "ret_1m": 0.012,
+    "ret_3m": 0.012,
+    "ret_6m": 0.037
+   },
+   "technicals": {
+    "trend_checks_passed": 8,
+    "rsi": 63.1,
+    "volume_vs_50d_avg": 1.47,
+    "up_down_volume_ratio": 1.4,
+    "pct_below_52w_high": 0.004,
+    "rs_line_at_high": true,
+    "recent_breakout": true
+   },
+   "levels": {
+    "price": 13.89,
+    "pivot_20d_high": 13.94,
+    "above_pivot": false,
+    "sma20": 13.84,
+    "sma50": 13.76,
+    "high_52w": 13.94,
+    "support_10d_low": 13.82,
+    "invalidation": 13.78,
+    "avg_daily_range_pct": 0.003
+   },
+   "social": null,
+   "next_earnings": null,
+   "news": [],
+   "risk_flags": [
+    "General market risk: momentum names fall hardest when the market turns"
+   ]
+  },
+  {
+   "ticker": "HZO",
+   "ticker_spoken": "H-Z-O",
+   "slot": "momentum",
+   "weeks_on_list": 1,
+   "name": "MarineMax, Inc.",
+   "sector": "Consumer Cyclical",
+   "industry": "Specialty Retail",
+   "market_cap": 1185873920,
+   "business_summary": "MarineMax, Inc. operates as a recreational boat and yacht retailer, marina operator, and superyacht services company in the United States. It operates through two segments, Retail Operations and Product Manufacturing. The company sells new and used recreational boats, including pleasure and fishing boats, mega-yachts, yachts, sport cruisers, motor yachts, yacht tenders, pontoon boats, ski boats, jet boats, and other recreational boats. It also offers marine parts and accessories comprising marine electronics; dock and anchoring products that include boat fenders, lines, and anchors; boat cover",
+   "reasons": [
+    "Relative strength rating 96 (beating 96% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 0.2% below its 52-week high"
+   ],
+   "scores": {
+    "composite": 0.864,
+    "composite_rank": 2,
+    "rs_rating": 96.0,
+    "sleeper": 0.94,
+    "social": 0.0
+   },
+   "performance": {
+    "ret_1w": 0.0,
+    "ret_1m": 0.008,
+    "ret_3m": 0.013,
+    "ret_6m": 0.513
+   },
+   "technicals": {
+    "trend_checks_passed": 8,
+    "rsi": 65.8,
+    "volume_vs_50d_avg": 1.14,
+    "up_down_volume_ratio": 1.76,
+    "pct_below_52w_high": 0.002,
+    "rs_line_at_high": true,
+    "recent_breakout": false
+   },
+   "levels": {
+    "price": 52.82,
+    "pivot_20d_high": 52.9,
+    "above_pivot": false,
+    "sma20": 52.71,
+    "sma50": 52.51,
+    "high_52w": 52.91,
+    "support_10d_low": 52.72,
+    "invalidation": 52.6,
+    "avg_daily_range_pct": 0.002
+   },
+   "social": null,
+   "next_earnings": "2027-01-28",
+   "news": [],
+   "risk_flags": [
+    "Small cap (about $1,186 million): moves fast both directions"
+   ]
+  },
+  {
+   "ticker": "RXO",
+   "ticker_spoken": "R-X-O",
+   "slot": "momentum",
+   "weeks_on_list": 1,
+   "name": "RXO, Inc.",
+   "sector": "Industrials",
+   "industry": "Trucking",
+   "market_cap": 4661516800,
+   "business_summary": "RXO, Inc. engages in truck brokerage business in the United States, Canada, Mexico, Asia, and Europe. It offers truckload freight brokering services. The company also provides asset-light managed transportation and last mile services, as well as freight forwarding services, including facilitation of ocean and air transportation, customs brokerage, and additional domestic services including middle mile. RXO, Inc. was incorporated in 2022 and is headquartered in Charlotte, North Carolina.",
+   "reasons": [
+    "Relative strength rating 97 (beating 97% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 5.5% below its 52-week high"
+   ],
+   "scores": {
+    "composite": 0.824,
+    "composite_rank": 3,
+    "rs_rating": 97.0,
+    "sleeper": 0.911,
+    "social": 0.0
+   },
+   "performance": {
+    "ret_1w": -0.006,
+    "ret_1m": -0.023,
+    "ret_3m": 0.328,
+    "ret_6m": 0.16
+   },
+   "technicals": {
+    "trend_checks_passed": 8,
+    "rsi": 56.8,
+    "volume_vs_50d_avg": 1.31,
+    "up_down_volume_ratio": 1.38,
+    "pct_below_52w_high": 0.055,
+    "rs_line_at_high": true,
+    "recent_breakout": false
+   },
+   "levels": {
+    "price": 28.26,
+    "pivot_20d_high": 29.16,
+    "above_pivot": false,
+    "sma20": 28.18,
+    "sma50": 25.96,
+    "high_52w": 29.9,
+    "support_10d_low": 27.62,
+    "invalidation": 27.15,
+    "avg_daily_range_pct": 0.016
+   },
+   "social": null,
+   "next_earnings": null,
+   "news": [
+    {
+     "title": "When Should You Buy Uber Stock?",
+     "publisher": "Trefis",
+     "url": "https://www.trefis.com/stock/uber/articles/627297/when-should-you-buy-uber-stock/2026-11-20",
+     "published": "2026-11-20T17:07:46Z",
+     "summary": "Today\u2019s big story: Will 2027 Be A 2022 Repeat For Stocks."
+    },
+    {
+     "title": "Is RXO (RXO) Fully Valued Following Its Curve Spot Rate Update?",
+     "publisher": "Simply Wall St.",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/rxo-rxo-fully-valued-following-071121100.html",
+     "published": "2026-11-19T07:11:21Z",
+     "summary": "RXO\u2019s Curve update puts truckload spot rates in focus RXO (RXO) has put its proprietary Curve truckload forecast back into the spotlight after reporting year-over-year spot rate growth, supported by tighter carrier capacity and rising regulatory and cost pressures. RXO\u2019s latest Curve update lands af"
+    },
+    {
+     "title": "RXO Q3 Earnings & Revenues Beat Estimates on Brokerage Strength",
+     "publisher": "Zacks",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/rxo-q3-earnings-revenues-beat-174300828.html",
+     "published": "2026-11-18T17:43:00Z",
+     "summary": "RXO's Q3 2026 earnings surge 800% as revenues rise 31.7%, driven by brokerage strength and higher freight rates, despite margin pressure and rising costs."
+    },
+    {
+     "title": "Broker RXO says TL spot rates not entering deflationary phase",
+     "publisher": "FreightWaves",
+     "url": "https://finance.yahoo.com/economy/articles/broker-rxo-says-tl-spot-171300186.html",
+     "published": "2026-11-17T17:13:00Z",
+     "summary": "Although truckload spot rates have moderated, freight broker RXO stated Tuesday that the market is not entering a deflationary phase. The post Broker RXO says TL spot rates not entering deflationary phase appeared first on FreightWaves."
+    },
+    {
+     "title": "Uber Now Touts $10 Billion Cash, Not Trip Growth",
+     "publisher": "Trefis",
+     "url": "https://www.trefis.com/stock/uber/articles/625740/uber-now-touts-10-billion-cash-not-trip-growth/2026-11-17",
+     "published": "2026-11-17T14:40:50Z",
+     "summary": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash."
+    }
+   ],
+   "risk_flags": [
+    "General market risk: momentum names fall hardest when the market turns"
+   ]
+  },
+  {
+   "ticker": "COST",
+   "ticker_spoken": "C-O-S-T",
+   "slot": "social",
+   "weeks_on_list": 1,
+   "name": "Costco Wholesale Corporation",
+   "sector": "Consumer Defensive",
+   "industry": "Discount Stores",
+   "market_cap": 488395014144,
+   "business_summary": "Costco Wholesale Corporation, together with its subsidiaries, engages in the operation of membership warehouses in the United States, Puerto Rico, Canada, Mexico, Japan, the United Kingdom, Korea, Australia, Taiwan, China, Spain, France, Sweden, Iceland, and New Zealand. It offers merchandise, including sundries, dry groceries, candies, coolers, freezers, liquor, and tobacco; non-food merchandise comprising consumer electronics, appliances, small electrics, health and beauty aids, hardware, lawn and garden, sporting goods, tires, toys and seasonal, automotive, stamps, tickets, apparel, furnitu",
+   "reasons": [
+    "Reddit buzz: 12 mentions in 24h (+140% vs the prior day)",
+    "Relative strength rating 79 (beating 79% of the market)",
+    "Trading 1.9% below its 52-week high",
+    "Passes 7/8 stage-2 uptrend checks"
+   ],
+   "scores": {
+    "composite": 0.819,
+    "composite_rank": 6,
+    "rs_rating": 79.0,
+    "sleeper": 0.693,
+    "social": 0.955
+   },
+   "performance": {
+    "ret_1w": -0.004,
+    "ret_1m": 0.084,
+    "ret_3m": 0.136,
+    "ret_6m": 0.075
+   },
+   "technicals": {
+    "trend_checks_passed": 7,
+    "rsi": 69.7,
+    "volume_vs_50d_avg": 1.22,
+    "up_down_volume_ratio": 2.23,
+    "pct_below_52w_high": 0.019,
+    "rs_line_at_high": true,
+    "recent_breakout": true
+   },
+   "levels": {
+    "price": 1102.15,
+    "pivot_20d_high": 1123.67,
+    "above_pivot": false,
+    "sma20": 1057.14,
+    "sma50": 985.78,
+    "high_52w": 1123.67,
+    "support_10d_low": 1045.73,
+    "invalidation": 1049.96,
+    "avg_daily_range_pct": 0.019
+   },
+   "social": {
+    "reddit_mentions_24h": 12.0,
+    "reddit_mentions_prior_24h": 5.0,
+    "mention_change": 1.4,
+    "reddit_rank": 33.0
+   },
+   "next_earnings": "2026-12-10",
+   "news": [
+    {
+     "title": "Costco and Albertsons moved jobs to India before Kroger",
+     "publisher": "TheStreet",
+     "url": "https://www.thestreet.com/retail/costco-and-albertsons-moved-jobs-to-india-before-kroger",
+     "published": "2026-11-23T01:03:00Z",
+     "summary": "Both companies offshored American jobs in July 2025."
+    },
+    {
+     "title": "Costco (COST) Lifts Dividend After Strong 2026 Results And $7.5 Billion 2027 Plan",
+     "publisher": "Simply Wall St.",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/costco-cost-lifts-dividend-strong-180659480.html",
+     "published": "2026-11-22T18:06:59Z",
+     "summary": "Costco Wholesale (NasdaqGS:COST) reported strong fiscal 2026 results, reinforcing management's confidence in the warehouse retailer's growth plans. The board approved a higher regular dividend for shareholders, signalling a larger ongoing cash return from the business. Management outlined a major ca"
+    },
+    {
+     "title": "Walmart's Sam's Club adds a deal Costco can't copy",
+     "publisher": "TheStreet",
+     "url": "https://www.thestreet.com/retail/walmarts-sams-club-bundled-membership-made-a-change-costco-cant-copy",
+     "published": "2026-11-22T15:37:00Z",
+     "summary": "Nearly 70% of Walmart shoppers haven\u2019t set foot in a Sam\u2019s Club in a year, and Walmart just told investors that is changing."
+    },
+    {
+     "title": "Stanley Druckenmiller and 16 Other Big Funds Bought Palantir Last Quarter, While 6 Sold. Who\u2019s Right?",
+     "publisher": "TIKR",
+     "url": "https://www.tikr.com/blog/stanley-druckenmiller-and-16-other-big-funds-bought-palantir-last-quarter-while-6-sold-whos-right?ref=yahoofinance&tlnk=yf-261122-8gjfqxv4",
+     "published": "2026-11-22T11:06:38Z",
+     "summary": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 17 bought Palantir, Stanley Druckenmiller\u2019s family office among them, and 6 sold."
+    },
+    {
+     "title": "TD Cowen Raises Its Walmart Target to $147. Is It Still Too Low?",
+     "publisher": "TIKR",
+     "url": "https://www.tikr.com/blog/td-cowen-raises-its-walmart-target-to-147-is-it-still-too-low?ref=yahoofinance&tlnk=yf-261122-gr23fpjr",
+     "published": "2026-11-22T10:26:03Z",
+     "summary": "Key TakeawaysTD Cowen raised its Walmart price target to $147 from $125 and kept its Buy rating after a beat-and-raise quarter. The firm expects fast e-commerce growth to lift margins, and at least eight other firms raised targets the same day."
+    }
+   ],
+   "risk_flags": [
+    "Earnings on 2026-12-10: expect a big move either way",
+    "Heavy social hype: crowded trades can reverse hard"
+   ]
+  },
+  {
+   "ticker": "BMBL",
+   "ticker_spoken": "B-M-B-L",
+   "slot": "sleeper",
+   "weeks_on_list": 1,
+   "name": "Bumble Inc.",
+   "sector": "Communication Services",
+   "industry": "Internet Content & Information",
+   "market_cap": 924502208,
+   "business_summary": "Bumble Inc. provides online dating and social networking applications in North America, Europe, internationally. It owns and operates websites and applications that offers subscription and in-app purchases of products. The company operates apps, including Bumble, a dating app built with women at the center; Badoo, the web and mobile free-to-use dating app; Bumble BFF, a friendship and community app that combines one-to-one matching with group discovery and participation. The company was incorporated in 2020 in and is headquartered in Austin, Texas.",
+   "reasons": [
+    "Strong setup with low attention: lighter trading volume and little social chatter",
+    "Relative strength rating 98 (beating 98% of the market)",
+    "Passes 8/8 stage-2 uptrend checks",
+    "Trading 1.2% below its 52-week high"
+   ],
+   "scores": {
+    "composite": 0.773,
+    "composite_rank": 35,
+    "rs_rating": 98.0,
+    "sleeper": 0.975,
+    "social": 0.0
+   },
+   "performance": {
+    "ret_1w": -0.003,
+    "ret_1m": 0.005,
+    "ret_3m": 1.095,
+    "ret_6m": 0.92
+   },
+   "technicals": {
+    "trend_checks_passed": 8,
+    "rsi": 80.7,
+    "volume_vs_50d_avg": 0.37,
+    "up_down_volume_ratio": 3.76,
+    "pct_below_52w_high": 0.012,
+    "rs_line_at_high": true,
+    "recent_breakout": false
+   },
+   "levels": {
+    "price": 5.97,
+    "pivot_20d_high": 6.04,
+    "above_pivot": false,
+    "sma20": 5.98,
+    "sma50": 4.62,
+    "high_52w": 6.04,
+    "support_10d_low": 5.97,
+    "invalidation": 5.91,
+    "avg_daily_range_pct": 0.004
+   },
+   "social": null,
+   "next_earnings": null,
+   "news": [
+    {
+     "title": "The best apps to make new friends right now",
+     "publisher": "TechCrunch",
+     "url": "https://www.yahoo.com/lifestyle/articles/people-look-ways-friends-apps-180203645.html",
+     "published": "2026-11-22T21:00:00Z",
+     "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft."
+    },
+    {
+     "title": "Bumble cozies up to Alix Earle in attempt to convert Gen Zers",
+     "publisher": "Marketing Dive",
+     "url": "https://www.marketingdive.com/news/bumble-cozies-up-to-alix-earle-in-attempt-to-convert-gen-zers/875123/",
+     "published": "2026-11-19T16:37:37Z",
+     "summary": "The campaign comes just weeks after the app\u2019s parent company announced it is to be acquired for $1.3 billion following revenue and user declines."
+    },
+    {
+     "title": "Bumble (BMBL) Stock Gets Fair Value Trim After Take Private Deal Focus",
+     "publisher": "Simply Wall St.",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/bumble-bmbl-stock-gets-fair-071157338.html",
+     "published": "2026-11-17T07:11:57Z",
+     "summary": "Bumble\u2019s updated fair value estimate has shifted from about US$4.18 to US$3.84 per share, which recalibrates how analysts frame the potential equity value as the agreed US$6.05 cash offer sits in the background. Recent commentary links this gap to questions around deal certainty, competitive pressur"
+    },
+    {
+     "title": "What Bumble Buyers Were Betting On",
+     "publisher": "Simply Wall St.",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/bumble-buyers-were-betting-140739301.html",
+     "published": "2026-11-15T14:07:39Z",
+     "summary": "Bumble investors faced clashing narratives at the outset, from one analysis arguing safety features and AI tools could support engagement to another warning the app had lost its edge in a tiring online dating market. For Bumble shareholders, the return over the past year was 66.4%, including dividen"
+    }
+   ],
+   "risk_flags": [
+    "Overbought: RSI 81",
+    "Small cap (about $925 million): moves fast both directions",
+    "Low-priced stock: bigger percentage swings"
+   ]
+  }
+ ],
+ "disclaimer": "I'm not a financial advisor and this isn't financial advice. Always do your own DD before putting money into any stock."
+}
